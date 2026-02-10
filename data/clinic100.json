@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 1,
+        "Medical_Record": {
+            "Demographics": "62-year-old woman; retired school teacher",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Fatigue, flank pain, fever; persistent duration",
+            "History_of_Present_Illness": "Fatigue, flank pain, fever after antibiotic treatment for acute sinusitis; rash developed during amoxicillin, resolved after switch to cephalexin; symptoms persisted despite resolution of sinusitis",
+            "Background": "Essential hypertension, hyperlipidemia, gastric reflux; stable regimen of lisinopril, simvastatin, omeprazole; non-smoker; social alcohol use; no nausea, vomiting, dysuria, or urine color change; resolved skin rash"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.9°C; BP 145/90 mmHg; HR 75 bpm; RR 16 breaths/min; no current rash or lesions; regular heart rate; no murmurs; mild flank tenderness; no rebound or guarding; mild renal angle tenderness",
+            "Investigations": "Elevated urea; elevated creatinine; urinalysis shows leukocyturia; bacterial culture negative; cytospin stained with Hansel’s solution: 3% binucleated cells with eosinophilic, granular cytoplasm"
+        },
+        "Diagnosis": "Acute interstitial nephritis",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 2,
+        "Medical_Record": {
+            "Demographics": "23-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Medial knee pain; 1-day duration",
+            "History_of_Present_Illness": "Pain onset after increased physical activity; steady worsening; associated with repetitive pivoting and twisting during volleyball; no fever, swelling, discoloration, or previous similar complaints",
+            "Background": "Polycystic ovarian syndrome managed with oral contraceptive pills; recent weight loss attempt; recently joined volleyball team; obese; facial hirsutism; no recent injuries"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.9°C; BP 137/88 mmHg; HR 90/min; RR 12/min; O2 sat 98% room air; obese; facial hirsutism; no visible knee abnormalities; tenderness over medial tibia just inferior to patella; full range of motion; negative ligamentous instability tests",
+            "Investigations": "Knee X-ray: no fracture, dislocation, or joint effusion"
+        },
+        "Diagnosis": "Pes anserine bursitis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 3,
+        "Medical_Record": {
+            "Demographics": "53-year-old male; high school teacher",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Episode of loss of consciousness; 1-hour duration",
+            "History_of_Present_Illness": "Loss of consciousness immediately after micturition; found unconscious on bathroom floor; regained consciousness after 30 seconds; no confusion or amnesia; no urinary incontinence; no bite marks or injuries",
+            "Background": "No significant past medical or surgical history; not on regular medications; non-smoker; social alcohol use; no recent travel or sick contacts"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.8°C; blood pressure 130/85 mmHg; heart rate 72 bpm; respiratory rate 14 breaths/min; normal heart sounds; clear lungs; alert and oriented; intact cranial nerves; normal strength and tone; no sensory deficits; symmetrical reflexes; no ataxia or dysmetria",
+            "Investigations": "Blood glucose, creatinine, and electrolytes within normal limits; electrocardiogram shows no abnormalities"
+        },
+        "Diagnosis": "Situational syncope",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 4,
+        "Medical_Record": {
+            "Demographics": "24-year-old woman",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Uterine tenderness; postpartum period",
+            "History_of_Present_Illness": "Prolonged labor; increased frequency of urination; uterine tenderness; decreased bowel sounds; fever",
+            "Background": "Uncomplicated pregnancy; vaginal delivery of 11 pound boy at 40 weeks; no significant past medical or surgical history; does not smoke, drink alcohol, or use illicit drugs; lives with partner"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 38.9°C; BP 118/78 mmHg; HR 111/min; RR 17/min; O2 sat 98% room air; non-distended abdomen; decreased bowel sounds; tympanic percussion; tender uterus; minor bibasilar crackles; no respiratory distress",
+            "Investigations": ""
+        },
+        "Diagnosis": "Endometritis",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 5,
+        "Medical_Record": {
+            "Demographics": "7-year-old boy",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Recurrent episodes of facial grimacing and staring; 1-month duration",
+            "History_of_Present_Illness": "Episodes last 3–4 minutes; nonresponsive during episodes; no recollection after episodes; muddy taste before onset; lethargy and confusion post-episode; witnessed hand gestures and staring on awakening",
+            "Background": "No significant previous medical history; no prior seizures; no neurological evaluations; enrolled in second grade; lives with parents and one sibling; no medication use; no toxin exposure; denies fever, headache, visual or auditory disturbances, weakness, or other systemic symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.8°C; blood pressure 95/60 mmHg; heart rate 82 bpm; respiratory rate 18 breaths/min; alert and oriented for age; no acute distress; cranial nerves intact; normal tone, strength, and bulk in all extremities; intact sensation; no dysmetria; reflexes 2+ throughout; no Babinski sign",
+            "Investigations": "EEG shows interictal spikes and sharp waves localized to temporal lobes, more prominent on right; MRI brain shows no mass lesions, infarctions, or structural abnormalities; CBC: WBC 6,200/μL, hemoglobin 13.2 g/dL, platelets 274,000/μL; serum electrolytes: sodium 140 mmol/L, potassium 4.2 mmol/L, calcium 9.4 mg/dL, magnesium 2.0 mg/dL"
+        },
+        "Diagnosis": "Complex partial seizure",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": "CLN8 disease"
+        }
+    },
+    {
+        "id": 6,
+        "Medical_Record": {
+            "Demographics": "25-year-old female; elementary school teacher",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Severe right groin pain; immediate onset after rear-end collision",
+            "History_of_Present_Illness": "Immediate right groin pain after rear-end collision; pain in both knees; right leg shortened, flexed, adducted, internally rotated",
+            "Background": "No significant past medical history; non-smoker; social alcohol use; no head, abdominal, or chest pain"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37°C; BP 132/79 mm Hg; HR 116 bpm; RR 19 breaths/min; right leg shortened, flexed, adducted, internally rotated; no visible wounds; tenderness over right groin and both knee caps; limited right leg range of motion; normal left leg range of motion",
+            "Investigations": "Pelvic X-ray: no fractures in pelvic ring or femoral neck; alignment suggests posterior dislocation of right hip"
+        },
+        "Diagnosis": "Posterior hip dislocation",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 7,
+        "Medical_Record": {
+            "Demographics": "50-year-old male; traffic warden",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Progressively increasing swelling on nape of neck; 2-month duration",
+            "History_of_Present_Illness": "Firm, mobile, painless nodule; no fever; no discharge; no pain; no other complaints",
+            "Background": "History of colon cancer (colectomy at age 43); type 2 diabetes mellitus; hypertension; osteoarthritis of left knee; medications include insulin glargine, metformin, enalapril, naproxen; frequently plays golf"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.3°C; BP 130/86 mm Hg; HR 88/min; normal respiratory rate; 2.5-cm firm, mobile, painless nodule on nape of neck; skin over nodule cannot be pinched; no lymphadenopathy; no thyromegaly; clear lungs bilaterally; no abnormalities on remainder of examination",
+            "Investigations": "Neck ultrasound shows well-circumscribed lesion in subcutaneous tissue suggestive of cystic nature; CBC normal; serum glucose elevated; creatinine normal; liver enzymes normal"
+        },
+        "Diagnosis": "Epidermoid cyst",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 8,
+        "Medical_Record": {
+            "Demographics": "32-year-old female; elementary school teacher",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Vaginal bleeding and severe abdominal pain; 1-hour duration",
+            "History_of_Present_Illness": "Vaginal bleeding onset 1 hour ago; severe abdominal pain; contractions prior to bleeding, ceased after bleeding began; unsure about fetal movement since symptom onset",
+            "Background": "Gravida 2, para 1; previous cesarean section for nonreassuring fetal heart rate; no other significant past medical history; non-smoker; occasional alcohol consumption; denies recent abdominal trauma or urinary symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Pulse 110/min; blood pressure 90/60 mm Hg; respiratory rate 17/min; mild abdominal distension; decreased bowel sounds; tympanic percussion; diffuse abdominal tenderness without rebound or guarding; no contractions palpated; recurrent variable decelerations on fetal heart rate monitoring",
+            "Investigations": "Hemoglobin 10.2 g/dL (decreased); platelets 200,000/μL; PT 11 seconds; aPTT 30 seconds; ultrasound shows disruption in uterine wall continuity near previous cesarean scar with hemoperitoneum"
+        },
+        "Diagnosis": "Uterine rupture",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 9,
+        "Medical_Record": {
+            "Demographics": "26-year-old woman",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Sharp lower back pain radiating to leg and foot; sudden onset several hours ago",
+            "History_of_Present_Illness": "Pain began during gym exercise; radiates down side of leg into foot; worsens with movement; no prior similar episodes",
+            "Background": "No significant past medical history; non-smoker; rarely drinks alcohol; regular gym-goer; denies fever, weight loss, changes in bowel or bladder function"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.2°C; BP 120/70 mmHg; HR 95 bpm; RR 16 breaths/min; normal spine curvature; no visible swelling; tenderness localized to lower lumbar spine; limited range of motion due to pain; positive straight leg raise with radiating pain; sensation intact; no significant motor weakness; normal ankle and knee reflexes",
+            "Investigations": "MRI lumbar spine: L5-S1 disc herniation impinging on adjacent nerve root"
+        },
+        "Diagnosis": "Disc herniation",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 10,
+        "Medical_Record": {
+            "Demographics": "40-year-old female; high school teacher",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Shortness of breath; 1-month duration",
+            "History_of_Present_Illness": "Progressive shortness of breath; increased abdominal girth; fatigue; no significant weight change",
+            "Background": "No significant past medical history; no previous surgeries; non-smoker; does not consume alcohol regularly; no medications; no allergies; nulliparous"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 125/80 mmHg; HR 85 bpm; RR 20 breaths/min; mild use of accessory muscles; dullness on right lower lung fields; decreased breath sounds right basal areas; visible abdominal distension; shifting dullness; fluid wave positive; palpable right pelvic mass",
+            "Investigations": "WBC 8,500/μL; Hemoglobin 12.8 g/dL; Platelets 275,000/μL; chest X-ray shows right-sided pleural effusion; abdominal ultrasound shows large right ovarian mass and significant ascites; CA-125 normal"
+        },
+        "Diagnosis": "Meigs syndrome",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": true,
+            "orphanet_name": "Meigs syndrome"
+        }
+    },
+    {
+        "id": 11,
+        "Medical_Record": {
+            "Demographics": "55-year-old woman",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Chronic left shoulder pain; 2-month duration",
+            "History_of_Present_Illness": "Insidious onset; pain worsens with extreme ranges of motion and activity; sleep disruption; difficulty with brushing hair and dressing; no history of trauma; no neck pain, arm/hand weakness, numbness, or paresthesias",
+            "Background": "Type 2 diabetes mellitus; treated with metformin and glipizide; no relevant social history; no additional allergies or medications provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.8°C; Blood pressure 130/85 mmHg; Heart rate 82 bpm; Respiratory rate 14 breaths/min; No visible swelling or deformity; Tenderness around shoulder joint; No warmth or crepitus; Forward flexion 75° with pain; Abduction 75° with pain; External rotation 45° with pain; Internal rotation 15° with significant pain; Normal rotator cuff strength",
+            "Investigations": "Shoulder radiographs (AP, Scapular Y, Axillary) normal"
+        },
+        "Diagnosis": "Adhesive capsulitis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 12,
+        "Medical_Record": {
+            "Demographics": "17-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Left wrist pain; 3-day duration",
+            "History_of_Present_Illness": "Worsening left wrist pain; onset 3 days ago; chills; malaise; self-resolving left knee pain last week; no trauma",
+            "Background": "No significant past medical history; sexually active with one female partner using diaphragm; recent camping trip in Minnesota; no drug allergies; no medications"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 37.7°C; Blood pressure 120/80 mmHg; Heart rate 80 bpm; Respiratory rate 14 breaths/min; painless violaceous vesiculopustular lesions on dorsum of both wrists and hands; two lesions on left palm; swelling, erythema, severe tenderness to palpation and passive movement of left wrist",
+            "Investigations": "WBC 15,000/μL (elevated); Hemoglobin 14 g/dL; Platelets 300,000/μL; joint aspiration left wrist WBC >50,000/μL (markedly elevated), Gram-negative diplococci seen; STI screen positive for gonorrhea, negative for chlamydia and HIV; blood cultures pending"
+        },
+        "Diagnosis": "Disseminated Gonococcal Infection",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 13,
+        "Medical_Record": {
+            "Demographics": "20-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Agitation; 24-hour duration",
+            "History_of_Present_Illness": "Agitation; confusion; yellowish skin and eyes for 1 week; psychomotor agitation; not oriented to time and space; epistaxis",
+            "Background": "No significant past medical history; occasional cocaine and ecstasy use; social alcohol consumption (about 20 g on weekends); high-risk sexual behaviors without protection"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.0°C; BP 110/60 mm Hg; HR 94/min; RR 13/min; jaundice on skin and mucous membranes; epistaxis; not oriented to time and space; asterixis",
+            "Investigations": "Hemoglobin 16.3 g/dL; Hematocrit 47%; Leukocyte count 9,750/mm3; Neutrophils 58%; Bands 2%; Eosinophils 1%; Basophils 0%; Lymphocytes 24%; Monocytes 2%; Platelet count 365,000/mm3; Bilirubin 25 mg/dL (elevated); AST 600 IU/L (elevated); ALT 650 IU/L (elevated); TP activity < 40% (reduced); INR 1.5 (elevated)"
+        },
+        "Diagnosis": "Fulminant hepatic failure",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": true,
+            "orphanet_name": "Acute liver failure"
+        }
+    },
+    {
+        "id": 14,
+        "Medical_Record": {
+            "Demographics": "5-year-old boy",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "High blood pressure in right upper extremity; duration not specified",
+            "History_of_Present_Illness": "No symptoms reported; well-child visit; no concerns; meeting developmental milestones",
+            "Background": "No significant past medical history; born full term via spontaneous vaginal delivery; up to date on vaccines; no medications; no family history of cardiovascular disease; attends kindergarten; lives with parents and one sibling; no tobacco smoke exposure"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 150/80 mm Hg right upper extremity; heart rate normal for age; respiratory rate normal for age; 2+ radial pulses; trace femoral pulses; normal S1 and S2; 2/6 long systolic murmur with systolic ejection click over left sternal border and back; point of maximal impact normal location",
+            "Investigations": "Echocardiogram shows narrowing of aorta distal to left subclavian artery with gradient; left ventricular function normal; blood pressure differential with higher values in upper extremities compared to lower extremities; chest X-ray shows normal heart size; rib notching not observed"
+        },
+        "Diagnosis": "Coarctation of the aorta",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 15,
+        "Medical_Record": {
+            "Demographics": "11-year-old girl",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Mildly pruritic rash on trunk and extremities; 2-day duration",
+            "History_of_Present_Illness": "Low-grade fever, rhinorrhea, headache one week ago; facial rash appeared 4 days later, sparing perioral area; denies respiratory distress, joint pains, changes in bowel or urinary habits",
+            "Background": "No significant past medical history; attends local school; lives with parents and one younger sibling; no recent travel history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.4°C; BP 100/70 mmHg; HR 80 bpm; RR 18 breaths/min; lacy, reticular rash on trunk and extremities; facial rash sparing perioral area; rash slightly raised, no significant warmth or tenderness",
+            "Investigations": "CBC: WBC normal, hemoglobin normal, platelets slightly elevated; throat culture negative for Group A Streptococcus"
+        },
+        "Diagnosis": "Erythema Infectiosum",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 16,
+        "Medical_Record": {
+            "Demographics": "24-year-old male; engineer",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Severe pain and swelling in left knee; 2-month duration",
+            "History_of_Present_Illness": "Pain intensifying over 2 months; painful awakenings during night; no relief with ibuprofen",
+            "Background": "No significant past medical history; non-smoker; drinks alcohol socially; no family history of significant illnesses; no drug allergies; denies recent fevers, weight loss, trauma to knee, or previous similar episodes"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 125/80 mmHg; HR 72 bpm; RR 14 breaths/min; mild swelling around left knee; tenderness on palpation; no warmth; limited range of motion due to pain; McMurray, Lachman, anterior and posterior drawer tests negative",
+            "Investigations": "X-ray shows lytic lesion in distal femur near knee joint with thin rim of bone and 'soap bubble' appearance; MRI shows lesion in distal femur with clear demarcation and non-invasive characteristics; CBC within normal limits; ESR slightly elevated; CRP within normal limits"
+        },
+        "Diagnosis": "Osteoclastoma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 17,
+        "Medical_Record": {
+            "Demographics": "54-year-old male; bank clerk",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Progressive difficulty walking; 3-month duration",
+            "History_of_Present_Illness": "Gradual worsening of walking; wheelchair assistance required for 1 month; urinary incontinence for 1 year; recent onset slurred speech; rigidity in limbs; mild hand tremor; orthostatic hypotension",
+            "Background": "Unremarkable past medical history; no known chronic diseases; occasionally consumes alcohol; non-smoker; denies recent infections, fever, weight loss, vision changes, or seizures"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.0°C; BP sitting 130/80 mmHg, standing 110/65 mmHg; HR 70 bpm; RR 16 breaths/min; oriented to person and place, not time; speech slurred; cranial nerves grossly intact; normal strength with rigidity in extremities; unable to perform repetitive forearm movements; mild tremor in right hand; no sensory deficits; normal reflexes; gait unable to assess due to inability to walk unassisted",
+            "Investigations": "CBC: WBC 7,000/μL, hemoglobin 14 g/dL, platelets 300,000/μL; urinalysis: clear, WBC 0-5/HPF, RBC 0-2/HPF, nitrites negative, leukocyte esterase negative; MRI: multiple areas of atrophy and signal changes in brainstem, cerebellum, basal ganglia; autonomic testing: marked orthostatic hypotension without compensatory tachycardia"
+        },
+        "Diagnosis": "Multiple system atrophy",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 18,
+        "Medical_Record": {
+            "Demographics": "30-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Discomfort during sexual activity; 15-month duration",
+            "History_of_Present_Illness": "Discomfort and pelvic floor muscle tension during attempted vaginal penetration; difficulty conceiving for over 15 months; sexually active at least twice a week; husband occasionally has erectile dysfunction",
+            "Background": "Body dysmorphic disorder diagnosed three years ago; no family history of serious illness; non-smoker; does not drink alcohol; no medications"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.8°C; blood pressure 110/70 mmHg; heart rate 75 bpm; respiratory rate 14 breaths/min; normal appearing vulva without redness; no vaginal discharge; speculum examination aborted due to pelvic floor muscle tension and discomfort",
+            "Investigations": "WBC 6,000/μL; hemoglobin 13.8 g/dL; platelets 280,000/μL; FSH, LH, estradiol, progesterone, testosterone all normal; pelvic ultrasound shows normal uterus and adnexa with no evidence of fibroids or ovarian cysts"
+        },
+        "Diagnosis": "Genitopelvic pain disorder",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 19,
+        "Medical_Record": {
+            "Demographics": "74-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Severe abdominal pain; 16-hour duration",
+            "History_of_Present_Illness": "Sudden onset periumbilical pain; several episodes of bloody loose bowel movements; no vomiting",
+            "Background": "Diabetes mellitus (35 years); hypertension (20 years); history of acute myocardial infarction; smokes 15–20 cigarettes per day (40 years)"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.9°C; blood pressure 95/65 mm Hg; heart rate 95 bpm; mild periumbilical tenderness; bruit over epigastric area; normal inspection, percussion",
+            "Investigations": "CT angiography shows reduced blood flow to mesenteric arteries"
+        },
+        "Diagnosis": "Acute Mesenteric Ischemia",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 20,
+        "Medical_Record": {
+            "Demographics": "23-year-old female; college student studying graphic design",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Pruritic rash on bilateral upper extremities; 5-month duration",
+            "History_of_Present_Illness": "Persistent pruritic rash; occasional worsening; no complete resolution; no recent illnesses; no new medications; no known new substance exposures",
+            "Background": "No history of serious illness; no known drug allergies; takes no medications; non-smoker; drinks alcohol socially; no recreational drug use; denies recent fever, joint pains, weight loss, or changes in bowel habits"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 37.0°C; blood pressure 110/70 mmHg; heart rate 76 bpm; respiratory rate 14 breaths/min; bilateral erythematous, scaly, and crusted lesions localized to upper extremities; no warmth or induration; lesions slightly raised and rough to touch",
+            "Investigations": "Skin biopsy: intraepidermal accumulation of edematous fluid; widening of intercellular spaces between keratinocytes"
+        },
+        "Diagnosis": "Eczematous dermatitis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 21,
+        "Medical_Record": {
+            "Demographics": "69-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Chronic pain in left great toe, hips, and knees; several years duration",
+            "History_of_Present_Illness": "Pain worsens with activity; improves with rest; progressive worsening over years",
+            "Background": "Obesity; type II diabetes mellitus; smoking history; hypertension; drinks ten beers per day; recent travel to Bangkok with unprotected sex; no other systemic symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 135/85 mmHg; HR 78 bpm; RR 14 breaths/min; pain on palpation of left great toe, hips, and knees; no swelling or redness; crepitus in hip during flexion and extension",
+            "Investigations": "WBC 7,000/μL; hemoglobin 14 g/dL; platelets 300,000/μL; hip and knee X-rays show joint space narrowing with osteophyte formation; uric acid 6 mg/dL; HIV negative; syphilis negative"
+        },
+        "Diagnosis": "Osteoarthritis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 22,
+        "Medical_Record": {
+            "Demographics": "17-year-old male; high school student",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Persistent bleeding from gums after wisdom tooth extraction; ongoing",
+            "History_of_Present_Illness": "Bleeding minimally responsive to gauze; history of easy bruising; family history of bleeding problems and joint swelling in uncle",
+            "Background": "Previously healthy; no medications; no smoking, alcohol, or drug use; no drug allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37°C; BP 108/74 mm Hg; HR 90/min; normal respiratory rate; persistent oozing from extraction site; no other oral lesions; several old bruises on extremities; no active joint swelling",
+            "Investigations": "Hematocrit 35%; leukocyte count 8,500/mm3; platelet count 160,000/mm3; prothrombin time 15 sec; partial thromboplastin time 60 sec (prolonged); bleeding time 6 min; fibrin split products negative; peripheral blood smear normal-sized platelets; urea nitrogen 20 mg/dL; creatinine 1.0 mg/dL; total bilirubin 1.0 mg/dL; direct bilirubin 0.5 mg/dL; LDH 90 U/L"
+        },
+        "Diagnosis": "Hemophilia",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 23,
+        "Medical_Record": {
+            "Demographics": "16-year-old female; high school student",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Delayed menarche; lifelong duration",
+            "History_of_Present_Illness": "Partial labial fusion and clitoromegaly at birth; severe acne; history of fractures following minor trauma; no recent illnesses; no appetite or weight change",
+            "Background": "Currently taking oral isotretinoin and oral contraceptive; no significant tobacco, alcohol, or drug use; maternal history of abnormal chin hair growth during pregnancy"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Height at 97th percentile; weight at 50th percentile; numerous inflamed pustules on face and upper back; breast development at Tanner stage I; pelvic examination refused",
+            "Investigations": "Pelvic ultrasound shows ovaries with multiple cysts and normal uterus"
+        },
+        "Diagnosis": "Aromatase deficiency",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 24,
+        "Medical_Record": {
+            "Demographics": "25-year-old male; health food store employee",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Belief in telepathic communication with animals; 8-month duration",
+            "History_of_Present_Illness": "Reports inability to communicate telepathically with animals; attributes to weather conditions; ingestion of assorted Peruvian herbs without improvement; denies medication use; no other physical complaints",
+            "Background": "No significant past medical history; lives alone; dresses in burlap clothing; attempts telepathic communication during interview; no medication use; no allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Healthy appearing; fully oriented; dressed in burlap clothes",
+            "Investigations": "CBC normal; thyroid function tests normal; urinalysis normal"
+        },
+        "Diagnosis": "Schizotypal personality disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 25,
+        "Medical_Record": {
+            "Demographics": "9-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Behavioral issues at school; increasing duration",
+            "History_of_Present_Illness": "Disruptive in class; refusal to follow instructions; reluctance to participate in directed school activities; active in recess; positive peer relationships; helpful and cooperative at home",
+            "Background": "No significant past medical or psychiatric history; lives with mother, father, and younger sister; performs well academically when engaged; no known substance use in family; denies depression or anxiety; no history of bullying or feeling unsafe"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 100/65 mmHg; HR 90 bpm; RR 16 breaths/min; well-nourished; well-groomed; no acute distress; appropriate mood and affect; no thought disorders; oppositional behaviors during interview",
+            "Investigations": "Parent and teacher behavioral checklists indicate oppositional behaviors without conduct problems; psychological evaluation shows no anxiety, depression, or ADHD"
+        },
+        "Diagnosis": "Oppositional Defiant Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 26,
+        "Medical_Record": {
+            "Demographics": "24-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Aggressive behavior and irritability; acute onset",
+            "History_of_Present_Illness": "Increasingly aggressive and unusual behavior; extreme irritability; yelling; breaking objects; prolonged physical activity (several hours at gym); rapid speech; aggressiveness during exam",
+            "Background": "No significant past medical history; stress from upcoming final exams; no fever, vomiting, diarrhea, dysuria, or flank pain reported; no additional social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 38.3°C; BP 137/98 mmHg; HR 120/min; RR 23/min; O2 sat 99% on room air; irritable appearance; notable diaphoresis; tachycardia; bilateral clear breath sounds; notably dilated pupils; rapid speech; aggressive mental status",
+            "Investigations": "Toxicology screen: amphetamines positive, cocaine negative, opiates negative, benzodiazepines negative, cannabinoids negative; CBC: normal; chemistry panel: normal"
+        },
+        "Diagnosis": "Lisdexamfetamine intoxication",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 27,
+        "Medical_Record": {
+            "Demographics": "17-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Severe abdominal pain and cramping; 5-day duration",
+            "History_of_Present_Illness": "Nausea; vomiting; pain with urination; burning pain during intercourse 3 days ago; sexually active with one male partner; inconsistent condom use",
+            "Background": "Menarche at 13 years; regular menses every 28 days, lasting 5 days; no significant past medical or surgical history; currently in a relationship with one male partner; inconsistent condom use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 38.5°C; BP 110/70 mmHg; HR 83 bpm; normal respiratory rate; generalized abdominal tenderness, more pronounced in lower quadrants; normal inspection, auscultation, percussion; cervical motion tenderness present; purulent cervical discharge",
+            "Investigations": "Leukocyte count 15,000/mm3 (elevated); ESR 100 mm/h (elevated); pelvic ultrasound not provided; pregnancy test not mentioned"
+        },
+        "Diagnosis": "Pelvic inflammatory disease",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 28,
+        "Medical_Record": {
+            "Demographics": "23-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Persistent sadness; 4-month duration",
+            "History_of_Present_Illness": "Persistent sadness; decreased sleep; decreased appetite; difficulty concentrating; impaired functioning at work; feelings of emptiness; auditory hallucinations with derogatory content; hallucinations began 7 months ago with mocking voices",
+            "Background": "No significant past medical history; denies alcohol or illicit drug use; no other relevant social history; no drug allergies; no other systemic symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.8°C; blood pressure 115/75 mmHg; heart rate 72 bpm; respiratory rate 14 breaths/min; dressed appropriately with minimal self-care; withdrawn; slow, monotonous speech with occasional stopping mid-sentence; constricted affect; mood described as 'empty inside'; linear thought process impaired by auditory hallucinations; occasionally directs attention towards ceiling; appears oriented; insight and judgment likely impaired",
+            "Investigations": "Complete blood count within normal limits; thyroid function tests within normal limits; blood alcohol level not detected; urine toxicology screen negative; brain MRI shows no acute abnormalities"
+        },
+        "Diagnosis": "Schizoaffective disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 29,
+        "Medical_Record": {
+            "Demographics": "47-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Intense itching on right thigh; several days duration",
+            "History_of_Present_Illness": "Recent appearance of red bumps on right thigh; itching also present on left leg and right forearm; excoriations over affected regions",
+            "Background": "Hypertension, diabetes type 2, hyperlipidemia; medications: enalapril, metformin, atorvastatin; non-smoker; does not consume alcohol; recent travel to Miami for business conference"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 37°C; blood pressure 130/85 mmHg; heart rate 72 bpm; respiratory rate 14 breaths/min; linear line with 3 red papules along medial right thigh; small rows of bumps on left leg and right forearm; excoriations in regions with red bumps",
+            "Investigations": "WBC 7,000/μL; hemoglobin 14 g/dL; platelets 300,000/μL; skin scraping: no evidence of mites or eggs"
+        },
+        "Diagnosis": "Bed bug bite",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 30,
+        "Medical_Record": {
+            "Demographics": "34-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Right thumb and wrist pain radiating to elbow; 3-month duration",
+            "History_of_Present_Illness": "Pain worsens with holding infant; improves with ice pack; history of fall on right outstretched hand six months ago; mother with chronic joint pain treated with methotrexate; ibuprofen as needed",
+            "Background": "No significant other medical history; non-smoker; does not consume alcohol regularly; mother of infant; no fever, weight loss, or other joint problems"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.7°C; BP 117/76 mmHg; HR 82 bpm; RR 14 breaths/min; swelling over radial styloid without redness; tenderness over radial styloid; no crepitus; positive Finkelstein's test; normal finger joint range of motion; no swelling, redness, or tenderness in other joints",
+            "Investigations": ""
+        },
+        "Diagnosis": "De Quervain tenosynovitis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 31,
+        "Medical_Record": {
+            "Demographics": "55-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Inappropriate behavior; 6-month duration",
+            "History_of_Present_Illness": "Inappropriate comments; attempts to kiss strangers; disinterest in family; craving for chocolate pudding and potato chips; 10 kg weight gain; unkempt appearance",
+            "Background": "No significant medical history; no detailed social history; recent inappropriate physical contact with strangers"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Vital signs within normal limits; apathy; blunted affect; avoids answering questions; Mini-Mental State Examination score 28/30; physical neurological examination unremarkable",
+            "Investigations": "Complete blood count, serum glucose, creatinine, electrolytes within reference range"
+        },
+        "Diagnosis": "Frontotemporal Dementia",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 32,
+        "Medical_Record": {
+            "Demographics": "65-year-old woman; retired school teacher",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Intermittent postmenopausal vaginal bleeding; 2-month duration",
+            "History_of_Present_Illness": "Intermittent vaginal bleeding; no recent weight loss; no fever; no changes in bladder or bowel habits; no previous similar symptoms",
+            "Background": "No significant past medical history; non-smoker; does not consume alcohol; no regular medications; no serious illness"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 135/85 mmHg; HR 72 bpm; RR 14 breaths/min; normal external genitalia; no lesions or masses; vaginal atrophy; no active bleeding; palpable left adnexal mass; non-tender; uterus non-enlarged",
+            "Investigations": "Pelvic ultrasound shows thickened endometrial stripe and left adnexal mass; increased Inhibin B; endometrial biopsy shows well-differentiated adenocarcinoma"
+        },
+        "Diagnosis": "Granulosa cell tumor",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 33,
+        "Medical_Record": {
+            "Demographics": "59-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Sudden-onset sensation of room spinning; lasted 3 minutes",
+            "History_of_Present_Illness": "Vertigo started when going to bed; several episodes of nausea and vomiting; no prior similar episodes; currently at baseline",
+            "Background": "History of eczema; otherwise healthy; no significant social history; denies headaches, hearing loss, tinnitus, loss of consciousness, neurological deficits"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.5°C; BP 134/85 mmHg; HR 85 bpm; RR 13 breaths/min; O2 sat 98% on room air; healthy appearance; normal gait; physiologic nystagmus with severe symptoms and notable nystagmus when head turned to left and laid back; unremarkable cranial nerve exam",
+            "Investigations": "Head imaging normal; no evidence of stroke or masses; audiometry within normal limits for age; Dix-Hallpike manoeuvre positive, inducing nystagmus and reproducing vertigo when head turned to left and laid back"
+        },
+        "Diagnosis": "Benign paroxysmal positional vertigo",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 34,
+        "Medical_Record": {
+            "Demographics": "22-year-old female; 30 weeks gestation",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Fever; sudden onset",
+            "History_of_Present_Illness": "Fever, headache, anorexia, fatigue, malaise; onset after ice cream consumption 3 days prior; no cough, shortness of breath, abdominal pain, diarrhea, or urinary symptoms",
+            "Background": "Unremarkable past medical history; currently pregnant; non-smoker; no alcohol use; no recent travel; no sick contacts; no known allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 38.5°C; blood pressure 110/70 mmHg; heart rate 88 bpm; respiratory rate 18 breaths/min; no abdominal distention apart from pregnancy; fetal heart sounds present; no uterine tenderness; fundal height appropriate; alert and oriented; appears fatigued; cranial nerves grossly intact; no motor or sensory deficits; normal deep tendon reflexes",
+            "Investigations": "Blood cultures: gram-positive rods, catalase-positive, tumbling motility; WBC 15,000/μL (elevated); hemoglobin 12.5 g/dL; platelets 200,000/μL; liver function tests within normal limits; urinalysis clear, WBC 0-5/HPF, RBC 0-2/HPF, protein negative, glucose negative"
+        },
+        "Diagnosis": "Listeriosis",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 35,
+        "Medical_Record": {
+            "Demographics": "42-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Abnormal behavior, difficulty swallowing, involuntary movements; 1-month duration for swallowing difficulty, 1-year duration for abnormal behavior",
+            "History_of_Present_Illness": "Irritability, restlessness, auditory hallucinations for 1 year; difficulty swallowing for 1 month; 2-year history of depression; forgetfulness; terminated from job 6 months ago due to performance issues",
+            "Background": "Depression for 2 years; family history of suicide (father at age 50); current smoker (1 pack/day for 20 years); past cocaine use (ceased 1 year ago); no medication or allergy information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/85 mmHg; HR 72 bpm; RR 14 breaths/min; confused; oriented to person and place only; normal cranial nerves; irregular, nonrepetitive, arrhythmic movements of neck and head; delayed return to neutral ankle position after plantar reflex",
+            "Investigations": "Brain MRI shows caudate nuclei atrophy with ex vacuo dilatation of frontal horns of lateral ventricles; genetic testing positive for huntingtin (HTT) gene mutation"
+        },
+        "Diagnosis": "Huntington disease",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 36,
+        "Medical_Record": {
+            "Demographics": "22-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Fever and altered mentation; 2-day duration",
+            "History_of_Present_Illness": "Fever without chills or rigors; confusion and disorientation; profuse sweating; generalized rigidity; able to move all limbs; normal deep tendon reflexes; bilateral downgoing plantar responses",
+            "Background": "History of tics; currently on low dose haloperidol; no headache, abdominal pain, loose stools, burning micturition, or seizures; social and occupational history not provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 39.6°C; blood pressure 126/66 mm Hg; heart rate 116/min; generalized rigidity; confusion and disorientation; able to move all limbs; normal deep tendon reflexes; bilateral downgoing plantar responses",
+            "Investigations": "WBC 14,700/mm3 (elevated); creatine kinase 5600 U/L (elevated); urine toxicology negative; brain MRI unremarkable; CSF opening pressure 22 cm H2O; CSF WBC 4 cells/mm3; CSF RBC 0 cells/mm3; CSF glucose 64 mg/dL; CSF protein 48 mg/dL; serum glucose 96 mg/dL"
+        },
+        "Diagnosis": "Neuroleptic malignant syndrome",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 37,
+        "Medical_Record": {
+            "Demographics": "8-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Difficulty sleeping with episodes of waking up frightened; 2-month duration",
+            "History_of_Present_Illness": "Episodes occur 1-2 times per week; yelling and crying during episodes; no confusion after waking; can be consoled; post-episode tiredness; recollection of bad dreams; bedtime procrastination",
+            "Background": "Met all developmental milestones; no significant medical history; attends school regularly; normal peer interactions; lives with both parents; no history of trauma or significant stress; no significant findings in other systems"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Well-looking child; appropriate for age; Temp 36.8°C; BP 100/60 mmHg; HR 82 bpm; RR 18 breaths/min; fully alert and oriented; cranial nerves II-XII intact; normal motor strength and sensory responses; normal coordination and gait",
+            "Investigations": "Sleep diary shows disturbances 1-2 times per week; polysomnography not indicated"
+        },
+        "Diagnosis": "Nightmare disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 38,
+        "Medical_Record": {
+            "Demographics": "65-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Rough, scaly plaque on left dorsal hand; unknown duration",
+            "History_of_Present_Illness": "Sandpaper-like plaque; no tenderness; no pain; annual well-check",
+            "Background": "Diabetes; hypertension; metformin; losartan; healthy diet; non-smoker; denies alcohol use; enjoys outdoor activities; no drug allergies; review of systems unremarkable except skin lesion"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/85 mmHg; HR 72 bpm; RR 14 breaths/min; rough, scaly plaque on left dorsal hand; no tenderness or pain; no other visible abnormalities",
+            "Investigations": "Skin biopsy: hyperkeratosis with parakeratosis, solar elastosis, atypical keratinocytes confined to epidermis"
+        },
+        "Diagnosis": "Actinic Keratosis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 39,
+        "Medical_Record": {
+            "Demographics": "15-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Mother reports attention issues and change in behavior; duration since starting high school",
+            "History_of_Present_Illness": "Poor academic performance; lack of communication; irritability towards mother; social withdrawal; expresses unhappiness with social situation; denies physical abuse, substance abuse, suicidal ideation",
+            "Background": "No significant past medical or psychiatric history; denies smoking cigarettes or marijuana use; disinterest in previously enjoyed social activities; negative for sleep disturbances, significant weight change, excessive worries"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.6°C; BP 110/70 mmHg; HR 72 bpm; RR 16 breaths/min; casually dressed; chewing gum; appears stated age; cooperative; irritability in context of mother; constricted affect; coherent and goal directed thought process; denies hallucinations, delusions, suicidal ideation; alert and oriented; fair insight and judgment",
+            "Investigations": "Depression screening negative; anxiety screening negative; ADHD screening negative"
+        },
+        "Diagnosis": "Normal behavior",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 40,
+        "Medical_Record": {
+            "Demographics": "51-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Persistent, forceful vomiting after alcohol consumption; acute chest pain",
+            "History_of_Present_Illness": "Forceful vomiting after heavy alcohol intake; prolonged retching; onset of choking, coughing, chest pain; inability to communicate",
+            "Background": "Recent Lyme disease; doxycycline treatment; alcohol use; found next to empty vodka bottle"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37°C; BP 90/68 mmHg; HR 107 bpm; RR 15 breaths/min; fullness at base of neck; crunching, rasping sound over chest; possible crepitus on chest and neck",
+            "Investigations": "Chest X-ray shows free mediastinal air suggesting perforation"
+        },
+        "Diagnosis": "Boerhaave syndrome",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 41,
+        "Medical_Record": {
+            "Demographics": "23-year-old male; college student",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Inability to remain still; persistent restlessness; 2-month duration",
+            "History_of_Present_Illness": "Onset after starting risperidone for schizophrenia; frequent fidgeting; repetitive crossing and uncrossing of legs; pacing; improvement in psychotic symptoms",
+            "Background": "Recently diagnosed schizophrenia; no other significant past medical history; no tobacco, alcohol, or drug use; lives with parents; no history of seizures, headaches, or previous movement disorders"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 120/80 mmHg; HR 82 bpm; RR 14 breaths/min; alert and oriented; improved psychotic symptoms; cranial nerves intact; normal tone and strength; no involuntary movements; sensory intact; normal coordination; normal gait with inability to sit still and frequent pacing",
+            "Investigations": "CBC: WBC 5,000/μL, Hemoglobin 14 g/dL, Platelets 250,000/μL; LFTs: AST 25 U/L, ALT 20 U/L, Bilirubin 1.0 mg/dL, Alkaline Phosphatase 75 U/L; Electrolytes: Sodium 140 mEq/L, Potassium 4.0 mEq/L, Chloride 100 mEq/L, Bicarbonate 24 mEq/L; Thyroid: TSH 2.5 mIU/L, Free T4 1.1 ng/dL"
+        },
+        "Diagnosis": "Akathisia",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 42,
+        "Medical_Record": {
+            "Demographics": "67-year-old male; retired teacher",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Generalized fatigue; 2-month duration",
+            "History_of_Present_Illness": "Progressively worsening fatigue; no specific triggers; denies recent infections, significant weight loss, night sweats; occasional mild shortness of breath during exertion",
+            "Background": "No significant past medical history; no known blood disorders; no family history of cancer; non-smoker; social alcohol use; lives with wife"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 135/85 mmHg; HR 82 bpm; RR 14 breaths/min; pale appearance; multiple pinpoint, red, nonblanching spots on extremities (petechiae); significant splenomegaly",
+            "Investigations": "Hemoglobin 8.3 g/dL (low); WBC 81,000 /mm3 (elevated); Platelets 35,600 /mm3 (low); peripheral blood smear shows immature cells with large, prominent nucleoli and pink, elongated, needle-shaped cytoplasmic inclusions"
+        },
+        "Diagnosis": "Acute myelogenous leukemia",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 43,
+        "Medical_Record": {
+            "Demographics": "26-year-old male; previously employed",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Bizarre and agitated behavior; 6-week duration",
+            "History_of_Present_Illness": "Delusions of persecution; believes NSA is controlling mind; social withdrawal; intermittent depressed mood over 3 months; disorganized speech; psychomotor agitation; job loss 4 weeks ago; preoccupied with device to prevent mind control",
+            "Background": "No significant medical or psychiatric history; married; no substance abuse; no drug allergies; no recent travel; no physical health issues"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 122/78 mmHg; HR 82 bpm; RR 14 breaths/min; agitated; poorly groomed; suspicious; avoids eye contact; rapid, disorganized speech; normal cranial nerves; normal motor strength and tone; intact sensation; normal reflexes; no ataxia",
+            "Investigations": "CBC: WBC 7,500/μL, Hemoglobin 14 g/dL, Platelets 230,000/μL; Chemistry: Sodium 138 mmol/L, Potassium 4.2 mmol/L, Creatinine 1.0 mg/dL, Glucose 95 mg/dL; Urinalysis: clear, WBC 0-5/HPF, RBC 0-2/HPF, nitrites negative, leukocyte esterase negative; Toxicology: alcohol negative, amphetamines negative, cannabinoids negative, cocaine negative, opiates negative"
+        },
+        "Diagnosis": "Schizophreniform Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 44,
+        "Medical_Record": {
+            "Demographics": "16-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Sudden-onset abdominal pain; 2-hour duration",
+            "History_of_Present_Illness": "Pain started while playing football; no history of similar episodes",
+            "Background": "Asthma, well-controlled on medication; unprotected sex with multiple partners; no tobacco, alcohol, or illicit drug use; denies fever, vomiting, diarrhea, dysuria, hematuria, or back pain"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.4°C; BP 120/88 mmHg; HR 117 bpm; RR 14 breaths/min; O2 sat 99% on room air; abdomen normal on inspection, non-tender; bowel sounds normal; right testicle elevated with horizontal lie; pain on elevation (negative Prehn's sign); absent cremasteric reflex on right",
+            "Investigations": "Urinalysis: clear, WBC 0-5/HPF, RBC 0-2/HPF, nitrites negative, leukocyte esterase negative; scrotal ultrasound: decreased blood flow to right testicle"
+        },
+        "Diagnosis": "Testicular torsion",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 45,
+        "Medical_Record": {
+            "Demographics": "8-year-old girl",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Low-grade fever, itchy rash; 2-day duration",
+            "History_of_Present_Illness": "Rash started in antecubital and popliteal fossae; spread to trunk and distal extremities; generalized joint pain; onset after amoxicillin for acute sinusitis",
+            "Background": "Diagnosed with acute sinusitis one week ago; no known history of adverse drug reactions; immunizations up to date; no significant social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.5°C; BP 110/70 mm Hg; HR 90/min; normal respiratory rate; multiple erythematous, annular plaques of variable sizes over entire body; central clearing in right popliteal fossa lesion; periorbital edema; generalized joint pain without swelling or redness",
+            "Investigations": "Urinalysis normal; WBC within normal limits; RBC within normal limits; protein negative; glucose negative"
+        },
+        "Diagnosis": "Serum sickness-like reaction",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 46,
+        "Medical_Record": {
+            "Demographics": "7-year-old male; second grade student",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Left knee pain; unspecified duration",
+            "History_of_Present_Illness": "Limping favoring left leg; pain localized to left knee; denies trauma; no fever; no systemic symptoms; change in play patterns",
+            "Background": "No significant past medical or surgical history; lives with parents and one younger sibling; no tobacco or toxin exposure; nutrition and developmental milestones appropriate for age; denies recent illness, rash, weight loss, change in appetite, or urinary symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 100/65 mmHg; HR 82 bpm; RR 18 breaths/min; no visible deformity, swelling, or bruising of knee or hip; tenderness on palpation of left hip; full range of motion in knee; pain with passive motion of hip; negative anterior drawer and McMurray's tests",
+            "Investigations": "X-ray left hip: flattening and fragmentation of left femoral head consistent with Legg-Calvé-Perthes disease"
+        },
+        "Diagnosis": "Legg-Calvé-Perthes disease (LCPD)",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 47,
+        "Medical_Record": {
+            "Demographics": "77-year-old male; retired postal worker",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Brown, greasy-looking lesions on forehead; several months duration",
+            "History_of_Present_Illness": "Recent appearance of multiple lesions; unable to remove despite attempts; bothersome",
+            "Background": "No significant past medical history; no history of skin cancer; no extensive sun exposure; no recent medication changes; non-smoker; social alcohol use; enjoys gardening with sun protection; no itchiness, pain, bleeding, fever, weight loss, or systemic symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 135/85 mmHg; HR 72 bpm; RR 14 breaths/min; multiple well-defined, brown, greasy plaques of varying sizes on forehead; no erythema or edema; lesions slightly raised with rough texture; no tenderness",
+            "Investigations": "Dermatoscopy: cerebriform patterns without melanocytic activity; Biopsy: hyperkeratosis with horn cysts, consistent with seborrheic keratosis"
+        },
+        "Diagnosis": "Seborrheic keratosis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 48,
+        "Medical_Record": {
+            "Demographics": "60-year-old male; glass manufacturing worker",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Progressive shortness of breath; 1-year duration",
+            "History_of_Present_Illness": "Shortness of breath worsens with physical activity; no recent fever, chest pain, wheezing, or cough",
+            "Background": "No significant past medical history; non-smoker; 20-year occupational exposure to glass manufacturing; no drug allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Heart rate 72/min; respiratory rate 30/min; blood pressure 130/80 mm Hg; no cyanosis; no use of accessory muscles; symmetrical chest expansion; resonant percussion; diminished respiratory sounds bilaterally",
+            "Investigations": "Chest radiograph shows interstitial fibrosis with reticulonodular infiltrate bilaterally and eggshell calcification of multiple adenopathies; pulmonary function tests show reduced FEV1/FVC ratio and reduced diffusing capacity for carbon monoxide; occupational history of long-term silica dust exposure"
+        },
+        "Diagnosis": "Silicosis",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 49,
+        "Medical_Record": {
+            "Demographics": "60-year-old woman; recently retired",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Sudden, painless loss of vision in right eye; 30-minute duration",
+            "History_of_Present_Illness": "Sudden onset while watching TV; no changes in left eye; no eye pain; no recent eye trauma",
+            "Background": "Coronary artery disease; hypertension; type 2 diabetes mellitus; non-adherence to medications; smokes 10 cigarettes/day; occasional alcohol use; lives alone; denies recent headache, dizziness, chest pain, or difficulty breathing"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 160/85 mmHg; heart rate 88 bpm; respiratory rate 14 breaths/min; temperature 36.8°C; right eye no perception of light; left eye 20/50 vision; right pupillary light reflex absent; left pupillary light reflex present; intraocular pressure right eye 18 mmHg, left eye 16 mmHg; accommodation intact bilaterally",
+            "Investigations": "Fundoscopy right eye: pale, white retina with bright red area within macula; normal optic disc; left eye normal examination findings"
+        },
+        "Diagnosis": "Central retinal artery occlusion",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 50,
+        "Medical_Record": {
+            "Demographics": "24-year-old woman; event manager",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Loss of consciousness; 2-hour duration",
+            "History_of_Present_Illness": "Loss of consciousness while seated during tattoo procedure; onset preceded by diaphoresis and pallor; brief jerky movements of arms and legs; regained consciousness within 30 seconds; alert and oriented immediately after episode; increased work-related stress",
+            "Background": "No significant medical history; no tobacco, alcohol, or illicit drug use; no reported allergies; no family history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 37°C; blood pressure 120/72 mm Hg; heart rate 68/min; respiratory rate 16/min; no cardiopulmonary abnormalities; no focal neurological deficits",
+            "Investigations": "ECG shows incomplete right bundle branch block; no acute ischemic changes"
+        },
+        "Diagnosis": "Vasovagal syncope",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 51,
+        "Medical_Record": {
+            "Demographics": "60-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Severe vulvar itching; 1-year duration",
+            "History_of_Present_Illness": "Gradually worsening vulvar itching; pain during sexual intercourse; ineffectiveness of over-the-counter lubricants",
+            "Background": "Type 2 diabetes mellitus (diet-controlled); hypertension (hydrochlorothiazide); menopause at 52 years; married; sexually active until recently due to pain; non-smoker; social alcohol use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/85 mmHg; HR 72 bpm; RR 14 breaths/min; dry, thin, white plaque-like lesions on vulva; atrophy of labia minora; clitoral retraction; pale, wrinkled perianal skin; no vaginal discharge or bleeding; atrophic vaginal mucosa; nontender uterus and adnexa; no masses",
+            "Investigations": "Pap smear negative for intraepithelial lesion or malignancy; vulvar lesion biopsy shows hyperkeratosis, thinning of epidermis, loss of rete ridges, sclerotic dermis; fasting glucose 6.5 mmol/L (117 mg/dL)"
+        },
+        "Diagnosis": "Lichen Sclerosus",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 52,
+        "Medical_Record": {
+            "Demographics": "21-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Right arm pain with limited range of motion; diarrhea; nausea; pain during intercourse; recurrent episodes over past year",
+            "History_of_Present_Illness": "No recent trauma; pain during intercourse; vague and diffuse abdominal tenderness; multiple ER visits with similar symptoms",
+            "Background": "No significant past surgical history; sexually active with one male partner; denies recent illness, fever, vomiting; no significant weight changes or chronic illnesses"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.0°C; BP 115/75 mmHg; HR 82 bpm; RR 18 breaths/min; diffuse abdominal tenderness in all quadrants without rebound or guarding; normal bowel sounds; no visible abdominal abnormalities; right arm: no erythema or edema, tenderness without specific localization, limited range of motion due to pain",
+            "Investigations": "Fecal occult blood test negative; CBC normal; CRP normal; ESR normal"
+        },
+        "Diagnosis": "Somatization disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 53,
+        "Medical_Record": {
+            "Demographics": "56-year-old male; former construction worker; former steel mill worker",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Worsening shortness of breath; 1-year duration",
+            "History_of_Present_Illness": "Progressive shortness of breath; weight loss; no recent fevers, cough, or chest pain; no history of asthma or allergic diseases",
+            "Background": "Active smoker; 36-pack-year history; no significant past medical history; no drug allergies; no other hazardous exposures mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 130/78 mmHg; heart rate 90/min; respiratory rate 17/min; BMI 31 kg/m2; oxygen saturation 95% on room air; no visible chest deformities; no tenderness or chest wall abnormalities; resonant lung fields; mildly prolonged expiratory phase; no wheezing or crackles",
+            "Investigations": "Pulmonary function test: FEV1/FVC ratio 60%; FEV1 50% of predicted value; total lung capacity 110% of predicted value; residual volume 115% of predicted value; DLCO 60% of predicted value"
+        },
+        "Diagnosis": "Chronic obstructive pulmonary disease",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 54,
+        "Medical_Record": {
+            "Demographics": "23-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Change in personality and unusual behavior; 7-month duration",
+            "History_of_Present_Illness": "Progressive social withdrawal; cessation of contact with family and friends; belief that aliens are watching and stealing thoughts; inability to leave house; anxious and flat affect",
+            "Background": "Occasional marijuana use in past; quit 1 year ago; no significant medical history; does not drink alcohol; previously socially active; now reclusive; no drug allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 110/70 mmHg; HR 72 bpm; RR 16 breaths/min; alert and oriented; disorganized thinking; paranoia; flat affect; cranial nerves II-XII intact; normal muscle tone and strength; sensation intact; deep tendon reflexes 2+ bilaterally",
+            "Investigations": "CBC within normal limits; urinalysis within normal limits; toxicology screen negative for cannabinoids, alcohol, and other substances"
+        },
+        "Diagnosis": "Schizophrenia",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 55,
+        "Medical_Record": {
+            "Demographics": "67-year-old woman",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Altered mental status; duration not specified",
+            "History_of_Present_Illness": "Confusion; inability to communicate symptoms; right upper quadrant abdominal discomfort; elevated temperature",
+            "Background": "Home hospice care; significant chronic illness; no explicit history of gallbladder disease; social history not provided; review of systems unable to complete due to altered mental state"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 38.9°C; BP 117/65 mmHg; HR 110 bpm; RR 19 breaths/min; O2 sat 95% on room air; right upper quadrant discomfort; palpable mass; no jaundice; no abdominal distension; bowel sounds present; normal percussion; no generalized peritonitis",
+            "Investigations": "Elevated WBC; ultrasound shows pericholecystic fluid and gallbladder wall thickening without gallstones"
+        },
+        "Diagnosis": "Acalculous cholecystitis",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 56,
+        "Medical_Record": {
+            "Demographics": "19-year-old Caucasian male; full-time college student",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Hypopigmented skin lesions; several months duration",
+            "History_of_Present_Illness": "Gradual onset hypopigmented patches; slow increase in size; no itchiness or discomfort; concerned about cosmetic appearance",
+            "Background": "No significant past medical history; not on any medications; non-smoker; occasional alcohol use; family history of similar condition in father; denies recent illnesses, fever, weight loss, or other systemic symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 118/76 mmHg; HR 72 bpm; RR 14 breaths/min; multiple well-demarcated hypopigmented macules and patches over face, hands, and arms; no erythema or scale; normal hair and nails; normal skin texture; no warmth or induration",
+            "Investigations": "Skin biopsy: absence of melanocytes in epidermis; normal keratinocyte structure; no fungal elements"
+        },
+        "Diagnosis": "Vitiligo",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 57,
+        "Medical_Record": {
+            "Demographics": "45-year-old male; kindergarten teacher",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Progressive pain and blurry vision in right eye; 1-day duration",
+            "History_of_Present_Illness": "Increasing pain and blurry vision in right eye; difficulty opening right eye due to pain; left eye unaffected; regular contact lens use; no recent changes in vision or eye care routine",
+            "Background": "History of bronchial asthma treated with inhaled salbutamol; no reported smoking or significant alcohol use; denies fever, nausea, or other systemic symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.0°C; BP 135/75 mmHg; HR 85 bpm; respiratory rate normal; right eye red with discomfort on opening; no abnormalities on palpation around orbit or eye",
+            "Investigations": "Right eye visual acuity: count fingers at 3 feet; left eye visual acuity: 20/25; slit lamp: corneal ulceration with infiltration; corneal scraping culture: growth of Pseudomonas aeruginosa"
+        },
+        "Diagnosis": "Pseudomonas keratitis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 58,
+        "Medical_Record": {
+            "Demographics": "8-year-old boy; school-going child",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Persistent dry, scaly skin; since 6 months of age",
+            "History_of_Present_Illness": "Dry, scaly skin since infancy; worsens in winter; mild improvement in summer; no itching, redness, or discharge",
+            "Background": "No significant past medical history; lives with parents and one younger sibling; no similar skin conditions in family; no associated symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 100/60 mmHg; HR 80 bpm; RR 18 breaths/min; generalized dryness with fine scaling over most of body; sparing of skin creases; coarse skin texture; multiple papular elevations at hair follicle bases; darkening of palmar and plantar creases",
+            "Investigations": "Skin biopsy: compact hyperkeratosis, reduced or absent granular layer; CBC within normal limits; thyroid function tests within normal limits; allergy testing negative"
+        },
+        "Diagnosis": "Ichthyosis Vulgaris",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 59,
+        "Medical_Record": {
+            "Demographics": "33-year-old female; high school teacher; 17-weeks gestation",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Painless mass in right breast; 3-week duration",
+            "History_of_Present_Illness": "Noticed mass three weeks ago; no change in size; no additional complaints",
+            "Background": "No significant medical history; first pregnancy; non-smoker; does not consume alcohol; no fever, weight loss, nipple discharge, or skin changes"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 110/70 mmHg; HR 82 bpm; RR 14 breaths/min; 2.5-cm rubbery, mobile, nontender mass in upper outer quadrant of right breast; no axillary lymphadenopathy; no skin changes or nipple discharge",
+            "Investigations": "Breast ultrasound: 2.5-cm well-circumscribed, solid mass in right breast without suspicious features; Biopsy: rounded contour with overgrowth of fibrous and glandular tissue"
+        },
+        "Diagnosis": "Fibroadenoma",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 60,
+        "Medical_Record": {
+            "Demographics": "34-year-old male; veteran",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Difficulty concentrating, fatigue, decreased interest in activities; 2-month duration",
+            "History_of_Present_Illness": "Difficulty concentrating at work; fear of job loss; constant tiredness; early awakening with inability to fall back asleep; slowed speech; decreased appetite; loss of interest in dance classes",
+            "Background": "History of deployment to Afghanistan 2 years ago; married; unknown substance use; no information on alcohol or tobacco use; denies recent fever, weight loss, or increased stress outside work concerns"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 118/76 mmHg; HR 72 bpm; RR 14 breaths/min; withdrawn appearance; decreased speech speed; no HEENT abnormalities; normal cardiovascular and respiratory exam; alert and oriented; no focal neurological deficits; depressed mood; low affect",
+            "Investigations": "CBC: WBC 6,000/μL, Hemoglobin 14 g/dL, Platelets 250,000/μL; Thyroid function: TSH 2.5 mIU/L, Free T4 1.2 ng/dL; Chemistry: Sodium 140 mmol/L, Potassium 4.2 mmol/L, Creatinine 0.9 mg/dL"
+        },
+        "Diagnosis": "Major depressive disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 61,
+        "Medical_Record": {
+            "Demographics": "67-year-old white man; retired",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Pink bump on forehead; 1-month duration",
+            "History_of_Present_Illness": "Rapid development of pink bump; no other skin lesions; no fever, weight loss, night sweats, or appetite changes",
+            "Background": "History of extensive sun exposure; multiple blistering sunburns; no significant past dermatological diagnoses; non-smoker; social alcohol use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "2 cm dome-shaped plaque with central keratin plug on forehead; firm; non-tender; well-demarcated",
+            "Investigations": "Skin biopsy: exophytic nodule with central invagination filled with keratin; minimal keratinocyte atypia"
+        },
+        "Diagnosis": "Keratoacanthoma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 62,
+        "Medical_Record": {
+            "Demographics": "26-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Respiratory distress; 20-minute duration post motor vehicle collision",
+            "History_of_Present_Illness": "Lethargy; incoherence; severe facial lacerations; decreased breath sounds over left lung base; diffuse abdominal tenderness without guarding or rebound",
+            "Background": "No significant past medical history; social history not provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Pulse 130/min; respiratory rate 29/min; blood pressure 90/58 mm Hg; oxygen saturation 70% on room air; severe facial lacerations; signs of respiratory distress; dullness to percussion over left lung base; decreased breath sounds over left lung base; no visible external abdominal injuries; normal bowel sounds; diffuse abdominal tenderness; no guarding or rebound",
+            "Investigations": "Hemoglobin 12.1 g/dL; chest X-ray shows fractured left second rib, depression of left mainstem bronchus, deviation of nasogastric tube to right, widened mediastinum"
+        },
+        "Diagnosis": "Thoracic aortic rupture",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": "Familial aortic dissection"
+        }
+    },
+    {
+        "id": 63,
+        "Medical_Record": {
+            "Demographics": "28-year-old male; army instructor",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Disturbing flashbacks and intense fear of loud noises; 7-week duration",
+            "History_of_Present_Illness": "Upsetting dreams; marked anxiety; flashbacks; onset 7 weeks ago after return from active duty in Iraq; avoidance of settings reminiscent of trauma; refusal to leave house until persuaded",
+            "Background": "No significant past medical history; returned from active duty in Iraq 3 months ago; difficulty adjusting to life back home; no drug allergies; no reported medications; denies weight loss, fever, or fatigue"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 130/85 mmHg; heart rate 88 bpm; respiratory rate 18 breaths/min; temperature 36.8°C; anxious appearance; hypervigilant; avoids eye contact; mood anxious; affect constricted; coherent thought process; fair insight; intact judgment",
+            "Investigations": "Psychological assessment: high scores on avoidance, intrusion, and hyperarousal subscales; no specific lab tests performed"
+        },
+        "Diagnosis": "Posttraumatic stress disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 64,
+        "Medical_Record": {
+            "Demographics": "9-year-old boy",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Generalized weakness, increased urination, increased thirst; several months duration",
+            "History_of_Present_Illness": "Generalized weakness; increased urination; increased thirst; prefers sedentary activities; lethargy; frequent constipation since birth; cravings for salty foods; no fever, vomiting, or respiratory symptoms",
+            "Background": "Delivered healthy; fully immunized; no remarkable medical history; lives with parents; father is banker; mother is librarian; no siblings"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Pulse 90/min; Blood pressure 110/75 mm Hg; Respiratory rate 15/min; Height and weight in bottom 10th percentile for age; Skin normal; No rash or hyperpigmentation; Abdominal examination unremarkable; Overall physical examination unremarkable except for growth parameters",
+            "Investigations": "Urinary calcium excretion elevated; Serum sodium 135 mEq/L; Serum potassium 3.2 mEq/L; Serum chloride 95 mEq/L; Plasma renin activity 10 ng/mL/hr (elevated); Plasma aldosterone concentration 20 ng/dL (elevated)"
+        },
+        "Diagnosis": "Bartter's syndrome",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 65,
+        "Medical_Record": {
+            "Demographics": "16-year-old female; high school student",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Preference for solitude; 2-year duration",
+            "History_of_Present_Illness": "Progressive social withdrawal; spends significant time alone reading; marked disinterest in social interactions; avoids social gatherings; no friendships; disinterest in family interactions",
+            "Background": "No significant past medical or psychiatric history; no history of alcohol or substance use; average academic performance; no disciplinary incidents; denies hallucinations, delusions, mood swings, or substance abuse"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 110/70 mmHg; HR 72 bpm; RR 14 breaths/min; appropriately dressed and groomed; no abnormal movements; cooperative with minimal engagement; clear, coherent, limited speech; monotonous tone; flat affect; organized and logical thought process; no delusions or preoccupations; no hallucinations; oriented to time, place, person; intact memory; insight and judgment intact",
+            "Investigations": "CBC normal; thyroid function normal; electrolytes normal; PHQ-9 and GAD-7 screenings negative for depression and anxiety"
+        },
+        "Diagnosis": "Schizoid Personality Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 66,
+        "Medical_Record": {
+            "Demographics": "65-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Arm stiffness; several months duration",
+            "History_of_Present_Illness": "Difficulty combing hair; trouble reaching high objects; decreased shoulder range of motion; arm strength 4/5; sedentary lifestyle",
+            "Background": "Diabetes mellitus type II; obesity; hypertension; medications: metformin, insulin, lisinopril, hydrochlorothiazide; sedentary lifestyle; no recent injuries; no fever; no weight loss; no other joint involvement"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 142/85 mmHg; heart rate 78 bpm; respiratory rate 16 breaths/min; temperature 36.6°C; no visible swelling or deformity; tenderness around shoulder joint; decreased passive and active range of motion; upper extremity strength 4/5",
+            "Investigations": "CBC within normal limits; CRP slightly elevated; glucose elevated; shoulder X-ray: no acute bony abnormality, reduced joint space, no significant osteoarthritic changes"
+        },
+        "Diagnosis": "Adhesive capsulitis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 67,
+        "Medical_Record": {
+            "Demographics": "69-year-old male; retired cemetery worker",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Inability to stay awake past early evening; chronic duration",
+            "History_of_Present_Illness": "Difficulty staying awake past 6 pm; trouble sleeping at preferred time; inability to participate in evening activities; caffeine ineffective; feels rested upon waking",
+            "Background": "Irritable bowel syndrome managed with fiber supplements; recently retired; no significant alcohol or tobacco use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.8°C; blood pressure 130/85 mmHg; heart rate 72 bpm; respiratory rate 14 breaths/min; alert and oriented; normal cranial nerves; strength 5/5 all extremities; intact sensation; reflexes 2+ and symmetric",
+            "Investigations": "Polysomnography: normal sleep efficiency with advanced sleep phase; early evening melatonin increase; Actigraphy: early sleep onset and wakeup times over 2 weeks"
+        },
+        "Diagnosis": "Advanced sleep phase disorder",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": true,
+            "orphanet_name": "Familial advanced sleep-phase syndrome"
+        }
+    },
+    {
+        "id": 68,
+        "Medical_Record": {
+            "Demographics": "33-year-old male; construction worker",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Altered mental status; found down at work site",
+            "History_of_Present_Illness": "High fever; sweating; minimal muscle tone; incoherence; episodes of confusion; feeling excessively hot; recent appendectomy",
+            "Background": "Schizophrenia controlled with haloperidol; epilepsy on phenytoin; anxiety and hyperthyroidism on propranolol; no mention of illicit drug or alcohol use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 106°F (41.1°C); blood pressure 109/62 mmHg; heart rate 170/min; respiratory rate 23/min; oxygen saturation 95% on room air; Glasgow Coma Scale 10; altered, incoherent mental status; minimal muscle tone; covered in sweat and dirt",
+            "Investigations": "CT head shows no acute intracranial abnormalities; toxicology screen negative for common illicit substances and alcohol"
+        },
+        "Diagnosis": "Exertional heat stroke",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": "Exercise-induced malignant hyperthermia"
+        }
+    },
+    {
+        "id": 69,
+        "Medical_Record": {
+            "Demographics": "44-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Small, non-pruritic bumps on left thigh; 3-week duration",
+            "History_of_Present_Illness": "Gradual appearance of small bumps on left thigh; fatigue and malaise for several months; denies fever, weight loss, night sweats, cough, shortness of breath",
+            "Background": "No known medical problems; no regular medications; smokes one pack per day; intravenous street drug use; no allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.7°C; BP 126/80 mm Hg; HR 82 bpm; RR 14 breaths/min; three 2-3 mm dome-shaped, firm papules with central umbilication on left thigh; non-tender cervical lymphadenopathy; normal heart sounds; clear lungs",
+            "Investigations": "CBC normal; HIV test pending"
+        },
+        "Diagnosis": "Molluscum contagiosum",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": "CADINS disease"
+        }
+    },
+    {
+        "id": 70,
+        "Medical_Record": {
+            "Demographics": "20-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Bizarre behavior; 1-week duration following bereavement",
+            "History_of_Present_Illness": "Auditory hallucinations; intrusive thoughts; concentration difficulties; voices discussing patient in third person and encouraging self-harm; onset after father's death from lung cancer",
+            "Background": "No history of medical or psychiatric illness; denies medication or substance use; no notable social history; denies fever, vomiting, headache, or sensory disturbances other than auditory hallucinations"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.9°C; BP 110/65 mm Hg; HR 90 bpm; RR 17 breaths/min; gaunt and anxious appearance; cooperative but distressed; coherent speech; mood euthymic with congruent affect; subjectively anxious; linear thought process; impaired concentration; insight somewhat limited; judgment fair",
+            "Investigations": "Comprehensive metabolic panel normal; complete blood count normal; thyroid stimulating hormone normal; urine toxicology negative"
+        },
+        "Diagnosis": "Brief Psychotic Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 71,
+        "Medical_Record": {
+            "Demographics": "46-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Unconsciousness after motor vehicle collision",
+            "History_of_Present_Illness": "Unrestrained driver; brought to emergency department; currently unconscious; increased respirations; low palpable systolic blood pressure; irregularly irregular pulse; multiple chest ecchymoses; abdominal and scalp lacerations; increased jugular venous pressure; bilateral crackles at lung bases",
+            "Background": "No relevant past medical history provided; no social history provided; unable to perform review of systems due to unconscious state"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Respiratory rate 24 breaths/min; palpable systolic BP at 60 mm Hg, later 50 mm Hg; heart rate 141/min, irregularly irregular, later 160/min; unconscious; 3-cm abdominal laceration; abdomen soft; increased jugular venous pressure; no murmurs, rubs, or gallops; 4-cm scalp laceration; multiple chest ecchymoses; bilateral crackles at lung bases",
+            "Investigations": "ECG shows absent p-waves; FAST negative; blood pressure trend: 60 mm Hg to 50 mm Hg; heart rate trend: 141/min to 160/min; two large bore IV catheters inserted; 0.9% saline infusion; vasopressors administered"
+        },
+        "Diagnosis": "Cardiac Contusion",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 72,
+        "Medical_Record": {
+            "Demographics": "27-year-old male; computer programmer",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Chest pain after motor vehicle collision; acute onset",
+            "History_of_Present_Illness": "Chest pain following head-on collision as unrestrained driver; bruising over chest wall; pain localized to chest; no headache, dizziness, shortness of breath, or abdominal pain",
+            "Background": "No significant medical history; no previous surgeries; no known drug allergies; occasional alcohol use; denies tobacco and illicit drug use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.5°C; BP 107/58 mmHg; HR 120 bpm; RR 17 breaths/min; O2 sat 98% on room air; visible bruising on chest wall; tenderness over bruised area; no crepitus; heart sounds normal; breath sounds clear; percussion resonant",
+            "Investigations": "Echocardiogram: normal chamber sizes, no valvular abnormalities, sinus tachycardia; Troponins: elevated; Pulmonary capillary wedge pressure: elevated; Chest X-ray: no rib fractures or pneumothorax"
+        },
+        "Diagnosis": "Cardiac contusion",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 73,
+        "Medical_Record": {
+            "Demographics": "33-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Respiratory distress after motor vehicle collision; recurrent pneumothorax",
+            "History_of_Present_Illness": "Head-on collision as unrestrained driver; intubated for airway protection; initial needle decompression and chest tube for pneumothorax; recurrent pneumothorax despite chest tube; subcutaneous emphysema noted; stabilized after resuscitation; respiratory distress recurred",
+            "Background": "No significant past medical history; social history unknown; review of systems limited due to unconscious state and intubation"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.8°C; blood pressure 110/70 mmHg; heart rate 95 bpm; supported by mechanical ventilation; subcutaneous emphysema palpable around neck and upper chest; decreased breath sounds on side of injury; hyperresonant percussion on affected side; crepitus in subcutaneous tissue of neck and clavicular area",
+            "Investigations": "Initial chest X-ray: proper chest tube placement, resolution of pneumothorax; repeat chest X-ray: recurrent pneumothorax with chest tube in place; arterial blood gases: PaO2 75 mmHg, PaCO2 40 mmHg, pH 7.42, HCO3 24 mEq/L; WBC 9,000/μL; hemoglobin 14 g/dL; platelets 300,000/μL"
+        },
+        "Diagnosis": "Tracheobronchial rupture",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 74,
+        "Medical_Record": {
+            "Demographics": "40-year-old female; accountant",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Generalized weakness; several months duration",
+            "History_of_Present_Illness": "Progressive weakness; unintentional weight loss; no urinary symptoms; no bleeding; previous labs showed elevated BUN and creatinine",
+            "Background": "Hypertension treated with medication; father had kidney stones; non-smoker; occasional alcohol use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/85 mmHg; HR 82 bpm; RR 14 breaths/min; appears pale; no acute distress; no rashes or bruises; no peripheral edema; no flank masses; no flank tenderness; no costovertebral angle tenderness",
+            "Investigations": "Hemoglobin 8 g/dL (low); Hematocrit 29% (low); Leukocyte count 9,500/mm^3 (normal differential); Platelet count 197,000/mm^3; Na+ 139 mEq/L; Cl- 100 mEq/L; K+ 5.9 mEq/L (high); HCO3- 17 mEq/L (low); BUN 59 mg/dL (elevated); Creatinine 2.3 mg/dL (elevated); Renal ultrasound: bilateral reduced kidney size, increased echogenicity, no obstruction"
+        },
+        "Diagnosis": "Chronic kidney failure",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 75,
+        "Medical_Record": {
+            "Demographics": "23-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Sudden loss of consciousness during physical activity",
+            "History_of_Present_Illness": "Collapse while pitching in baseball game; regained consciousness after CPR; no trauma; no previous similar episodes",
+            "Background": "No neurological or cardiovascular history; non-smoker; occasional alcohol use; active lifestyle; no family history of sudden cardiac death or genetic diseases"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/85 mmHg; HR 68 bpm; RR 14 breaths/min; no chest deformities; prominent double apical impulse; S4 present; no murmurs, rubs, or gallops; prominent A wave on JVP; alert and oriented; normal cranial nerves, motor, sensory, and reflexes",
+            "Investigations": "ECG: normal sinus rhythm, possible left ventricular hypertrophy; Echocardiogram: left ventricular hypertrophy with asymmetrical septal thickening, no valvular abnormalities; CBC, electrolytes, cardiac enzymes normal"
+        },
+        "Diagnosis": "Hypertrophic Cardiomyopathy",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 76,
+        "Medical_Record": {
+            "Demographics": "38-year-old female; teacher",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Painless, nonpruritic skin lesion on right thigh; 1-month duration",
+            "History_of_Present_Illness": "Initially thought to be insect bite; slow increase in size over weeks; no pruritus or pain",
+            "Background": "No significant past medical or dermatologic history; non-smoker; drinks socially; denies fever, weight loss, night sweats, recent travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 36.7°C; blood pressure 128/76 mmHg; heart rate 75 bpm; respiratory rate normal; 0.8-cm hyperpigmented papule on right thigh; lesion retracts inward when squeezed (dimple sign); no discharge, erythema, or warmth",
+            "Investigations": "Dermoscopic examination: central white patch and peripheral pigment network; biopsy: benign proliferation of fibroblasts, positive for dermatofibroma"
+        },
+        "Diagnosis": "Dermatofibroma",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 77,
+        "Medical_Record": {
+            "Demographics": "26-year-old female nurse",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Fatigue and lower abdominal pain; 2-month duration",
+            "History_of_Present_Illness": "Persistent fatigue; several episodes of lower abdominal pain; no improvement after 2 weeks sick leave; high concern about cancer; requests diagnostic laparoscopy",
+            "Background": "Diagnosed with peptic ulcer disease 6 months ago; currently taking omeprazole; works as nurse; high work stress"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.5°C; BP 90/65 mmHg; HR 120/min; pale appearance; fatigued; dry mucous membranes; crusts along left arm veins; grade 2/6 systolic ejection murmur right-upper sternal border; no abdominal abnormalities; generalized proximal muscle weakness",
+            "Investigations": "Hemoglobin 7.5 g/dL; MCV 89 μm3; reticulocyte count 13.3%; sodium 139 mEq/L; potassium 3.9 mEq/L; calcium 8.5 mg/dL; stool occult blood negative; abdominal ultrasonography normal"
+        },
+        "Diagnosis": "Factitious disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 78,
+        "Medical_Record": {
+            "Demographics": "55-year-old male; retired professional athlete",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Bilateral wrist and knee pain; 10-year duration",
+            "History_of_Present_Illness": "Chronic bilateral wrist and knee pain; morning stiffness lasting about 50 minutes; no joint swelling; no color changes in digits; no dryness of mucous membranes; no fever or chills",
+            "Background": "History of being a professional athlete; no significant past medical history; retired; does not smoke or drink alcohol excessively; no drug allergies reported; family history not mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/85 mmHg; HR 72 bpm; RR 14 breaths/min; several non-tender nodules on left 1st, 3rd, and 4th distal interphalangeal joints; tenderness at base of both thumbs; enlarged knees with pain on passive range of motion; crepitus in knees during passive movement; no significant limitation of movement due to pain",
+            "Investigations": "Wrist X-ray: joint space narrowing, osteophytes, subchondral sclerosis; Knee X-ray: joint space narrowing, osteophytes, subchondral sclerosis, subchondral cyst formation; Rheumatoid factor negative; C-reactive protein within normal limits; ESR slightly elevated but non-specific"
+        },
+        "Diagnosis": "Osteoarthritis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 79,
+        "Medical_Record": {
+            "Demographics": "55-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Severe abdominal pain; 1-hour duration",
+            "History_of_Present_Illness": "Sudden onset severe abdominal pain; repeated vomiting; brown/red-colored vomitus; unable to provide further details due to discomfort",
+            "Background": "History of peptic ulcer disease; treated with antacids; no significant improvement; no social history provided; no information on medications, allergies, family history, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37°C; BP 100/68 mm Hg; HR 97 bpm; RR 16 breaths/min; tense abdomen; board-like rigidity; positive rebound tenderness indicating peritonitis",
+            "Investigations": "Erect abdominal X-ray: free air under diaphragm indicative of gastrointestinal perforation"
+        },
+        "Diagnosis": "Perforated gastric peptic ulcer",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 80,
+        "Medical_Record": {
+            "Demographics": "34-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Request for prenatal care; 2-month duration",
+            "History_of_Present_Illness": "Increasing breast tenderness; nausea; 6.6 lb weight gain; increased urinary frequency; uncertainty about last menstrual period; stopped oral contraceptives 6 months ago; actively trying to conceive",
+            "Background": "No current medications; no reported allergies; stable relationship; no fever, vomiting, diarrhea, dysuria, or flank pain"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 37.2°C; blood pressure 110/60 mmHg; heart rate 100 bpm; mild, nontender abdominal enlargement; normal bowel sounds; no abdominal tenderness or masses; no pelvic lesions or discharge; closed cervical os; normal adnexa and uterus; no pelvic tenderness or masses",
+            "Investigations": "Negative urine beta-hCG; transvaginal ultrasound shows no abnormalities, absence of gestational sac"
+        },
+        "Diagnosis": "Pseudocyesis",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 81,
+        "Medical_Record": {
+            "Demographics": "24-year-old woman; graduate student",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Severe headache; new onset",
+            "History_of_Present_Illness": "10/10 intensity headache; exacerbated by chewing; dull ache over sides of head; no prior similar episodes; no recent illnesses, injuries, or significant stressors",
+            "Background": "No significant medical history; not taking medications; does not smoke; social alcohol use; no illicit drug use; denies fever, vision changes, nausea, vomiting, weakness, numbness, or recent head trauma"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.4°C; BP 111/74 mmHg; HR 83/min; RR 13/min; O2 sat 98% on room air; normal head and neck appearance; pain and tenderness over mandibular and temporal regions; pain worsened with mouth movements",
+            "Investigations": "CBC normal; ESR normal; CRP normal; TMJ X-ray shows no structural abnormalities"
+        },
+        "Diagnosis": "Temporomandibular joint dysfunction",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": "Primary condylar hyperplasia"
+        }
+    },
+    {
+        "id": 82,
+        "Medical_Record": {
+            "Demographics": "68-year-old male; retired",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Scalp lesion; unknown duration",
+            "History_of_Present_Illness": "No specific complaints; active lifestyle; jogging and gardening; lesion noted on scalp",
+            "Background": "No significant medical history; no smoking; occasional alcohol use; no drug allergies; no systemic symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/80 mmHg; HR 72 bpm; RR 14 breaths/min; single rough-textured lesion on scalp; 1 cm diameter; slight erythema; scaly surface",
+            "Investigations": "Biopsy: atypical keratinocytes confined to epidermis; consistent with actinic keratosis"
+        },
+        "Diagnosis": "Actinic Keratosis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 83,
+        "Medical_Record": {
+            "Demographics": "65-year-old male; recently retired",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Change in behavior including inappropriate actions; several months duration",
+            "History_of_Present_Illness": "Gradual onset behavioral changes; inappropriate laughing; use of foul language; occasional grabbing of people; worsening memory; difficulty with self-care; word finding difficulty; inappropriateness in social situations",
+            "Background": "No significant past medical or psychiatric history; no alcohol or substance abuse; lives with spouse; non-smoker; social alcohol use; no legal or financial issues"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.7°C; BP 162/103 mmHg; HR 83 bpm; RR 13 breaths/min; O2 sat 98% on room air; inattentive; inappropriate laughter; word finding difficulty; cranial nerves grossly intact; normal tone and strength; intact sensation; normal and symmetrical reflexes; no ataxia",
+            "Investigations": "CBC, electrolytes, liver function, and thyroid function tests within normal limits; CT head shows mild frontal and temporal lobe atrophy; MRI brain shows increased frontal and temporal lobe atrophy without stroke or tumor; neuropsychological testing shows deficits in executive functioning and language, relative sparing of memory and visuospatial skills"
+        },
+        "Diagnosis": "Frontotemporal Dementia",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": true,
+            "orphanet_name": "Frontotemporal dementia"
+        }
+    },
+    {
+        "id": 84,
+        "Medical_Record": {
+            "Demographics": "52-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Persistent headache; 1-month duration",
+            "History_of_Present_Illness": "Continuous nagging headache; mild temporary relief with ibuprofen; recent dizziness and nausea; symptoms improve with cold air exposure; staying in cabin for 5 weeks; no significant travel",
+            "Background": "Hypertension; type II diabetes mellitus; asthma; medications: amlodipine, metformin, glimepiride, fluticasone/salmeterol inhaler; denies tobacco or illicit drug use; no fever, cough, chest pain, or recent changes in vision or hearing"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.2°C; BP 130/78 mmHg; HR 72 bpm; RR 16 breaths/min; O2 sat 98% on room air; alert and oriented x3; cranial nerves intact; strength 5/5 all extremities; sensation intact to light touch; no ataxia or dysmetria; reflexes 2+ and symmetric",
+            "Investigations": "Hemoglobin 20 g/dL (elevated); hematocrit 60% (elevated); leukocyte count 10,050 cells/mm^3 with normal differential; platelet count 350,000/mm^3"
+        },
+        "Diagnosis": "Toxic exposure",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 85,
+        "Medical_Record": {
+            "Demographics": "65-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Gradually worsening back pain; duration not specified",
+            "History_of_Present_Illness": "Back pain worsened after moving furniture; numbness and weakness in legs while walking; symptom improvement when riding bike or pushing cart; no immediate relief from rest or medication",
+            "Background": "Osteoporosis; dyslipidemia; diabetes; drinks 3 alcoholic drinks daily; 44 pack-year smoking history; denies recent fever, unexplained weight loss, or changes in bowel or bladder function"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.5°C; BP 157/108 mmHg; HR 90 bpm; RR 17 breaths/min; O2 sat 98% on room air; mild weakness in bilateral lower extremities; decreased sensation in stocking-glove distribution; normal reflexes; no pathological reflexes; normal spinal curvature; non-tender spine; normal mobility in all directions; full range of motion with discomfort on extreme flexion",
+            "Investigations": "Lumbar spine radiography shows spinal canal narrowing without acute fracture; CBC within normal limits; elevated blood glucose; elevated cholesterol; elevated LDL; normal HDL"
+        },
+        "Diagnosis": "Spinal Stenosis",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 86,
+        "Medical_Record": {
+            "Demographics": "32-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Acute left-sided lower abdominal pain; sudden onset during physical activity",
+            "History_of_Present_Illness": "Sudden onset pain during kickboxing; guarding; no fever; regular menstrual cycles; last period ended 2 days ago",
+            "Background": "History of chlamydia; sexually active without contraception; no other significant medical history; denies nausea, vomiting, diarrhea, dysuria, or recent changes in bowel or urinary habits"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.2°C; BP 110/68 mmHg; HR 88 bpm; RR 14 breaths/min; O2 sat 98% on room air; left lower quadrant tenderness and guarding; normal bowel sounds; clear mucous in vaginal introitus; left adnexal tenderness",
+            "Investigations": "Pelvic ultrasound with Doppler: large amount of fluid in rectouterine pouch"
+        },
+        "Diagnosis": "Ruptured ovarian cyst",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 87,
+        "Medical_Record": {
+            "Demographics": "60-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Severe vulvar itching; 1-year duration",
+            "History_of_Present_Illness": "Gradually worsening vulvar itching; severe pain during vaginal intercourse; cessation of sexual activity; no relief with over-the-counter lubricants",
+            "Background": "Diet-controlled type 2 diabetes mellitus; hypertension treated with hydrochlorothiazide; menopause at 52 years; sexually active with husband until recently; denies urinary symptoms, abnormal vaginal discharge, rectal symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 135/85 mmHg; HR 72 bpm; RR 14 breaths/min; dry, thin, white plaque-like lesions in vulvar area; atrophy of labia minora; retracted clitoris; pale, wrinkled perianal skin; palpable lesions; vulvar tenderness",
+            "Investigations": "Vulvar biopsy: hyperkeratosis, thinning of epidermis, sclerosis of dermis; fasting blood glucose 6.8 mmol/L; blood pressure recordings: 135/85 mmHg, 130/80 mmHg"
+        },
+        "Diagnosis": "Lichen Sclerosus",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 88,
+        "Medical_Record": {
+            "Demographics": "20-year-old female; student",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Auditory hallucinations and suicidal ideation; 1-week duration",
+            "History_of_Present_Illness": "Onset after father's death from lung cancer; hearing voices discussing negatively and encouraging self-harm; intrusive thoughts; difficulty concentrating at work and school; feeling anxious",
+            "Background": "No known medical or psychiatric illnesses; denies recent medication use; lives with family; no substance use; no similar episodes; no allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.9°C; BP 110/65 mm Hg; HR 90/min; RR 17/min; appears gaunt and anxious; heart regular rate and rhythm; lungs clear bilaterally; alert and oriented; distressed by auditory hallucinations",
+            "Investigations": "Comprehensive metabolic panel normal; complete blood count normal; thyroid stimulating hormone normal; urine toxicology screen negative"
+        },
+        "Diagnosis": "Brief Psychotic Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 89,
+        "Medical_Record": {
+            "Demographics": "22-year-old woman",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Abdominal pain and contractions; 10-week pregnancy",
+            "History_of_Present_Illness": "Abdominal pain; contractions; bloody vaginal discharge; recent positive pregnancy test; emotional distress after spontaneous abortion; anger and aggression post-news; new lacerations over wrists",
+            "Background": "History of constipation, anxiety, substance abuse; not on medications; social history not provided; review of systems negative except presented symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 99.5°F (37.5°C); blood pressure 107/58 mmHg; heart rate 90/min; respiratory rate 17/min; oxygen saturation 98% on room air; presence of bloody vaginal discharge; open cervix",
+            "Investigations": "Ultrasound pelvis: absence of intrauterine pregnancy; beta-hCG: declining levels; CBC: WBC within normal limits, hemoglobin slightly decreased, platelets within normal limits"
+        },
+        "Diagnosis": "Borderline personality disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": "Autism spectrum disorder due to AUTS2 deficiency"
+        }
+    },
+    {
+        "id": 90,
+        "Medical_Record": {
+            "Demographics": "26-year-old female; nurse",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Fatigue; 2-month duration",
+            "History_of_Present_Illness": "Fatigue; several episodes of lower abdominal pain; strong belief of having cancer; desire for diagnostic laparoscopy; off work for 2 weeks due to stress; wishes to return to work",
+            "Background": "Peptic ulcer disease diagnosed 6 months ago; omeprazole use; works as nurse; no mention of smoking, alcohol, or recreational drug use; reports tiredness and depressed mood; no changes in bowel or urinary habits"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.5°C; BP 90/65 mmHg; HR 120 bpm; appears pale and tired; depressed mood; appears fatigued; numerous crusts along left arm veins; grade 2/6 systolic ejection murmur right-upper sternal border; no abdominal abnormalities; generalized proximal muscle weakness",
+            "Investigations": "Hemoglobin 7.5 g/dL; MCV 89 μm3; reticulocyte count 13.3%; sodium 139 mEq/L; potassium 3.9 mEq/L; calcium 8.5 mg/dL; stool occult blood negative; abdominal ultrasonography normal"
+        },
+        "Diagnosis": "Factitious disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 91,
+        "Medical_Record": {
+            "Demographics": "67-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Change in mental status and abdominal discomfort; recent onset",
+            "History_of_Present_Illness": "Increased confusion; inability to verbalize symptoms; fever 102°F; right upper quadrant abdominal discomfort",
+            "Background": "Home hospice care; history of chronic illness; past medical history unspecified; social history not provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 38.9°C; BP 117/65 mmHg; HR 110 bpm; RR 19 breaths/min; O2 sat 95% on room air; possible jaundice; normal to decreased bowel sounds; right upper quadrant tenderness and possible mass",
+            "Investigations": "WBC elevated; hemoglobin normal; platelets normal; ALT slightly elevated; AST slightly elevated; bilirubin elevated; ALP elevated; abdominal ultrasound shows pericholecystic fluid and gallbladder wall thickening without gallstones"
+        },
+        "Diagnosis": "Acalculous cholecystitis",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 92,
+        "Medical_Record": {
+            "Demographics": "55-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Sudden onset shortness of breath and substernal chest pain at rest; 12-hour duration",
+            "History_of_Present_Illness": "Chest pain increased by inspiration; nonproductive cough; fever; malaise for 5 days; no smoking or illicit drug use",
+            "Background": "No significant past medical history; denies smoking or illicit drug use; no drug allergies; no family history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 38°C; BP 85/45 mm Hg; HR 125 bpm; RR 32 breaths/min; distended neck veins; muffled heart sounds; no palpable thrill or heave; normal chest wall movement; bilateral basilar rales; resonant percussion; no chest wall tenderness",
+            "Investigations": "ECG: sinus tachycardia, diffuse ST segment elevation, low voltage QRS complexes, fluctuating R wave amplitude; Chest X-ray: normal size heart, no pulmonary congestion; Echocardiogram: pericardial effusion"
+        },
+        "Diagnosis": "Cardiac Tamponade",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": "Pleuro-pericardial cyst"
+        }
+    },
+    {
+        "id": 93,
+        "Medical_Record": {
+            "Demographics": "36-year-old woman; high school teacher",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Painless lump on left side of neck; 3-month duration",
+            "History_of_Present_Illness": "Progressive increase in lump size; no voice changes; no difficulty swallowing; no respiratory symptoms",
+            "Background": "No significant medical history; no known allergies; not on medications; non-smoker; social alcohol use; no radiation exposure; no family history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 125/80 mmHg; HR 72 bpm; RR 14 breaths/min; visible swelling left neck; 2.5-cm firm irregular mass left neck moves with swallowing; painless cervical lymphadenopathy; no bruits",
+            "Investigations": "Ultrasound: solitary left lobe thyroid mass, increased vascularity, hyperechogenic punctate regions; fine needle aspiration biopsy scheduled, results pending"
+        },
+        "Diagnosis": "Papillary carcinoma of the thyroid",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": true,
+            "orphanet_name": "Familial papillary or follicular thyroid carcinoma"
+        }
+    },
+    {
+        "id": 94,
+        "Medical_Record": {
+            "Demographics": "34-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Subjective pregnancy symptoms; 2-month duration",
+            "History_of_Present_Illness": "Breast tenderness; nausea; 6.6-lb weight gain; urinary frequency; increased fatigue; onset after discontinuing oral contraceptives; attempting conception for 6 months",
+            "Background": "No significant medical history; off oral contraceptives for 6 months; married; trying to conceive; non-smoker; social alcohol use; denies fever, vomiting, diarrhea, dysuria, flank pain"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 37.2°C; blood pressure 110/60 mmHg; heart rate 100 bpm; respiratory rate 18 breaths/min; mild, nontender abdominal enlargement; normal bowel sounds; tympanic percussion; soft, non-tender abdomen; closed cervical os; no adnexal masses or tenderness",
+            "Investigations": "Negative urine β-hCG; transvaginal ultrasound shows no abnormalities"
+        },
+        "Diagnosis": "Pseudocyesis",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 95,
+        "Medical_Record": {
+            "Demographics": "21-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Right arm pain and limited range of motion; duration not specified",
+            "History_of_Present_Illness": "Right arm pain without trauma; limited range of motion due to pain; diarrhea; nausea; pain during intercourse; generalized abdominal tenderness; similar episodes multiple times in past year; multiple ER visits; no significant findings from past investigations",
+            "Background": "Monogamous relationship; moderate alcohol use; no tobacco use; no significant PMH; no drug allergies; no family history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 115/75 mmHg; HR 82 bpm; RR 18 breaths/min; right arm: no erythema, swelling, or deformity; diffuse tenderness; limited range of motion due to pain; abdomen: no distension or masses; bowel sounds normal; tympanic percussion; vague and diffuse tenderness; no rebound or guarding",
+            "Investigations": "CBC normal; fecal occult blood test negative; no significant abnormalities in basic lab work or specialty tests"
+        },
+        "Diagnosis": "Somatization disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 96,
+        "Medical_Record": {
+            "Demographics": "40-year-old female; school teacher",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Generalized weakness and unintentional weight loss; several months duration",
+            "History_of_Present_Illness": "Progressive weakness; weight loss; no changes in urinary frequency; no pain during urination",
+            "Background": "Denies diabetes and hypertension; no significant surgical history; family history of kidney disease; non-smoker; social alcohol use; no drug allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 130/85 mmHg; HR 82 bpm; RR 14 breaths/min; cachectic appearance; normal skin turgor; no rashes or bruises; regular heart sounds; clear lung sounds; normal abdominal contour; no tenderness or masses; kidneys not palpable; alert and oriented; intact cranial nerves; muscle strength 5/5 with reported weakness",
+            "Investigations": "Hemoglobin 8 g/dL; Hematocrit 29%; Leukocyte count 9,500/mm^3; Platelet count 197,000/mm^3; Na 139 mEq/L; Cl 100 mEq/L; K 5.9 mEq/L; HCO3 17 mEq/L; BUN 59 mg/dL; Glucose 99 mg/dL; Creatinine 2.3 mg/dL; Ca 9.0 mg/dL"
+        },
+        "Diagnosis": "Chronic kidney failure",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 97,
+        "Medical_Record": {
+            "Demographics": "19-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Increased inguinal pruritis; duration not specified",
+            "History_of_Present_Illness": "Erythematous rash on left thigh, pubic region, and perineum; scrotum spared; active in school wrestling; no fever, weight loss, joint pains, or other systemic symptoms",
+            "Background": "Facial acne; no significant medical or family history; active in school wrestling; no other relevant history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 125/80 mmHg; HR 72 bpm; RR 14 breaths/min; well-demarcated erythematous patch on left thigh, pubic region, and perineum; scrotum spared; rash slightly elevated and rough; localized to inguinal region",
+            "Investigations": "Skin scraping microscopy: hyphae observed; culture: growth consistent with dermatophyte"
+        },
+        "Diagnosis": "Tinea cruris",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 98,
+        "Medical_Record": {
+            "Demographics": "19-year-old Caucasian male; full-time university student",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Hypopigmented skin patches; several months duration",
+            "History_of_Present_Illness": "Gradual development of lighter skin patches on hands and face; progressive increase in size; no pain; no itching; no discomfort",
+            "Background": "No significant past medical history; no chronic conditions; non-smoker; occasional alcohol use; no recent illnesses; no medication changes; no significant sunburns; no family history of skin cancer"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 115/70 mmHg; HR 72 bpm; RR 14 breaths/min; multiple well-demarcated hypopigmented patches on backs of hands, face, and neck; no erythema; no scaling; no atrophy; normal skin texture; no palpable masses; no induration; no tenderness",
+            "Investigations": "Skin biopsy: absence of melanocytes in epidermis"
+        },
+        "Diagnosis": "Vitiligo",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 99,
+        "Medical_Record": {
+            "Demographics": "30-year-old female; caretaker at nursing home",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Intermittent diarrhea with blood; 1-month duration",
+            "History_of_Present_Illness": "Loose stools with blood; lower abdominal pain; no fever, weight loss, vomiting, night sweats, recent travel, or sick contacts",
+            "Background": "No significant past medical history; denies tobacco, alcohol, and recreational drug use; not on medications"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.0°C; BP 120/80 mmHg; HR 75 bpm; RR 16 breaths/min; mild suprapubic tenderness; no rebound tenderness or guarding; no organomegaly; normal bowel sounds; no visible abdominal abnormalities",
+            "Investigations": "WBC 11,000/μL (slightly elevated); Hemoglobin 13.2 g/dL; Platelets 240,000/μL; stool culture negative; colonoscopy shows patchy erythema and ulceration in cecum, ascending, descending, and sigmoid colon; mucosal biopsy shows colonic crypts with lymphocytic and neutrophilic infiltrates"
+        },
+        "Diagnosis": "Crohn’s disease",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 100,
+        "Medical_Record": {
+            "Demographics": "77-year-old male; retired school teacher",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Brown, greasy-appearing lesions on forehead; several weeks duration",
+            "History_of_Present_Illness": "Recent appearance of several brown, greasy, superficial lesions on forehead; no change in size or color; unsuccessful attempts to remove; no pain or itching",
+            "Background": "Hypertension controlled with medication; no history of skin cancer or chronic skin diseases; non-smoker; enjoys gardening; no weight loss, fever, night sweats, or recent illnesses"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 135/85 mmHg; HR 72 bpm; RR 14 breaths/min; multiple well-defined, round to oval, brown, greasy plaques (0.5–1.5 cm) on forehead; slightly raised, waxy texture; no tenderness or warmth",
+            "Investigations": "Skin biopsy not performed; histopathology would show benign keratinocyte proliferation, horn cysts, papillomatous surface if done"
+        },
+        "Diagnosis": "Seborrheic keratosis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    }
+]

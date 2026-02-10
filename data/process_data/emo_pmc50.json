@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "Medical_Record": {
+            "Demographics": "12-month-old male; ",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Growth concerns; since birth",
+            "History_of_Present_Illness": "Facial dysmorphism; hearing defect; bony abnormality; delayed motor milestones; difficulty remaining seated or concentrating; IQ 56 at 12 months",
+            "Background": "Normal pregnancy; birth weight 2.9 kg (10th percentile); birth length 45 cm (3rd percentile); no foramen magnum or spine column deformity; no family history of same mutation; mother, brother unaffected"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Bulging forehead; prominent ears; widely spaced eyes; down slanted palpebral fissures; short nose with broad columella; thick alae nasi and septum; thick, everted underlip; short, fleshy hands; hyperextensible, tapering fingers; small terminal phalanges and nails; weight at 12 months 8.2 kg; height 68.2 cm (<-3.17 z score); unable to stand unaided at 12 months",
+            "Investigations": "Bone metabolism disturbance (Vit D 45.2 nmol/L); IGF-1α < 25 ng/mL; ABR threshold >85 db (hearing disorder); MRI: dilation of bilateral ventricles, less cerebral white matter; NGS: c.2185 C > T at chrX20173554 (p.Arg729Trp mutation, RSK2 instability); mutation not found in mother or brother"
+        },
+        "Diagnosis": "Coffin–Lowry Syndrome",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 1,
+        "Medical_Record": {
+            "Demographics": "22-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Desire to postpone second pregnancy; request for reversible contraception",
+            "History_of_Present_Illness": "Wishes to delay second pregnancy for approximately 3 years; seeks contraceptive method that can be discontinued when ready for conception",
+            "Background": "One child; no additional medical, surgical, family, social history, medications, allergies, or contextual data provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Contraceptive counseling",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 2,
+        "Medical_Record": {
+            "Demographics": "13-year-old female; ",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Right flank pain; 2-month duration",
+            "History_of_Present_Illness": "Persistent right flank pain; no hematuria; no dysuria; no thyroid disease; no renal disease",
+            "Background": "No significant past medical history; blood group O negative; BMI 19.8 kg/m2; slightly increased blood pressure; no weight loss; no family or social history mentioned; no medication or allergy history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Abdomen smooth; no tenderness; no flank masses; rest of examination unremarkable",
+            "Investigations": "Blood tests normal; HGB 11.1 g/dl; Creatinine 0.61 mg/dl; abdominal ultrasound: heterogeneous mass 13 × 14 cm right kidney; MSCT: large right centrally necrotized tumor, homogenously enhancing; no distant metastases; no lymph node enlargement; no ovarian mass; stones in left kidney; post-nephrectomy: tumor mass 13.5 × 12.5 cm lower lobe; histopathology: macro and micro follicles with eosinophilic colloid-like material, cuboidal cells, no mitoses, no capsule invasion; immunohistochemistry: Vimentin positive, CK19 diffusely positive, CK7 focally positive, TTf1, Thyroglobulin, WT1, CD10, EMA negative"
+        },
+        "Diagnosis": "Thyroid-like follicular carcinoma of the kidney",
+        "Department": "Surgery"
+    },
+    {
+        "id": 3,
+        "Medical_Record": {
+            "Demographics": "62-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Upper abdominal discomfort; unspecified duration",
+            "History_of_Present_Illness": "Diagnosed with cholangiocarcinoma; attempted laparoscopic resection not performed due to peritoneal seeding; treated with gemcitabine and cisplatin chemotherapy; transferred for further management",
+            "Background": "No details on occupation, PMH, surgical history, family or social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Vital signs within normal ranges at admission",
+            "Investigations": "Peripheral blood: leukocyte 4920/μL, hemoglobin 10.0 g/dL, platelet 359,000/μL; serum biochemistry within normal ranges; abdominal CT: tumor size increased after 2 cycles of chemotherapy; immunohistochemical staining for TP positive; abdominal CT after gemcitabine and doxifluridine: partial response, then progression; CT during follow-up: disease progression; death due to sepsis"
+        },
+        "Diagnosis": "Cholangiocarcinoma",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 4,
+        "Medical_Record": {
+            "Demographics": "40-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Genital pruritus; 1-year duration",
+            "History_of_Present_Illness": "Intense pruritus during menstruation; no oral contraceptive intake; no seasonal change; no contact hypersensitivity",
+            "Background": "Peptic ulcer for 2 years; no family history of similar complaints or genital lesions"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Symmetrical lichenified plaques on bilateral labia majora; abrasion and erythema on vulvar edges; otherwise normal skin; no extragenital lesions",
+            "Investigations": "Papanicolaou smear and vulvar swabs negative for pathology and infection; histopathology shows multiple cystic enlargements lined by cuboidal epithelium, tadpole-like ductal structures, eosinophilic material in fibrotic stroma; ER and PR immunostains negative; fasting glucose 280 mg/dL; HbA1c 12.24 mmol/mL"
+        },
+        "Diagnosis": "Vulvar syringoma and type 2 diabetes mellitus",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 5,
+        "Medical_Record": {
+            "Demographics": "46-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Routine follow-up for autosomal dominant polycystic kidney disease",
+            "History_of_Present_Illness": "Episode of macroscopic haematuria two months prior; controlled by conservative treatment; remained asymptomatic",
+            "Background": "History of autosomal dominant polycystic kidney disease diagnosed 8 years prior; mild arterial hypertension for 8 years; treated with telmisartan 80 mg daily"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Slight arterial hypertension; otherwise normal physical and neurological examination",
+            "Investigations": "Serum creatinine 2 mg/dl; creatinine clearance 34 ml/min/1.73 m2; abdominal ultrasonography shows enlarged cystic kidneys with few liver cysts; MRI reveals numerous renal cysts, some with recent bleeding; total kidney volume 3053 ml; incidental sacral radicular cysts with fluid content and homogenous high T2 signal intensity"
+        },
+        "Diagnosis": "Sacral radicular cysts in autosomal dominant polycystic kidney disease",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 6,
+        "Medical_Record": {
+            "Demographics": "47-year-old female; occupation not stated",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Acute decompensated heart failure; duration not specified",
+            "History_of_Present_Illness": "History of carotid artery dissection and metastatic melanoma; received combination checkpoint inhibitor therapy (ipilimumab, nivolumab) one year prior; switched to dabrafenib and trametinib due to disease progression; nivolumab restarted four months prior; developed asymptomatic supraventricular tachycardia one month prior; subsequent dyspnoea before hospitalization",
+            "Background": "Metastatic melanoma; carotid artery dissection; prior immunotherapy (ipilimumab, nivolumab); BRAF inhibitors (dabrafenib, trametinib); no data on family history, social history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Afebrile; hypotensive; tachycardic; tachypnoeic; pulmonary oedema; jugular venous distension; ascites; lower extremity oedema",
+            "Investigations": "ECG: regular, narrow-complex rhythm, atrial tachycardia, no ischaemic changes; serum troponins negative; CK negative; proBNP 3797 pg/mL (elevated); echocardiogram: global biventricular failure, LVEF 26%, severely dilated left ventricle, trivial pericardial effusion; CMR: non-ischaemic late gadolinium enhancement, mid-wall and epicardial enhancement, 15% LV myocardium involved, severe biventricular dysfunction (LVEF 16%, RV ejection fraction 12%); microscopy: moderate lymphocytic myocarditis in LGE regions, mild infiltrate elsewhere, T-cell predominant (CD4+, CD8+), moderate fibrosis, PD-L1 focal membrane positivity; autopsy: no significant coronary artery disease"
+        },
+        "Diagnosis": "Immunotherapy-mediated myocarditis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 7,
+        "Medical_Record": {
+            "Demographics": "28-year-old female; marital status: married",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Severe itchy erythematous patches; duration since childhood, worsening over past 8–10 years",
+            "History_of_Present_Illness": "Itchy erythematous patches started on limbs, progressed to trunk; worsening over 8–10 years; initial cyclosporine 20 mg BID for 2 months with worsening symptoms; cyclosporine increased to 100 mg BID plus methotrexate up to 20 mg weekly with 60% improvement; subsequent flare-up; started on dupilumab 300 mg every 2 weeks for 4 months; redness on face and neck 4 hours post-injection, resolving after 2 days, recurring after each injection; rash became scaly before resolving; pain and warmth over redness rated 7/10; no fever, itching, or swelling of lips/eyelids; hydroxyzine and mometasone furoate cream BID for 3 days used during episodes, rash faded after 2 days",
+            "Background": "History of atopic dermatitis since childhood; no mention of surgical history, family history, social history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Non-pruritic skin rash over cheeks and neck; no palpable lymph nodes; no hepatosplenomegaly",
+            "Investigations": "Laboratory workup unremarkable; negative antinuclear antibody; erythrocyte sedimentation rate 21 mm/h (normal)"
+        },
+        "Diagnosis": "Dupilumab-induced facial and neck erythema in atopic dermatitis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 8,
+        "Medical_Record": {
+            "Demographics": "51-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Severe hip pain and rigid immobility; 3-day duration after hip resurfacing arthroplasty",
+            "History_of_Present_Illness": "Persistent severe pain and rigid immobility of left hip following resurfacing arthroplasty; flection contracture on right side; groin pain",
+            "Background": "Recent resurfacing arthroplasty for osteoarthritis of left hip; posterior approach with computer navigation; Birmingham Hip Resurfacing implant; no further medical, family, social history, medications, or allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Flection contracture on right side; groin pain",
+            "Investigations": "X-ray shows mismatch between femoral and acetabular component diameters; coordinate measuring machine confirms size mismatch and damage to femoral component"
+        },
+        "Diagnosis": "Hip resurfacing arthroplasty failure due to mismatched implant components",
+        "Department": "Surgery"
+    },
+    {
+        "id": 9,
+        "Medical_Record": {
+            "Demographics": "28-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Itching, foreign body sensation, severe photophobia in right eye; 1-week duration",
+            "History_of_Present_Illness": "Progressive discomfort, photophobia, decreasing vision, tearing in right eye over several months; intermittent pain; history of loss to follow-up; worsening symptoms after initial improvement",
+            "Background": "No background medical history, surgical history, family or social history, medications, allergies, or other contextual data provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Visual acuity: finger counting (right), 20/40 (left); intraocular pressure: 11 mm Hg (right), 18 mm Hg (left); 360-degree peripheral corneal thinning with central corneal protrusion bilaterally; right eye: 1+ conjunctival injection, 3+ corneal edema, Descemet membrane tear from 4–7 o'clock, 15-mm horizontal cornea; mild corneal neovascularization and hydrops (right); conjunctival injection with corneal bullae (right); corneal scar with bullae (right); postoperative: DSEK graft stable, hydrops with well-formed anterior chamber, cornea clear, DSEK graft stable at 8 months",
+            "Investigations": "Pentacam (left): 478 μm central cornea, 323 μm peripheral cornea, 50.9 D K-max; imaging of right eye not obtained due to irregular and hazy cornea; B scan normal"
+        },
+        "Diagnosis": "Bilateral keratoglobus with chronic hydrops secondary to spontaneous Descemet membrane tear (right eye)",
+        "Department": "Surgery"
+    },
+    {
+        "id": 10,
+        "Medical_Record": {
+            "Demographics": "34-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Request for recommendations regarding improved glycemic control; preconception planning for IVF",
+            "History_of_Present_Illness": "Type 1 diabetes diagnosed in early 20s; poor glycemic control during first pregnancy (HbA1c ~11%); first child born with birth defects; improved glycemic control during second pregnancy (HbA1c 7.5–8.5%); healthy child delivered at 35 weeks; currently planning third pregnancy; anxiety regarding fetal well-being",
+            "Background": "No occupation stated; no surgical history mentioned; no family history stated; no social history stated; no medication list provided; no allergy information; no immunization or travel history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "HbA1c 6.1–6.3% prior to planned conception; no other laboratory or imaging data provided"
+        },
+        "Diagnosis": "Type 1 Diabetes Mellitus",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 11,
+        "Medical_Record": {
+            "Demographics": "22-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Persistent lower-left extraoral hard swelling and pain; 2-week duration following surgical extraction of lower-left third molar",
+            "History_of_Present_Illness": "Tender swelling; on-and-off pressure pain; no provocation by stimulus; no improvement with antibiotics or endodontic therapy",
+            "Background": "No relevant medical history; no known allergies; no reported family or social history; no current medications except prescribed antibiotics"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Tender lower-left extraoral hard swelling",
+            "Investigations": "Panoramic radiograph: extracted lower-left third molar, endodontic-treated lower-left second molar; CBCT of extracted site; excisional biopsy: scar tissue with patchy chronic inflammation"
+        },
+        "Diagnosis": "Irritational Fibroma",
+        "Department": "Surgery"
+    },
+    {
+        "id": 12,
+        "Medical_Record": {
+            "Demographics": "28-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Widespread erythema, desquamation, painful skin; duration not specified",
+            "History_of_Present_Illness": "History of plaque psoriasis since age 12; recurrent flares; rapid withdrawal from systemic corticosteroids considered trigger; chronic HBV infection",
+            "Background": "Chronic HBV infection via perinatal transmission; high viral load; no HCV infection; no cirrhosis; prior intravenous corticosteroids; prior dexamethasone and traditional Chinese medicine; BMI 19.5"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Widespread erythema; desquamation; painful skin",
+            "Investigations": "PASI score 64.8; BSA 93%"
+        },
+        "Diagnosis": "Erythrodermic Psoriasis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 13,
+        "Medical_Record": {
+            "Demographics": "60-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Chest pain, heartburn, dysphagia after radiation therapy",
+            "History_of_Present_Illness": "Oral carcinoma with multiple bone metastases; received 3 cycles of 5-fluorouracil, cisplatin, and cetuximab; radiation therapy to thoracic and lumbar vertebrae; developed chest pain, heartburn, dysphagia post-radiation",
+            "Background": "No additional PMH, surgical history, family or social history, medications, allergies, or other contextual data provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "PET/CT: bone metastases to thoracic and lumbar vertebrae; blood neutrophil count <500/μL post-chemotherapy; upper GI endoscopy: esophageal erythema, ulceration, spontaneous bleeding (FARE grade 4, CTCAE grade 3); follow-up endoscopy: improvement to FARE grade 1, CTCAE grade 0; blood neutrophil count recovered to 4,900/μL"
+        },
+        "Diagnosis": "Radiation esophagitis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 14,
+        "Medical_Record": {
+            "Demographics": "82-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Abdominal discomfort; 2-day duration",
+            "History_of_Present_Illness": "Epigastric discomfort; non-radiating; nausea; no vomiting; no fevers, chills, lightheadedness, headaches, chest pain, shortness of breath, hematochezia, numbness, or melena",
+            "Background": "History of obesity, acute pancreatitis secondary to cholelithiasis, prior cholecystectomy, hypertension, hyperlipidemia, diabetes mellitus, pulmonary embolism, nonischemic cardiomyopathy; medications: aspirin, apixaban, atorvastatin, metformin, metoprolol, spironolactone, ramipril; no alcohol use; recent use of Garcinia cambogia as appetite suppressant"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Epigastric tenderness; positive bowel sounds",
+            "Investigations": "Serum lipase >600 U/L (elevated); WBC 11.7 K/μL (elevated); hemoglobin 13.4 g/dL; bilirubin 0.5 mg/dL; alkaline phosphatase 66 IU/L; ALT 12 U/L; AST 17 U/L; lactic acid 0.9 mmol/L; triglycerides 146 mg/dL; CT abdomen shows fat stranding around pancreas"
+        },
+        "Diagnosis": "Acute pancreatitis secondary to Garcinia cambogia",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 15,
+        "Medical_Record": {
+            "Demographics": "57-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Sudden-onset skin thickening and hardening; rapid progression; 8-week duration after colorectal surgery",
+            "History_of_Present_Illness": "Marked thickening and hardening of upper limb skin; sclerodactyly with flexural contractures of interphalangeal joints; hand stiffness; puffy fingers; digital pitting scars; lower extremity skin hardening with knee flexion contractures; facial skin hardening; limited mouth opening; microcheilia; mat-like telangiectasias on forehead and cheeks; Raynaud’s phenomenon; dyspeptic symptoms including heartburn, regurgitation, solid-food dysphagia; two years later, rapid progression of skin symptoms, fever, generalised malaise, abdominal pain",
+            "Background": "History of rectal adenocarcinoma; low anterior resection with protective transverse colostomy; pre-operative radiochemotherapy; adjuvant chemotherapy; no mention of family history, social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Marked skin thickening and hardening of upper limbs; sclerodactyly; flexural contractures of interphalangeal joints; hand stiffness; puffy fingers; digital pitting scars; lower extremity skin hardening; knee flexion contractures; facial skin hardening; limited mouth opening; microcheilia; mat-like telangiectasias on forehead and cheeks; nearly immobilising skin hardening of hands and lower extremities",
+            "Investigations": "Raynaud’s phenomenon induced by cold-water provocation; early scleroderma pattern on nailfold capillaroscopy; high titres of antinuclear antibodies (1:1280) with nucleolar staining; negative western-blot for specific antigens; chest high-resolution CT shows bibasilar pulmonary fibrosis; preserved pulmonary function on spirometry; echocardiography not suggestive of pulmonary arterial hypertension; oesophageal manometry shows reduced distal contraction amplitude and hypotensive lower oesophageal sphincter; oncology assessment confirms inoperable, locally advanced recurrence of primary tumour"
+        },
+        "Diagnosis": "Paraneoplastic systemic sclerosis associated with colorectal carcinoma",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 16,
+        "Medical_Record": {
+            "Demographics": "27-year-old female; occupation not stated",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Exertional dyspnea and palpitations during pregnancy; onset at 9 weeks gestation",
+            "History_of_Present_Illness": "Known hypertrophic cardiomyopathy; chest tightness one year prior; rare palpitations before pregnancy; increased exertional dyspnea and palpitations upon fast walking or overeating at 9 weeks gestation; dizziness on orthostatic position change at 15 weeks gestation; symptoms persisted and worsened during pregnancy; progressive dyspnea on exertion and chest pain thirteen months after delivery",
+            "Background": "No previous medical history; no family history of cardiovascular disorder or sudden cardiac death; no surgical history; medications include bisoprolol 1.25 mg twice daily during pregnancy; no allergies mentioned; obstetric history: primigravid; fetal ultrasound normal"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 93/64 mm Hg; pulse rate 108 beats per minute; regular rhythm; grade III/VI systolic harsh murmur at third intercostal space left sternal border; breathing stable",
+            "Investigations": "Electrocardiography: sinus rhythm; TTE: asymmetrical septal hypertrophy (15 mm), dynamic LVOT obstruction, severely enlarged left atrium (volume index 57 mL/m2), hyperdynamic LV systolic function (ejection fraction 78%), high LVOT pressure gradient (rest 75/47 mm Hg, Valsalva 103/52 mm Hg at 11 weeks; rest 119/52 mm Hg, Valsalva 147/70 mm Hg at 17 weeks; rest 125/63 mm Hg, Valsalva 152/72 mm Hg at 34 weeks; rest 115/66 mm Hg, Valsalva 152/83 mm Hg before delivery; rest 87/33 mm Hg after delivery; rest 100/31 mm Hg, Valsalva 169/45 mm Hg at 13 months postpartum), moderate eccentric mitral regurgitation (grade III/IV), pseudonormalization of LV filling pattern (E/e' 24); Holter monitoring: rare APCs and VPCs initially, later frequent APCs (4.26%), non-sustained atrial tachycardia, occasional VPCs (0.40%) up to triplets; fetal ultrasound normal"
+        },
+        "Diagnosis": "Hypertrophic cardiomyopathy with severe left ventricular outflow tract obstruction during pregnancy",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 17,
+        "Medical_Record": {
+            "Demographics": "48-year-old female; occupation not stated",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Swollen gums; duration not stated",
+            "History_of_Present_Illness": "Discomfort due to gum disfigurement; unesthetic appearance; bleeding; difficulty chewing; symptoms more severe recently",
+            "Background": "Hypertension treated with amlodipine (10 mg/day for 2.5 years, increased to 50 mg/day 6 months ago); statins prescribed for acute angina attack and hypercholesterolemia; no other history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Generalized gingival overgrowth on labial and lingual/palatal surfaces; more pronounced on labial surfaces; enlarged, fibrous, lobulated interdental papillae; generalized bleeding on probing; probing depths 3-8 mm; grade III mobility in mandibular anteriors; generalized reddish color; purulent discharge in mandibular anteriors; no deep periodontal pockets",
+            "Investigations": "Plaque index, gingival index, Russel's periodontal index; photographic analysis (Ellis and Seymour score 3); radiograph shows generalized horizontal bone loss, more in anterior regions; blood tests for lipid profile (CHO, HDL, LDL, TG); genetic microbiologic test (IAI Pado Test 4.5) identified Aggregatibacter actinomycetemcomitans, Porphyromonas gingivalis, Tannerella forsythia, Treponema denticola; biopsy shows dense and loose fibrous tissue, chronic inflammatory cell infiltrate, elongation of rete pegs"
+        },
+        "Diagnosis": "Amlodipine induced gingival overgrowth",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 18,
+        "Medical_Record": {
+            "Demographics": "Early 60s male; occupation not specified",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Headache; 60-minute duration",
+            "History_of_Present_Illness": "Sudden onset headache; mild dysarthria; left hemiparesis; left hemispatial neglect; no pain elsewhere; no trauma to head or neck",
+            "Background": "No signs of connective tissue diseases; no other past medical history, surgical history, family or social history, medications, allergies, immunizations, or travel history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "NIH Stroke Scale score 9; mild dysarthria; left hemiparesis; left hemispatial neglect",
+            "Investigations": "MRI: right internal carotid artery occlusion without acute ischemic changes; angiography: right ICA occlusion, mural hematoma, dissection flap; cone-beam CT: no intracranial hemorrhage; post-procedure MRI: successful revascularization without infarction; follow-up angiography: resolution of dissection with minimal stenosis"
+        },
+        "Diagnosis": "Acute internal carotid artery occlusion due to dissection of the paraclinoid segment",
+        "Department": "Emergency Medicine"
+    },
+    {
+        "id": 19,
+        "Medical_Record": {
+            "Demographics": "9-day-old female; ethnicity: African–American",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Well-circumscribed, nontender, firm soft tissue mass on anterior abdominal wall; noted since birth",
+            "History_of_Present_Illness": "Mass noted at birth; undetected on prenatal ultrasound; similar subcutaneous nodules on upper back and left hip; otherwise good health",
+            "Background": "Full-term birth; unremarkable prenatal course; no additional medical history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Well-circumscribed, nontender, firm mass on anterior abdominal wall; subcutaneous nodules on upper back and left hip",
+            "Investigations": "Abdominal ultrasound: left upper quadrant subcutaneous mass 1.9 x 1.2 x 2.7 cm; small vascular flow; MRI at ~2 months: multiple rim-enhancing lesions in abdomen and pelvis (osseous, muscular, pancreatic head); echocardiogram: 10-mm lesion in left ventricular free wall; biopsy: cystic mass fused to abdominal wall, tan-pink to tan-white, firm, rubbery; microscopy: bland, medium-sized, round to spindled cells, vacuolated nuclei, fascicular pattern, rare mitotic figures, collagenous fibromyxoid stroma; immunohistochemistry: positive for β-catenin (cytoplasmic), smooth muscle actin"
+        },
+        "Diagnosis": "Multifocal infantile myofibromatosis",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 20,
+        "Medical_Record": {
+            "Demographics": "74-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Suspected tongue cancer; duration not specified",
+            "History_of_Present_Illness": "History of Hodgkin lymphoma diagnosed 1 year and 5 months prior; received six courses of doxorubicin hydrochloride, bleomycin, vinblastine, and dacarbazine; complete remission achieved; new tongue tumor with ulceration and induration observed; biopsy confirmed well-differentiated squamous cell carcinoma; imaging showed enlarged lymph nodes",
+            "Background": "No abnormal blood findings at initial visit; no additional PMH, surgical history, family or social history, medications, allergies, immunizations, or travel history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Tumor with ulceration and induration on right side of tongue, 26 mm diameter",
+            "Investigations": "Hematoxylin–eosin staining: atypical cells in lymph nodes; immunohistochemistry: CD30-positive, PAX5 weakly positive in tumor cells; CT: 24.0 × 19.3 × 14.2-mm contrast-enhanced tongue tumor, hypo-absorption in left level IB and III lymph nodes; MRI: 23.4 × 19.6-mm tongue tumor, DOI 13.9 mm; FDG-PET/CT: SUVmax 14.5 at right lingual border, enlarged lymph nodes with SUVmax 4.10 and 9.00; intraoperative frozen section: metastatic squamous cell carcinoma in left level IB lymph node; postoperative histopathology: one metastatic lymph node at left level IB, three at left level III, no extranodal extension; right cervical lymph node: internal vitreous degeneration, no evidence of squamous cell carcinoma or Hodgkin lymphoma"
+        },
+        "Diagnosis": "Complete remission of Hodgkin lymphoma",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 21,
+        "Medical_Record": {
+            "Demographics": "43-year-old female; housewife",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Right nasal obstruction; 1 month duration",
+            "History_of_Present_Illness": "Mild facial swelling; mild proptosis of right eye; no restriction of eye movements or vision; intraoral obliteration of right buccal sulcus by diffuse bony hard mass; deep mesial class II carious lesion of right maxillary first molar; extrusion of right maxillary first and third molars; grade I painless mobility of right maxillary first and second premolars; missing right mandibular first and third molars with history of extraction after carious exposure 6–8 years ago",
+            "Background": "Otherwise healthy; no regional lymphadenopathy; no mention of medications, allergies, family history, social history, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Mild facial swelling; mild proptosis of right eye; intraoral obliteration of right buccal sulcus by bony hard mass; normal oral mucosa; grade I painless mobility of right maxillary first and second premolars; no palpable regional lymph nodes",
+            "Investigations": "Paranasal sinus x-ray: dense sclerotic radiopaque mass obliterating right maxillary sinus with deviated nasal septum; OPG: dense to mixed sclerotic radiopaque mass of right maxillary sinus, widening of periodontal ligament space of right maxillary premolars and molars; CT scan: mixed sclerotic mass involving right maxilla and nasal cavity, involvement of infraorbital floor, nasal cavity, frontal, sphenoidal, and ethmoidal sinuses; Histopathology: sheets of disorganized woven immature bone, round cells with large vesicular nucleus and scanty cytoplasm, focal bizarre multinucleated giant cells, irregular calcified spicules, disorganized immature bone with acid-etched-glass appearance; Chest x-ray: no metastatic lesions"
+        },
+        "Diagnosis": "Osteoblastic osteosarcoma of maxilla",
+        "Department": "Surgery"
+    },
+    {
+        "id": 22,
+        "Medical_Record": {
+            "Demographics": "66-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Left axillary mass; unknown duration",
+            "History_of_Present_Illness": "Accidentally found 1.5-cm bulging, red mass in left armpit; no pain; no ulceration; underwent left axillary tumor resection; no recurrence or metastasis during follow-up",
+            "Background": "Previously healthy; no other complications; mother with history of breast cancer"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Imaging: No mass in bilateral mammary glands; no enlarged lymph nodes; no organ metastasis. Histology: Adenocarcinoma cells of sweat gland origin coexisting with Paget’s cells. Immunostaining: Strong positive for GCDFP-15, GATA-3, CK, E-cadherin, P120-tcn; partial positive for CK5/6, CK20, P53; negative for ER, PR, P53, Calponin, MelanA, S-100, HMB-45, MUC2. HER2: 2+ by IHC, FISH shows amplification. Ki67: 20% positive. Androgen receptor: 40% positive. Pathology: Small number of atypical cells under mucosa; no axillary lymph node metastasis (0/14)."
+        },
+        "Diagnosis": "Sweat gland carcinoma associated with extramammary Paget’s disease",
+        "Department": "Surgery"
+    },
+    {
+        "id": 23,
+        "Medical_Record": {
+            "Demographics": "62-year-old male; occupation not specified",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Incidental liver lesion on MRI; duration 3 years",
+            "History_of_Present_Illness": "Subcapsular cystic liver lesion detected on routine MRI; stable for 2 years; slight increase in size and altered perfusion after 3 years; bile duct dilation; suspicion of malignancy",
+            "Background": "Complex renal cysts; arterial hypertension treated with three antihypertensive drugs; steatotic liver; otherwise healthy; no cholestasis; negative serology for echinococci"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "MRI: subcapsular cystic lesion between liver segments V and VIII; CEUS: lesion in liver hilus (1.7 cm) with bile duct dilation; CA 19-9 elevated at 41.3 U/ml; CEA and alpha1-fetoprotein normal; MRCP: intrahepatic lesion (1.7 cm) with bile duct compression; ERCP: slight impression of right hepatic duct, cytology non-diagnostic; LiMAx test: 492 μg/h/kg; Histology: well-/poorly differentiated cholangiocarcinoma (pT2) with two lymph node metastases (pN1)"
+        },
+        "Diagnosis": "Cholangiocarcinoma",
+        "Department": "Surgery"
+    },
+    {
+        "id": 24,
+        "Medical_Record": {
+            "Demographics": "36-year-old female; ",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Right ovarian tumor; duration not specified",
+            "History_of_Present_Illness": "Initial right ovarian tumor identified; laparoscopic right salpingo-oophorectomy performed; post-surgical pathology showed Sertoli–Leydig-cell tumor; no virilization or hirsutism; 6 months later, metastatic lesions found in pelvic peritoneum, diaphragm, and trocar site; left ovary solid with suspected tumor spread; multiple recurrences and metastases over several years; persistent disease progression despite multiple surgeries and chemotherapy",
+            "Background": "Gravida 2 para 2; unremarkable past medical and surgical history; no relevant family history; no hormonal symptoms; no significant medication or allergy history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Histopathology: initial Sertoli–Leydig-cell tumor, later SCT-NOS; immunohistochemistry positive for inhibin A, calretinin, synaptophysin; negative for pan-cytokeratin, CD68, EMA, chromogranin A, ER/AR; Ki-67 up to 15%; normal hormone levels (FSH, LH, prolactin, estradiol, progesterone, testosterone, DHEA-S, cortisol); tumor markers (HE4, β-hCG, AFP) normal; Ca125 elevated to 48.8 kU/L, returned to normal; CT scans: multiple metastatic lesions, disease progression, ascites, hydronephrosis; frozen sections and biopsies confirmed SCT-NOS metastases"
+        },
+        "Diagnosis": "Steroid-cell tumor, not otherwise specified (SCT-NOS) of the ovary with metastases",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 25,
+        "Medical_Record": {
+            "Demographics": "10-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Progressive loss of strength; difficulty walking; 5-year duration",
+            "History_of_Present_Illness": "Onset at age 5; progressive loss of strength; difficulty ambulating due to hypotonia in lower and upper limbs; genu valgus; joint hypermobility; wheelchair dependent by age 10",
+            "Background": "No abnormal karyotype; normal muscle enzymes; normal radiologic studies; growth of pubic hair and possible menstrual episode at age 7 with normal LH, FSH, estrogen, and progesterone; pituitary cysts and diffuse hypomyelination on brain MRI; orthopedic surgery for Achilles tendon shortening; curly hair with eyelash involvement; GAN gene mutation c.1456G>A (p.GLU486LYS); died at age 12 due to respiratory complications"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Genu valgus; joint hypermobility; hypotonia in limbs; curly hair; eyelash involvement",
+            "Investigations": "Normal karyotype; normal muscle enzymes; normal radiologic studies; brain MRI: pituitary cysts, diffuse hypomyelination; GAN gene mutation c.1456G>A (p.GLU486LYS); scanning electron microscopy: longitudinal grooves and polygonal hair shape (pili canaliculi)"
+        },
+        "Diagnosis": "Giant axonal neuropathy",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 26,
+        "Medical_Record": {
+            "Demographics": "36-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Intermittent band-like headache",
+            "History_of_Present_Illness": "Headache associated with nausea and dizziness",
+            "Background": "No known medical illness"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Grossly intact",
+            "Investigations": "Brain CT scan revealed incidental hypothalamic lipoma"
+        },
+        "Diagnosis": "Hypothalamic Lipoma",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 27,
+        "Medical_Record": {
+            "Demographics": "31-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Intermittent cough; half-month duration",
+            "History_of_Present_Illness": "Intermittent cough; chest X-ray shows heart dilation; echocardiography reveals left atrial occupying lesion and large pericardial effusion; pericardiocentesis removes 600 mL bloody effusion; weight loss of 5 kg since onset; pleural effusion detected; thoracocentesis removes 100 mL bloody effusion; episodes of transient hypertension after activity",
+            "Background": "No family history of tumors; no environmental exposures; no chemical or radiation exposure; no relevant social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Systolic blood pressure 180–200 mmHg after activity; blood pressure normalizes after rest",
+            "Investigations": "Chest X-ray: heart dilation; echocardiography: left atrial lesion (2.8 × 4.5 cm), EF 80%, pericardial effusion; thoracic CT: left atrial lesion (3.44 × 5.54 cm), inhomogeneous enhancement; PET-CT: soft tissue mass (3.5 × 6.5 cm) in left atrium, hypermetabolic brown adipose tissue; pathology: paraganglioma; postoperative catecholamine levels normal"
+        },
+        "Diagnosis": "Intracardiac paraganglioma",
+        "Department": "Surgery"
+    },
+    {
+        "id": 28,
+        "Medical_Record": {
+            "Demographics": "51-year-old male; occupation not stated",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Sudden right-sided weakness and dysarthria",
+            "History_of_Present_Illness": "Acute onset right-sided weakness; dysarthria; blood pressure 158/94 mm Hg on admission",
+            "Background": "History of smoking; chronic nephritis; hypertension; elevated serum creatinine and blood urea; elevated urinary protein; hematuria; renal cyst on ultrasound; no medication or allergy information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Muscle strength grade 3 on admission; improved to grade 5 after treatment; no other physical findings stated",
+            "Investigations": "Brain CT: high-intensity signals at pontine-medullary junction; MRI: acute pontine infarction, two-lumen sign; angiography and MRA: vertebrobasilar dolichoectasia; laboratory: elevated serum creatinine, blood urea, urinary protein, hematuria; renal ultrasound: renal cyst"
+        },
+        "Diagnosis": "Ischemic stroke due to intracranial arterial dolichoectasia and spontaneous basilar artery dissection",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 29,
+        "Medical_Record": {
+            "Demographics": "34-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Mild abdominal pain; unknown duration",
+            "History_of_Present_Illness": "Mild abdominal pain; stable vital signs; good general condition",
+            "Background": "History of two previous cesarean sections; history of two previous miscarriages"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Stable vital signs; good general condition",
+            "Investigations": "Ultrasound: empty uterus; gestational sac between uterus and bladder; transvaginal sonography confirmed cesarean scar pregnancy; gestational age 13 weeks (LMP), 12 weeks (CRL); no fetal heart activity; 71×59 mm hematoma around gestational sac; normal full blood count; normal liver and renal function tests; β-hCG 874 IU/mL (day 0), 329 IU/mL (day 7), negative at 8 weeks; mass not visible on ultrasound at 3 months"
+        },
+        "Diagnosis": "Cesarean scar pregnancy",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 30,
+        "Medical_Record": {
+            "Demographics": "10-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Late-onset involuntary movements in tongue and left extremities; 6 months duration after surgery",
+            "History_of_Present_Illness": "Sudden onset visual field disturbance and cognitive dysfunction; diagnosed with Moyamoya disease; developed right homonymous hemianopsia, sensory aphasia, apraxia, agnosia; underwent STA-MCA anastomosis and EDMAPS; uneventful postoperative course; six months after surgery, developed sustained involuntary movements resembling chorea",
+            "Background": "No further cerebrovascular events after surgery; treated with clonazepam without improvement; treated with haloperidol with gradual and complete resolution; no recurrence for ten years"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Right homonymous hemianopsia; sensory aphasia; apraxia; agnosia",
+            "Investigations": "Brain MRI: multiple infarctions in bilateral deep frontal lobes, left occipital lobe, right temporoparietal lobes; MRA: severe stenosis in terminal ICAs and posterior cerebral arteries bilaterally; SPECT: reduced cerebral blood flow in bilateral hemispheres; postoperative MRI/MRA: no new abnormalities"
+        },
+        "Diagnosis": "Late-onset chorea after surgical revascularization for pediatric Moyamoya disease",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 31,
+        "Medical_Record": {
+            "Demographics": "51-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Anginal symptoms; duration not specified",
+            "History_of_Present_Illness": "Serial chest pain episodes; evaluation for coronary artery disease; progression monitored over multiple years",
+            "Background": "Hypertension; hyperlipidemia; family history of hypercholesterolemia and early myocardial infarction; no occupation specified; no medication or allergy information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Five serial coronary computed tomography angiography (CCTA) exams; quantitative atherosclerosis plaque characterization using AI-assisted software; plaque volumes measured; stenosis and remodeling index calculated"
+        },
+        "Diagnosis": "Coronary artery disease",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 32,
+        "Medical_Record": {
+            "Demographics": "51-year-old male; married; no children",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Incidental high platelet count; recurrent painful erections (stuttering priapism); duration: two to three times per month, lasting 15-60 minutes",
+            "History_of_Present_Illness": "Recurrent painful erections; no trauma; no medication use; no headache, dizziness, tinnitus, chest pain, or bleeding",
+            "Background": "Past sleeve gastrectomy (2014) and gastric bypass (2016) for morbid obesity; no family history of hematological or connective tissue diseases; previous normal platelet count until age 50; anemia corrected with iron therapy; ANA and ANCA negative; no urological intervention required"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Platelet count 1189 × 10^3/μL (elevated); hemoglobin 11.2 gm/dL (low); WBC 8.7 × 10^3/μL (normal); iron level 7.00 μmol/L (low); Fe saturation 11% (low); transferrin 2.60 gm/L (normal); ferritin 3.8 mcg/L (low), improved to 529.0 μg/L after therapy; ANA and ANCA negative; BCR/ABL1 t(9;22)(q34;q11.2) negative; JAK2 mutation negative; Type 2 calreticulin mutation positive; bone marrow biopsy: myeloproliferative neoplasm (consistent with ET); peripheral blood smear: increased platelets, some large and few giant forms; chromosomal analysis: normal karyotype (46,XY); US abdomen: normal liver and spleen, no ascites, no organomegaly"
+        },
+        "Diagnosis": "Essential thrombocythemia with type 2 calreticulin mutation",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 33,
+        "Medical_Record": {
+            "Demographics": "56-year-old female; ",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Abdominal distention; duration not specified",
+            "History_of_Present_Illness": "Abdominal distention; no prior similar symptoms",
+            "Background": "History of acute pancreatitis; gravida 2, para 2; no medications; no family history of ovarian or breast cancer"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Serum CA125 1520.5 U/mL (elevated); abdominopelvic MRI: massive ascites, ovarian masses, numerous nodules in abdominal and pelvic cavities; chest CT: left-supraclavicular lymphadenopathy; PET-CT: FDG accumulation in bilateral ovarian masses, left-supraclavicular, peritoneal, para-aortic, intra-pelvic nodules; post-NAC: serum CA125 97.6 U/mL, decreased tumor size, diminished ascites; histology: high-grade nuclear atypia, spread to both ovaries, omentum, uterine serosa, left fallopian tube; immunohistochemistry: absence of p53, overexpression of p16 in cancer cells, overexpression of p53, lack of p16 in adjacent benign epithelium; nuclear expression of γ-H2AX in p53 aberrant lesions; Ki-67 index <5% in benign epithelium, ~15% in tumor cells; TP53 mutation: 1 bp deletion (c.792del1) in exon 8"
+        },
+        "Diagnosis": "High-grade serous carcinoma",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 34,
+        "Medical_Record": {
+            "Demographics": "33-year-old female; occupation not stated",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Pre-implantation genetic diagnosis with surrogacy; ongoing reproductive management",
+            "History_of_Present_Illness": "Desire for children while minimizing risk of pregnancy-related complications and transmission of pathogenic COL3A1 variant; history of multiple vascular and connective tissue complications",
+            "Background": "Unilateral congenital hip dislocation at birth; left anterior cruciate ligament rupture at age 9; hemorrhagic rupture of liver cyst at age 27; right peroneal arterial aneurysm at age 28; molecularly confirmed vEDS; right coronary artery dissection and right iliac artery dissection at age 29; splenic artery aneurysm rupture during IVF hormonal stimulation at age 32; left-sided deep vein thrombosis post-discharge; liver hematoma; multiple cycles of natural IVF and in vitro maturation; spontaneous dissection of infrarenal aorta with sigmoid volvulus at age 38; successful surrogacy with healthy offspring confirmed negative for familial COL3A1 variant; no reported organ damage or significant bleeds from transvaginal egg retrievals"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Genetic testing confirmed de novo heterozygous pathogenic COL3A1 variant (c.2492G>A, p. Gly831Asp); prenatal and postnatal genetic testing of offspring negative for familial COL3A1 variant"
+        },
+        "Diagnosis": "Vascular Ehlers–Danlos syndrome",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 35,
+        "Medical_Record": {
+            "Demographics": "54-year-old male; occupation not specified",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Right hemiparesis; 1.5-hour duration",
+            "History_of_Present_Illness": "Acute onset right hemiparesis; no improvement after tPA; developed acute dyspnea, hypoxemia, and hemoptysis 6 hours after ITT",
+            "Background": "Previously healthy; nonsmoker; no significant past medical history; no drug allergies; negative serologies for ANA, c- and p-ANCA, anti-GBM, IgG ACA, and anti-2GPI antibodies; normal urinalysis"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Body temperature 36.1°C; room air oxygen saturation 95%; cardiac examination shows atrial fibrillation",
+            "Investigations": "WBC 6.3 × 10^9/L; hematocrit 39%; platelet count 196 × 10^9/L; APTT 35 s; normal PT and INR; NIHSS score 10; initial brain CT excludes bleeding; chest radiography shows bilateral alveolar infiltrates and emphysema; CT pulmonary vasculature shows no emboli; hemoglobin drop from 11.6 to 9.8 g/dL; bronchoscopy reveals diffuse alveolar hemorrhage; control thorax CT after 6 months shows complete resolution"
+        },
+        "Diagnosis": "tPA-associated diffuse alveolar hemorrhage",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 36,
+        "Medical_Record": {
+            "Demographics": "13-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Progressive worsening jerking movement of arms and legs; right torticollis with right shoulder elevation",
+            "History_of_Present_Illness": "Focal segmental myoclonic jerks of arms and trunk; occasional twisting and posturing; dystonic posturing as finger spooning; myoclonus first observed with intentional movement at age four; symptoms worsened over time; frequency increased with anxiety or social situations; no vocal tics; no urge or relief after movements",
+            "Background": "Significant acute events of akinesia; past medical history otherwise unremarkable; family history notable for father diagnosed with Tourette’s syndrome during childhood with similar symptoms; no other relevant family history; previously treated with levetiracetam, valproic acid, clonazepam, topiramate, pimozide, risperidone, guanfacine without marked improvement; responsive to carbidopa/levodopa; no reported allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Cranial nerve testing normal; motor and sensory testing normal; dystonic posturing observed; right torticollis with right shoulder elevation",
+            "Investigations": "EEG: abnormal generalized polyspikes at age seven; 24-hour ambulatory EEG: no epileptiform discharges or asymmetries; brain MRI: no acute intracranial process or cortical abnormalities; Wilson’s disease workup, serum copper, ceruloplasmin, vitamin B-12: within normal limits; whole exome sequencing: SGCE heterozygous pathogenic mutation (c.662+2T>A), FOXRED1 heterozygous pathogenic mutation (c.612_615dup (p.Ala206serfs*15))"
+        },
+        "Diagnosis": "Myoclonus-dystonia (DYT-SGCE)",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 37,
+        "Medical_Record": {
+            "Demographics": "71-year-old male; occupation not stated",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Recurrent urinary tract infections; severe dysuria; bladder pain/discomfort; duration not specified",
+            "History_of_Present_Illness": "History of hypocontractile bladder after Miles' operation for rectal cancer in 2008; clean intermittent catheterization followed by 7 years of indwelling Foley catheter; recurrent UTIs; severe dysuria; bladder pain/discomfort",
+            "Background": "Mild hypertension; taking beta blockers and low-dose aspirin; Miles' operation for rectal cancer in 2008; colostomy present and well functioning; no drug allergies mentioned; no family history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Normal systemic parameters; catheter in situ; digital rectal examination impossible due to closed anus; colostomy trophic; abdominal scar smooth and dry; no thoracic or abdominal abnormalities",
+            "Investigations": "Ultrasound: normal upper urinary tract, reduced capacity bladder, 2 cm bladder stone, small volume prostate with calcifications; urine culture positive for Enterobacter cloacae (>106 CFU/mL); serum PSA 1.1 ng/mL; endoscopy: hair nidus in bladder; gross examination: trichobezoar in bladder; histopathology: benign prostatic hyperplasia with chronic inflammation"
+        },
+        "Diagnosis": "Bladder trichobezoar",
+        "Department": "Surgery"
+    },
+    {
+        "id": 38,
+        "Medical_Record": {
+            "Demographics": "70-year-old male; occupation not specified",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Left knee swelling; duration not specified",
+            "History_of_Present_Illness": "Left knee swelling; incidental severe hypocalcemia (2.7 mg/dl); EKG with prolonged QTC (525 ms); no Chvostek or Trousseau's sign; recent denosumab and leuprolide administration; did not take prescribed vitamin D and calcium; recent prednisone course for pseudogout flare",
+            "Background": "History of chronic kidney disease, pseudogout, metastatic castration-resistant prostate cancer (bone, nodes, lung); home medications: acetaminophen, amlodipine, bicalutamide, docusate-senna, lidocaine patches, ondansetron, polyethylene glycol; no vitamin D or calcium supplementation adherence; prior acute kidney injury due to obstructive uropathy; bilateral nephrostomy tubes placed; resumed androgen deprivation therapy; no data on allergies, family, or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Negative for Chvostek and Trousseau's sign",
+            "Investigations": "Calcium 2.7 mg/dl (severe hypocalcemia); EKG: QTC 525 ms; phosphorus 5.5 mg/dl; total vitamin D3 31 IU; iPTH 93; magnesium 1.1 mg/dl; creatinine worsened to 7.5 mg/dl; severe metabolic acidosis; hyponatremia; Clostridium difficile colitis; PSA 1472; BUN 131 mg/dl; CT: bilateral hydronephrosis, 6.3 cm pelvic mass, 3.8 cm left ureteropelvic junction mass, extensive lymphadenopathy, metastatic lytic skeletal lesions"
+        },
+        "Diagnosis": "Severe hypocalcemia and hypomagnesemia induced by denosumab in advanced chronic kidney disease",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 39,
+        "Medical_Record": {
+            "Demographics": "35-year-old female; occupation not stated",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Right breast mass; 2-month duration",
+            "History_of_Present_Illness": "Progressive right breast mass; diagnosed as invasive ductal breast cancer; refractory to chemotherapy; tumor increased in size; developed dyspnea; multiple lung metastases; cancerous lymphangiopathy; recurrence 9 months after surgery",
+            "Background": "Asthma; schizophrenia; mother died of endometrial cancer at 57; no other family history of cancers; germline PTEN gene alteration; no medication or allergy information"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Core-needle biopsy: invasive ductal carcinoma, ER/PR/HER2 negative, Ki-67 >90%, histological grade 3; mammography: indistinct high-density mass; ultrasonography: irregular low echoic mass 39×20×18 mm; PET-CT: abnormal uptake in right breast, axillary lymph node, left cerebellar hemisphere; brain MRI: hyperintense bands, tiger-stripe appearance, diagnosed as Lhermitte-Duclos disease; genetic testing: PTEN gene c.823_840del.18 at exon 8; postoperative pathology: invasive ductal carcinoma, grade 3, pT3 (51 mm) N3a (10/29) M0 stage IIIC; pleural effusion; lung metastases"
+        },
+        "Diagnosis": "Triple-negative breast cancer with Cowden syndrome",
+        "Department": "Surgery"
+    },
+    {
+        "id": 40,
+        "Medical_Record": {
+            "Demographics": "59-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Respiratory distress; acute onset",
+            "History_of_Present_Illness": "Respiratory distress due to airway stenosis; mass invading trachea; esophageal mass; right chest wall subcutaneous mass; right cervical mass",
+            "Background": "Diagnosis of squamous cell carcinoma by fine-needle aspiration of right cervical mass; clinical stage IV esophageal cancer; no additional PMH, medications, allergies, or social history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Computed tomography: mass invading trachea, esophageal mass, right chest wall mass, right cervical mass; rigid bronchoscopy: tracheal stenosis, lower trachea perforation; chest X-ray: right pneumothorax; chest computed tomography post-surgery: air space on right side of stent, resolved over time"
+        },
+        "Diagnosis": "Iatrogenic tracheal laceration",
+        "Department": "Surgery"
+    },
+    {
+        "id": 41,
+        "Medical_Record": {
+            "Demographics": "4-month-old female; ",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Bluish discoloration of skin around cheek and tip of tongue since birth",
+            "History_of_Present_Illness": "Multiple venous malformations on right cheek; more prominent when crying; generalized tonic clonic seizure; developmental dysplasia of hip; subtle dysmorphism; atrial septal defect (3.5 mm); pulmonary stenosis",
+            "Background": "Cerebral venous thrombosis; on daily enoxaparin 6.5 mg; no additional data on family history, social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "MRI: Thrombosis of right transverse and sigmoid venous sinuses; multi-spatial heterogeneous ill-defined lesion along right side of tongue and cheek representing venous malformation"
+        },
+        "Diagnosis": "Venous malformation",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 42,
+        "Medical_Record": {
+            "Demographics": "56-year-old male; occupation not specified",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Bilateral eye swelling, erythema, whole body swelling, generalized itching, crampy abdominal pain, nausea, vomiting; 1-day duration",
+            "History_of_Present_Illness": "Acute onset symptoms within 60 minutes of taking trimethoprim/sulfamethoxazole for folliculitis; agitation, restlessness, rigors, neck stiffness; prior similar episode 1 year ago after TMP/SMX",
+            "Background": "History of brucellosis infection in 1990 related to walrus meat consumption; no previous drug allergy; prior admission with meningitis and shock after TMP/SMX; no further details on occupation, surgical history, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Initial BP 132/67 mmHg, HR 110 bpm, RR 28/min, Temp 36.7°C; agitation, restlessness, rigors, neck stiffness; later BP 80/50 mmHg, Temp 40°C; on arrival to second hospital BP 131/82 mmHg (on norepinephrine), HR 65 bpm, RR 16/min, oxygen saturation 97% on room air; no evidence of meningeal irritation on later exam",
+            "Investigations": "CT brain normal; CSF: TNCC 670 × 10^6/L (88% neutrophils), protein 0.98 g/L, glucose 3.9 mmol/L; peripheral leukocytosis 18.4 × 10^9/L (87% neutrophils); blood cultures negative; CSF Gram stain 4+ PMN, negative culture; prior CSF: TNCC 196 × 10^6/L (83% neutrophils), protein 1.11 g/L, glucose 4.7 mmol/L; prior CSF cultures and viral PCRs negative"
+        },
+        "Diagnosis": "Trimethoprim-sulfamethoxazole-induced aseptic meningitis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 43,
+        "Medical_Record": {
+            "Demographics": "79-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Back pain due to T10 vertebral compression fracture; scheduled for kyphoplasty",
+            "History_of_Present_Illness": "T10 vertebral compression fracture secondary to osteoporosis",
+            "Background": "History of osteoporosis, hypertension, morbid obesity (BMI 38), obstructive sleep apnea, chronic obstructive pulmonary disease on continuous home oxygen; no surgical history, family or social history, medications, allergies, immunizations, or travel history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Hemodynamic parameters stable intraoperatively",
+            "Investigations": ""
+        },
+        "Diagnosis": "T10 vertebral compression fracture due to osteoporosis",
+        "Department": "Surgery"
+    },
+    {
+        "id": 44,
+        "Medical_Record": {
+            "Demographics": "64-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Acute left-sided hemiplegia and dysarthria; duration not specified",
+            "History_of_Present_Illness": "Sudden onset left-sided hemiplegia and dysarthria; MRI showed bilateral acute midbrain and thalamic infarction; developed fever and dry cough on third hospital day; RT-PCR positive for SARS-CoV-2; progressive hypotension during ICU stay",
+            "Background": "History of atrial fibrillation; on warfarin and digoxin; no other past medical history, surgical history, family or social history, allergies, or immunization status mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Glasgow coma scale 13; dysarthria; bilateral lower limbs pitting edema to knee; blood pressure 130/70 mmHg; heart rate 90 bpm (atrial fibrillation with controlled ventricular response); respiratory rate 18 breaths per minute; oxygen saturation 96% (nasal oxygen cannula 2 L/min); not cooperative for conscious prone positioning",
+            "Investigations": "MRI: bilateral acute midbrain and thalamic infarction; Blood tests: INR 1.03, ferritin 1200 ng/mL, troponin 10 ng/L, D-dimer 2.3 mg/mL, CRP 161 mg/L, normal kidney and liver function; Transthoracic echocardiogram: LVEF 60%, moderate mitral and tricuspid regurgitation, dilated right atrium and right ventricle, pulmonary hypertension, RVSP 64 mmHg; Chest CT: bilateral ground-glass appearance, sub-pleural consolidation right lung; ABG: P/F 280, later 180; CVP 15-18 mmHg; UOP 0.5 mL/kg/hour; TTE: dilated pulmonary arteries, right atrium, right ventricle, mild RV free wall hypokinesia, no visible thrombi in main pulmonary artery, dilated IVC with collapse <50%, normal LV; CT pulmonary angiography: right middle lobar segmental branch occlusion (thrombosis); high fibrinogen degradation products (280 mg/mL); lactic metabolic acidosis"
+        },
+        "Diagnosis": "Acute pulmonary embolism",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 45,
+        "Medical_Record": {
+            "Demographics": "48-year-old male; occupation not specified",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Gradually enlarged and ulcerated erythematous plaque on right knee; 6-month duration",
+            "History_of_Present_Illness": "Plaque on extensor side of right knee; treated with steroid ointment; lesion enlarged and ulcerated; new painful skin nodule appeared in recent months",
+            "Background": "No weight loss; no palpable lymphadenopathy; no organomegaly; laboratory results within normal range; no significant past medical history, surgical history, family or social history, medications, allergies, immunizations, or travel history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "8.0 cm x 6.0 cm well-defined ulcerated plaque on extensor side of right knee; solitary nodular mass 1.5 cm diameter near ulcerated lesion",
+            "Investigations": "Blood count, differential, liver and renal function normal; surgical resection performed; bone marrow examination normal; whole body PET/CT no abnormality"
+        },
+        "Diagnosis": "Cutaneous Langerhans cell sarcoma",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 46,
+        "Medical_Record": {
+            "Demographics": "40-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Recurrent fever and loose stools; duration more than 3 months; aggravation for 3 days",
+            "History_of_Present_Illness": "Fever and loose stools began 3 months ago; initially diagnosed as acute gastroenteritis; symptoms persisted and worsened; stools yellow, watery, no blood; multiple hospital visits; no improvement",
+            "Background": "No remarkable history of past illness"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Pale mucosa; upper abdominal tenderness",
+            "Investigations": "WBC 9.9 × 10^9/L; neutrophil ratio 75.7%; hemoglobin 87 g/L; C-reactive protein 106 mg/L; procalcitonin 3.92 ng/mL; calprotectin and ANCA IgG positive; negative autoantibody, immunization, blood culture, stool culture, Widal reaction, CMV DNA, and IBD-associated antibodies; B-ultrasound: multiple cervical and mesenteric lymph nodes; colonoscopy: multiple colonic ulcers; colonoscopic biopsy: chronic mucosal inflammation, interstitial lymphocytes, plasma cells, eosinophil and neutrophil infiltration; immunohistochemistry: chronic inflammation of sigmoid mucosa, T lymphocyte hyperplasia; PET-CT: increased 18F-FDG metabolism in colon and rectum, slight thickening of colon wall, multiple low-metabolized mesenteric lymph nodes; high fever up to 40.3°C; WBC 17.5 × 10^9/L; neutrophil ratio 91.8%; enteroscopy: hyperemia and edema of sigmoid colon mucosa, multiple longitudinal ulcers, proliferative changes; bone marrow aspiration: 3.5% lymphocytes, mainly mature; bone marrow immunohistochemistry: CD3, CD2, CD5, CD20, CD79α, myeloperoxidase, CD61, CD34 positive; TdT negative; blood tumor immunotyping: increased granulocytes, abnormal differentiation; Ig gene rearrangement: no monoclonal rearrangement; pathology: focal heterotypic lymphocyte infiltration, abnormal immune phenotype; CD3, EBER, TIA positive; CD20, CD5, CD4, CD8 negative; CD56 suspected positive; Ki-67 approximately 40%"
+        },
+        "Diagnosis": "Intestinal NK/T cell lymphoma",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 47,
+        "Medical_Record": {
+            "Demographics": "44-year-old female; occupation not specified",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Persistent upper lip lesion; duration over 1 year",
+            "History_of_Present_Illness": "Recurrent crusted macule with small erosions on upper lip; flares lasting weeks then healing; no improvement with over-the-counter cold sore medication; no pain, tingling, or burning; lesion visually unchanged over time; no response to oral valacyclovir",
+            "Background": "No significant past medical history; no history of cold sores; medication: oral valacyclovir; no information on surgical history, family history, social history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "7-mm erythematous crusted papule with slightly pearly rolled borders on upper lip",
+            "Investigations": "Tzanck smear: multinucleated giant cells; tangential biopsy: basal cell carcinoma; Mohs stage I: multinucleated giant cells adjacent to residual basal cell carcinoma"
+        },
+        "Diagnosis": "Basal cell carcinoma of the upper lip",
+        "Department": "Surgery"
+    },
+    {
+        "id": 48,
+        "Medical_Record": {
+            "Demographics": "48-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Flattened elevated lesion on anterior wall of descending duodenum; unknown duration",
+            "History_of_Present_Illness": "2 cm lesion detected; biopsy revealed neuroendocrine neoplasm (G1)",
+            "Background": "History of left upper lobectomy for lung cancer (pT2aN0M0, stage IB) 1 year ago; adjuvant chemotherapy with tegafur-uracil for 8 months"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Endoscopic ultrasonography: 14 mm submucosal lesion; CT and duodenography: 18-mm tumor in descending duodenum; Intraoperative endoscopy: tumor protruding from duodenum; Pathology: duodenal neuroendocrine neoplasm, G1"
+        },
+        "Diagnosis": "Duodenal neuroendocrine neoplasm, G1",
+        "Department": "Surgery"
+    },
+    {
+        "id": 49,
+        "Medical_Record": {
+            "Demographics": "67-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Dysphagia; 2-month duration",
+            "History_of_Present_Illness": "Progressive dysphagia; only able to consume fluids; weight loss of 8 kg (9% of initial body weight) over 2 months; further weight loss of 25 kg (36% of initial body weight) over next 4 months; total weight at referral 83 kg, later 58 kg",
+            "Background": "Diabetes mellitus type II; hypertension; history of benign colon polyps (three polypectomies); 50-year tobacco use (10 cigarettes daily); no alcohol overconsumption; no HIV, herpes, or HPV infection; hospitalized at Department of Infectious Diseases during workup"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Unremarkable initial examination",
+            "Investigations": "Initial blood tests unremarkable; primary endoscopy: white plaques from 30 to 40 cm from incisors, mucosa protruding and covering almost 2/3 of lumen; initial biopsies: severe acute inflammation with reactive changes, no dysplasia or malignancy; CT: thickened wall in distal esophagus; repeat gastroscopy: ulceration and protruding process; biopsy: squamous cell papilloma; PET-CT: no explanation for symptoms; high-resolution impedance manometry: achalasia ruled out; final pathology: low-grade verrucous squamous cell carcinoma, no lymph node or organ dissemination"
+        },
+        "Diagnosis": "Verrucous squamous cell carcinoma of the esophagus",
+        "Department": "Surgery"
+    }
+]

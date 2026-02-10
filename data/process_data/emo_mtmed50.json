@@ -1,0 +1,802 @@
+[
+    {
+        "id": 0,
+        "Medical_Record": {
+            "Demographics": "Less than 2-month-old; sex unspecified; ",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "No bowel movement; 7-day duration",
+            "History_of_Present_Illness": "Previous longest interval without bowel movement 3-4 days; frequent passage of smelly gas; occasional passage of yellow, non-dry stool with gas; daily abdominal massage; difficulty administering probiotics; concern about prolonged lack of bowel movements",
+            "Background": "Breastfeeding; no delay in passing meconium after birth; no information on PMH, surgical history, family/social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Infant dyspepsia with gastrointestinal dysfunction and spleen-stomach imbalance",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 1,
+        "Medical_Record": {
+            "Demographics": "30-year-old female; height 173 cm; weight 55 kg",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Severe orthostatic hypotension; recent onset",
+            "History_of_Present_Illness": "Blood pressure 80/50 mmHg; heart rate 90 bpm; history of low blood pressure; mild palpitations; chest tightness; mild shortness of breath; symptoms more pronounced than previous episodes; previous ECGs showed low T waves and slightly fast heart rate; no current gastrointestinal symptoms; insomnia improved after Chinese medicine and trazodone hydrochloride; difficulty falling asleep and waking easily persists",
+            "Background": "History of atrophic gastritis; no recent dieting; 6-7 hours sleep daily; two years postpartum; menstrual cycle irregular and delayed; decreased menstrual flow; mild inflammation on gynecological exams; sensitive to cold; endoscopy three months ago; no major gynecological issues; no current gastrointestinal symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 80/50 mmHg; heart rate 90 bpm",
+            "Investigations": "Cardiac ultrasound normal; previous ECGs with low T waves and slightly fast heart rate; endoscopy three months ago"
+        },
+        "Diagnosis": "Myocardial ischemia",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 2,
+        "Medical_Record": {
+            "Demographics": "Sophomore college student; sex not specified; occupation: student",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Stomach discomfort during long morning showers; intermittent since high school",
+            "History_of_Present_Illness": "Bitter taste in mouth; hand tremors; difficulty standing for prolonged periods; symptoms improve with squatting or sitting; poor complexion; cold lips; lips turn purple in severe cases; shortness of breath when standing; symptoms resolve after resting for 15 minutes",
+            "Background": "History of slightly low blood pressure; bowel movements mostly once a day but irregular; no significant relationship; no menstrual cycle issues; no mention of medications, allergies, family history, surgical history, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Anemia",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 3,
+        "Medical_Record": {
+            "Demographics": "Age not specified; female; occupation not specified",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Increased vaginal discharge; intermittent abdominal pain; duration since April 19th abortion",
+            "History_of_Present_Illness": "Abortion on April 19th; increased vaginal discharge; intermittent right abdominal pain similar to menstrual cramps; fever of 39°C on third day post-abortion; no period since abortion; pain comes and goes; discharge described as purulent",
+            "Background": "No significant past medical history reported; one episode of intercourse since abortion; anti-inflammatory injection received; no allergies or medications specified; no family or social history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Fever 39°C on third day post-abortion; excessive purulent vaginal discharge; intermittent right abdominal pain",
+            "Investigations": "No routine secretion test or culture performed; follow-up ultrasound images unavailable; no laboratory results provided"
+        },
+        "Diagnosis": "Post-abortion inflammation or infection",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 4,
+        "Medical_Record": {
+            "Demographics": "58-year-old; sex not specified; occupation not specified",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Abdominal bloating and enlargement; 1-month duration",
+            "History_of_Present_Illness": "Persistent abdominal bloating; onset coincided with birthday; improvement after Muxiang Shunqi Pills; increased bowel movements two to three times per day, often at 3 a.m.",
+            "Background": "History of hepatitis B with normalized liver function; no other medical history; family history of similar bloating in father; no information on medications, allergies, social history, or other contextual data"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastrointestinal dyspepsia or imbalance in gut flora",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 5,
+        "Medical_Record": {
+            "Demographics": "6-month-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Persistent cough; half a month duration",
+            "History_of_Present_Illness": "Cough more severe at night and after waking; mild during day; intermittent; no fever, runny nose, or diarrhea; slightly loose stool recently",
+            "Background": "Mother had cough for over 20 days; recent cold in family; multiple medication changes without improvement; outpatient clinic visit; no blood test or chest X-ray performed"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "No blood test; no chest X-ray"
+        },
+        "Diagnosis": "Pediatric bronchitis",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 6,
+        "Medical_Record": {
+            "Demographics": "2-year-old male; ",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Persistent abdominal bloating; 10-day duration",
+            "History_of_Present_Illness": "Initial overeating; transient improvement; recurrent bloating regardless of food intake; decreased appetite; lethargy",
+            "Background": "No prior bloating; appetite previously good; current medication prescribed by hospital; no additional history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Bloating requires further examination",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 7,
+        "Medical_Record": {
+            "Demographics": "85-day-old infant",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Frequent coughing when lying awake; 5-day duration",
+            "History_of_Present_Illness": "Coughing due to choking on saliva during exertion; occasional wheezing; most noticeable in morning with bouts of three consecutive coughs; symptom persists after four days of Er Ning granules; tiny bubbles in saliva lessened over past two days",
+            "Background": "History of laryngeal cartilage dysplasia; recent blood test normal; no information on PMH, surgical history, family/social history, medications (other than Er Ning granules), allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Blood test normal"
+        },
+        "Diagnosis": "Common cold in an infant",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 8,
+        "Medical_Record": {
+            "Demographics": "1-year-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Vomiting; 3-day duration",
+            "History_of_Present_Illness": "Vomiting episodes after eating; fever on New Year's Day night; loose foul-smelling stool once; poor mental state for 2 days; improved mental state today; unwillingness to walk; lack of strength",
+            "Background": "No excessive eating; brain CT performed more than 24 hours after fall; no other symptoms reported; no information on PMH, surgical history, family/social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Brain CT negative for serious injury"
+        },
+        "Diagnosis": "Vomiting due to dietary issues and mild digestive upset following fall",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 9,
+        "Medical_Record": {
+            "Demographics": "Five-month-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "No bowel movement; four to five days duration",
+            "History_of_Present_Illness": "Frequent cold sweats; icy forehead; low milk intake; occasional spit-up with curdled milk; previous episode of three to four days without bowel movement followed by large stool passage",
+            "Background": "No previous constipation; urine output normal; no fever; no abdominal bloating; no abdominal massage performed"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Infant constipation",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 10,
+        "Medical_Record": {
+            "Demographics": "25-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Severe diarrhea with loose stools; several days duration",
+            "History_of_Present_Illness": "Diarrhea 3-4 times daily; watery stools; prior abdominal pain; heavy-headedness; fatigue; weakness; poor appetite; bloating",
+            "Background": "Irregular periods; dysmenorrhea; no menstrual-regulating medication; no Compound Donkey-Hide Gel use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Thick white tongue coating with teeth marks",
+            "Investigations": ""
+        },
+        "Diagnosis": "Watery stools due to digestive imbalance",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 11,
+        "Medical_Record": {
+            "Demographics": "Two-month-old; sex unspecified; occupation not applicable",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Indigestion and diarrhea; two to three days duration",
+            "History_of_Present_Illness": "Decreased interest in feeding; six to seven bowel movements per day; stool mostly undigested milk since yesterday; no spit-up; mental state okay but less than before; no improvement with current medication",
+            "Background": "Consuming breast milk and formula; formula contains probiotics; stool test shows high fat content; taking Smecta and Bifidobacterium; no signs of dehydration; no information on PMH, surgical history, family/social history, medications (other than current), allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Stool test: high fat content"
+        },
+        "Diagnosis": "Infantile indigestion",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 12,
+        "Medical_Record": {
+            "Demographics": "3-year-old child",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Coughing, spitting phlegm, runny nose; duration not specified",
+            "History_of_Present_Illness": "Coughing worsens with excitement or loud speech; history of nebulization for previous cough episodes; fever this morning, subsided after medication",
+            "Background": "No allergies; no family history of asthma or rhinitis; no significant past medical history reported"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Normal temperature; lung auscultation performed",
+            "Investigations": "No laboratory tests or imaging performed"
+        },
+        "Diagnosis": "Bronchitis",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 13,
+        "Medical_Record": {
+            "Demographics": "45-day-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Projectile spit-up; 1-day duration",
+            "History_of_Present_Illness": "Four episodes of projectile spit-up since yesterday; spit-up occurs after feeding and after being put down to sleep; amount not large; most recent episode with spit-up from nose and crying; history of feeding eagerly; occasional choking or coughing; sneezing a few times daily; temperature normal (36.3°C at 9 PM, 36.8°C at midnight, 37.2°C in afternoon/evening); loose stool two days ago, sticky yellowish-brown stool with reddish-brown particles yesterday; rarely cries; awake and comfortable during daytime spit-up; spit-up at night while asleep; typical sleep cycle of three hours between feeds; hands and feet often cold due to light clothing in hot weather",
+            "Background": "Lungs checked at hospital—normal; mother recently had a cold and took watermelon frost lozenges; no head injury; no information on PMH, surgical history, family history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Normal lung examination; temperature 36.3°C to 37.2°C; hands and feet often cold",
+            "Investigations": ""
+        },
+        "Diagnosis": "Spit-up, possibly related to gastrointestinal sensitivity or feeding habits",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 14,
+        "Medical_Record": {
+            "Demographics": "20-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Upper stomach pain; 1-day duration",
+            "History_of_Present_Illness": "Pain in upper stomach; relieved by pressing, worsens when released; occasional episodes; bloating; no appetite; minimal bowel movement; vomiting twice yesterday; loose stools twice; pain located at junction of stomach and lungs, midline",
+            "Background": "Recent menstruation; severe lower abdominal pain during periods; no mention of PMH, surgical history, family history, medications, allergies, social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastritis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 15,
+        "Medical_Record": {
+            "Demographics": "16-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Intermittent upper abdominal pain and stomach cramps; 2-day duration",
+            "History_of_Present_Illness": "Intermittent upper abdominal pain; cramping pain; pain not related to eating; pain sometimes before or after meals; pain worsens with movement; bloating; diarrhea; pain not noticeable when stationary",
+            "Background": "History of acid reflux with chest blockage and churning sensation; improved with acid-suppressing medication; currently on period; took Zheng Wei tablets without improvement; no recent spicy or cold food intake; no alcohol consumption; no history of gastritis or stomach ulcers; no recent cold symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastritis or stomach ulcer",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 16,
+        "Medical_Record": {
+            "Demographics": "4-and-a-half-year-old child",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Recurrent fever; 1-month duration",
+            "History_of_Present_Illness": "Fever episodes lasting 4 to 5 days; intervals of 10 days; headache during fever; vomiting breakfast; last fever peaked at 38.5°C; no leg pain; no rashes; no headache when afebrile",
+            "Background": "Received ibuprofen and intravenous fluids during last episode; blood tests suggested viral or bacterial infection; prescribed anti-inflammatory medications; no site of infection specified; scheduled for EEG and MRI"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature around 37.5°C during episode; temperature reached 38.5°C during last episode",
+            "Investigations": "Blood tests suggest viral or bacterial infection; planned EEG; planned MRI; recommended tests: urinalysis, C-reactive protein, EB virus testing, anti-streptolysin O titer, liver function tests"
+        },
+        "Diagnosis": "Fever of unknown origin",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 17,
+        "Medical_Record": {
+            "Demographics": "2-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Cough and intermittent low-grade fever; 3-day duration",
+            "History_of_Present_Illness": "Cold onset after wind and cold exposure; fever up to 38.3°C at night; lethargy and low energy for first two days; improved energy today; frequent coughing, worse at night; runny nose; occasional rapid breathing at night; appetite poor; bowel movements three times today, not diarrhea; hands and feet sometimes cold; sweating during sleep; red bumps on face appeared today",
+            "Background": "Ambroxol and vitamin C granules prescribed; fever-reducing medication available but not administered; no information on PMH, surgical history, family/social history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 37.8°C (underarm); forehead temp 37.5°C; intermittent fever up to 38.3°C at night; energy fluctuates; no high fever; no diarrhea",
+            "Investigations": ""
+        },
+        "Diagnosis": "Viral upper respiratory infection",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 18,
+        "Medical_Record": {
+            "Demographics": "21-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Red acne on cheeks, back, and chest; worsens in summer; oily facial skin in summer; menstrual cycle one week late",
+            "History_of_Present_Illness": "Slight heat intolerance; sweaty feet; hands and feet not cold in winter; not cold-sensitive; reddish cheeks; phlegm on waking; no fever for many years; infrequent colds resolving in 3-7 days without medication; cold sensation in waist area during massage; acne improves in winter; no dysmenorrhea; bowel movements once daily, unformed; sleep around 11pm; normal sense of taste; somewhat short-tempered",
+            "Background": "No smoking; no mention of medications, allergies, past medical or surgical history, family or social history, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Damp-heat accumulation",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 19,
+        "Medical_Record": {
+            "Demographics": "43-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Chest pain; several years duration",
+            "History_of_Present_Illness": "Dull persistent chest pain; worsens after coughing; excessive phlegm for a few months; thick yellow phlegm; gagging when brushing teeth",
+            "Background": "Smoker; history of bronchitis; father died of lung cancer at 62; no tests done; no fever; no current medications mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Chest pain possibly due to respiratory infection or inflammation",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 20,
+        "Medical_Record": {
+            "Demographics": "2-month-old; sex unspecified; occupation not applicable",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Diarrhea; since yesterday evening",
+            "History_of_Present_Illness": "Exclusively breastfed; gurgling stomach sounds; decreased appetite this morning; usual feeding otherwise; about four episodes of diarrhea since yesterday evening; small amount of yellow stool with small particles; stool slightly loose; sometimes greenish; urine output slightly decreased today; no vomiting",
+            "Background": "No prior medical history mentioned; no surgical history; no family history; no medication or allergy information; mother consumed two bottles of sweetened beverages at room temperature; no immunization, travel, or other contextual data provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Indigestion",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 21,
+        "Medical_Record": {
+            "Demographics": "21-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Diarrhea; blackish and watery stool; burning sensation in anus; duration not specified",
+            "History_of_Present_Illness": "Acute onset diarrhea; blackish, watery stool; burning sensation in anus; recent intake of hot cocoa on empty stomach; instant noodles last night; no spicy food",
+            "Background": "History of gastritis; no history of hemorrhoids; took Huoxiang Zhengqi pills; no other significant history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastritis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 22,
+        "Medical_Record": {
+            "Demographics": "16-day-old female; ",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Recurrent jaundice; onset after discharge from hospital",
+            "History_of_Present_Illness": "Initial jaundice level 16.4; hospitalized for blue light therapy; jaundice level decreased to 9.2 at discharge; jaundice level increased to 16 next morning; facial yellow discoloration observed; Xiao Guolu Huang given; exclusively breastfed; breastfeeding stopped for three days before hospitalization without improvement; breast milk expressed and given during hospitalization",
+            "Background": "No cause specified for jaundice; no signs of infection; umbilical cord not completely fallen off; no local discharge; no medication prescribed after discharge except Xiao Guolu Huang"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Facial yellow discoloration; umbilical cord not completely fallen off; no signs of local infection",
+            "Investigations": "Jaundice level 16.4 before hospitalization; 9.2 at discharge; 16 after discharge (measured by Nezha Baobei app)"
+        },
+        "Diagnosis": "Neonatal jaundice",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 23,
+        "Medical_Record": {
+            "Demographics": "5-month-old infant",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Persistent cold and cough; over 1 week duration",
+            "History_of_Present_Illness": "Severe nocturnal coughing; vomiting with cough; nasal congestion; excessive phlegm; wheezing resembling rooster's crow; daytime sleep slightly improved; poor appetite; energy acceptable",
+            "Background": "Currently taking Ambroxol and Cefalexin; nebulization treatment performed yesterday; no blood tests; previous diagnosis of bronchitis; no information on PMH, surgical history, family/social history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Pediatric bronchopneumonia",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 24,
+        "Medical_Record": {
+            "Demographics": "19-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Bloating; 2-day duration",
+            "History_of_Present_Illness": "Bloating sensation; no change in diet; exercise routine unchanged",
+            "Background": "Recent allergy medication use; one medication required 20 pills at once; no recent weakness; no details on specific medication; no information on PMH, surgical history, family history, social history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Enteritis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 25,
+        "Medical_Record": {
+            "Demographics": "40-day-old infant; sex not specified; no occupation",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Yellow foamy stools; frequent crying; 1-day duration",
+            "History_of_Present_Illness": "Foamy stools three times today; stomach gurgling sounds for three days; crying during feeding and bowel movements; calms when held curled up; exclusively breastfed",
+            "Background": "No past medical history provided; no surgical history; no family or social history; no medications or allergies reported; mother’s diet includes noodles, millet porridge, fish soup, beef soup, chicken soup, tomatoes, banana, peaches"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Vomiting and fever",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 26,
+        "Medical_Record": {
+            "Demographics": "5-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Nighttime fever; 1-day duration",
+            "History_of_Present_Illness": "Fever onset last night; peak temperature 38.5°C at midnight; fever-reducing medication administered; afebrile and energetic during day; temperature 37.1°C before bedtime; no other symptoms",
+            "Background": "Attends kindergarten; no exposure to cold reported; usual appetite; Tylenol and Tian Da administered; no other relevant history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Fever of unknown origin",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 27,
+        "Medical_Record": {
+            "Demographics": "Infant; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Occasional cough; five or six days duration, recurred today",
+            "History_of_Present_Illness": "Cough started five or six days ago, stopped, recurred today with three episodes; one or two sneezes per day; unclear if phlegm or milk from feeding",
+            "Background": "No runny nose; no recent household illness; bowel movements once daily; energetic; good milk intake before bedtime; no vaccinations since birth, including BCG"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Bronchitis",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 28,
+        "Medical_Record": {
+            "Demographics": "12-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Blood in stool when wiping; 2-day duration",
+            "History_of_Present_Illness": "Bright red blood resembling period blood; occurs once daily; very dry stool; mild pain; no abdominal pain, vomiting, or bloating; increased coffee intake",
+            "Background": "No reported past medical history; no reported medications; no reported allergies; no surgical history; no family or social history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Dry stool",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 29,
+        "Medical_Record": {
+            "Demographics": "29-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Upper abdominal discomfort with slight pain upon pressing; 1-month duration",
+            "History_of_Present_Illness": "Gas in upper abdomen; intermittent dispersal and gathering; gurgling sound in upper abdomen; occasional foul smell when sneezing; sensation of water in mouth",
+            "Background": "Prescribed Weichangshu and domperidone at local clinic; no acid reflux; no heartburn; normal bowel movements; no bitter or dry mouth"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastritis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 30,
+        "Medical_Record": {
+            "Demographics": "1-year-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Difficulty with bowel movements; duration about one month",
+            "History_of_Present_Illness": "Ongoing constipation since introduction of solid foods at ten months; severe difficulty with bowel movements after eating; poor appetite; bowel movements every two to five days; glycerin enemas and dietary changes ineffective",
+            "Background": "Previously breast milk and formula fed; no other background information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Constipation",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 31,
+        "Medical_Record": {
+            "Demographics": "1-month and 4-day-old infant; ",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Coughing, nasal congestion, sensation of phlegm in throat; 4-day duration",
+            "History_of_Present_Illness": "Gurgling sounds during sleep; less frequent during day; worse at night; minimal daytime coughing; pronounced nighttime coughing; no improvement after hospitalization",
+            "Background": "No medication details; expectorants prescribed; nebulization and nasal suction performed; unknown allergies; no family history or social history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Auscultation shows no major issues; no severe condition noted",
+            "Investigations": "Chest X-ray normal; test results show no serious problems"
+        },
+        "Diagnosis": "Bronchopneumonia",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 32,
+        "Medical_Record": {
+            "Demographics": "33-day-old newborn",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Gurgling throat sounds; 10-day duration",
+            "History_of_Present_Illness": "Gurgling throat sounds; often chokes during feeding or drinking water; no coughing; symptoms fluctuate; feeds well; no fever",
+            "Background": "No significant past medical history; two normal blood tests; prescribed Hou Er Huan anti-inflammatory granules and Ling Bei cough syrup; breastfed; no surgical history, allergies, or family history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "No fever; no coughing; doctor auscultation noted gurgling sounds",
+            "Investigations": "Imaging showed bronchial infection; two normal blood tests"
+        },
+        "Diagnosis": "Pediatric bronchitis",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 33,
+        "Medical_Record": {
+            "Demographics": "25-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Nausea, dizziness, diarrhea; 1-day duration",
+            "History_of_Present_Illness": "Stomach pain onset in morning; nausea and dizziness began around 10 a.m.; diarrhea throughout day; no vomiting",
+            "Background": "No alcohol consumption; no unusual food intake; shirtless exposure; no significant events last night"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Cold",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 34,
+        "Medical_Record": {
+            "Demographics": "18-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Brown, sticky vomit after alcohol consumption; black stool; weakness; dizziness",
+            "History_of_Present_Illness": "Drank alcohol last night; woke up with brown, sticky vomit; black, coffee-colored stool; weakness; dizziness; no stomach pain; no appetite",
+            "Background": "No recent injuries; no medication use; no drug allergies; pharmacy near school gate"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastritis, possibly aggravated by alcohol consumption",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 35,
+        "Medical_Record": {
+            "Demographics": "29-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Diarrhea 10 times a day; stomach pain; duration: today",
+            "History_of_Present_Illness": "Diarrhea every hour and a half initially; frequency decreased to two bowel movements yesterday; slight stomach pain; slightly stuffy nose; no nausea; no vomiting; symptoms improved after four hours; no bowel movements in past three and a half hours; consumed expired, unrefrigerated fresh milk last night",
+            "Background": "Omeprazole, Amoxicillin, Berberine available at home; no information on PMH, surgical history, family history, social history, allergies, immunizations, travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Acute enteritis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 36,
+        "Medical_Record": {
+            "Demographics": "44-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Elevated blood sugar after meals; chest pain; duration several days",
+            "History_of_Present_Illness": "Blood sugar around 17.8 mmol/L postprandial; chest pain worsened by eating; nausea and vomiting with food intake; two episodes of shock; throat inflammation; diabetic ketoacidosis triggered by cold; hospitalized",
+            "Background": "History of diabetes; diagnosis two months ago but symptoms for over one year; no consistent medication use; smoking history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Diabetes",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 37,
+        "Medical_Record": {
+            "Demographics": "46-day-old; sex not specified; no occupation",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Persistent jaundice; diarrhea after formula milk; 1-day duration",
+            "History_of_Present_Illness": "Jaundice subsided after Yinzhihuang; jaundice recurred after stopping medication; vomiting milk after Yinzhihuang; switched to formula milk; three episodes of diarrhea; last stool watery",
+            "Background": "No prior formula feeding; exclusively breastfed; no one-month vaccines administered; no information on PMH, surgical history, family/social history, medications, allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Jaundice level 13.6"
+        },
+        "Diagnosis": "Infantile diarrhea",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 38,
+        "Medical_Record": {
+            "Demographics": "Five and a half-month-old male; ",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Fever 38.5°C; duration a few days",
+            "History_of_Present_Illness": "Fever resolved for three days; received IV fluids for five days; diagnosed with thrush and pneumonia; C-reactive protein 36 two days ago; white blood cell count now normal; no cough; no runny nose; good spirits",
+            "Background": "No significant past medical history reported; no current medications except cefmenoxime; no allergies reported; no family history provided; no immunization or travel history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "No rales on chest auscultation",
+            "Investigations": "Staphylococcus aureus cultured from phlegm; C-reactive protein 36 two days ago; white blood cell count normal; platelets slightly elevated; procalcitonin nearly normal"
+        },
+        "Diagnosis": "Phlegm-related infection",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 39,
+        "Medical_Record": {
+            "Demographics": "Eight-month-old; sex unspecified; occupation not applicable",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Fever, bloating, frequent crying; duration unspecified",
+            "History_of_Present_Illness": "Low-grade fever (37°C); mild cough with small amount of phlegm; bloating; mild diarrhea; frequent crying",
+            "Background": "Currently taking Simo Tang oral solution, anti-inflammatory drugs, cough medicine, and medication to relieve cold symptoms; no information on PMH, surgical history, family/social history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temperature 37°C; no other vital signs or physical findings reported",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastrointestinal-type flu",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 40,
+        "Medical_Record": {
+            "Demographics": "39 weeks pregnant female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Frequent fetal movements and severe perineal pain; 2-day duration",
+            "History_of_Present_Illness": "Frequent fetal movements at night; perineal pain resembling urge to defecate; severe lower back pain; increased vaginal discharge; fetal movements less intense during day; fetal monitoring normal on 9th; main issue is severe perineal pain caused by fetal movements",
+            "Background": "Stopped calcium supplements later in pregnancy; hemoglobin 103; stopped iron supplements; planned cesarean section"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Fetal monitoring normal on 9th; hemoglobin 103"
+        },
+        "Diagnosis": "Abdominal pain related to late pregnancy",
+        "Department": "Obstetrics and Gynecology"
+    },
+    {
+        "id": 41,
+        "Medical_Record": {
+            "Demographics": "2-month-old; sex unspecified; occupation not applicable",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Cough and phlegm in throat; 1-day duration",
+            "History_of_Present_Illness": "Wheezing sound in throat; more prominent when awake; no runny nose; no fever; feeding well; normal bowel movements; good spirits",
+            "Background": "Given Ambroxol; several relatives with colds and coughs; concern about cross-infection; no information on PMH, surgical history, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Upper respiratory infection",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 42,
+        "Medical_Record": {
+            "Demographics": "Four-month-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Mild runny nose; 2-3 days duration",
+            "History_of_Present_Illness": "Runny nose mostly after crying or feeling cold; started 2-3 days before vaccination; vomiting once during sleep after feeding black sesame paste on second night post-vaccination; no prior exposure to sesame paste; feeding normal; no significant nasal discharge",
+            "Background": "Exclusively breastfed; received second dose DPT and third dose polio vaccine; no prior similar reactions; no recent illness in household; no prior medical history provided; no allergies or medications reported"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Upper respiratory infection",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 43,
+        "Medical_Record": {
+            "Demographics": "7-month-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Dry cough; 4-day duration",
+            "History_of_Present_Illness": "Dry cough onset 4 days ago; runny nose with clear discharge developed 2 days ago; low-grade fever 37.4°C; cough in bouts; wheezing present; gurgling sounds in throat initially at night",
+            "Background": "Ribavirin, Cefalexin, Xiao Kuihua cough medicine for 3 days; Pediatric Paracetamol, Amantadine, Chlorphenamine Granules started with runny nose; no other background information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Low-grade fever 37.4°C; no other findings reported",
+            "Investigations": ""
+        },
+        "Diagnosis": "Bronchitis",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 44,
+        "Medical_Record": {
+            "Demographics": "10-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Upper left abdominal pain near navel; four to five days duration",
+            "History_of_Present_Illness": "Pain more noticeable in morning; accompanied by vomiting and diarrhea; frequency of diarrhea decreased after IV fluids; occasional pain intensification; no recent vomiting",
+            "Background": "Appendectomy for appendicitis 25 days ago; on IV fluids for three days; seen at local clinic; no fever; no stool test performed"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Pediatric indigestion",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 45,
+        "Medical_Record": {
+            "Demographics": "13-year-old; ",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Intermittent chest pain; five-minute episodes",
+            "History_of_Present_Illness": "Stabbing and dull chest pain; hollow sensation; difficulty breathing during episodes; pain worsens with movement; always localized in chest",
+            "Background": "History of previous chest trauma; frequent physical altercations at home"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "X-ray recommended; ECG recommended"
+        },
+        "Diagnosis": "Previous chest trauma or possible pleurisy",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 46,
+        "Medical_Record": {
+            "Demographics": "Child; sex and occupation not specified",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Persistent fever; duration not specified",
+            "History_of_Present_Illness": "Fever not reduced by medication or injection; temperature remains at 39–40°C; no sweating; hands and feet hot; previous response to medication included sweating, absent this time; sleeping all afternoon",
+            "Background": "No other symptoms; doctor checked during injection; not hospitalized; small cup of water given every ten minutes; no information on PMH, surgical history, family/social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 39–40°C; hands and feet hot; no sweating; alertness not specified; sleeping all afternoon",
+            "Investigations": ""
+        },
+        "Diagnosis": "Persistent fever",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 47,
+        "Medical_Record": {
+            "Demographics": "2-month-old; sex not specified; occupation not applicable",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Daytime crying, choking while feeding, frequent spit-up; several days duration",
+            "History_of_Present_Illness": "Daytime crying; choking during feeding; frequent spit-up after feeding; night feeds well with minimal crying; recent episodes of dry heaving; no fever; normal mental state",
+            "Background": "Exclusively breastfed; prior hospitalization for aspiration pneumonia over a month ago; no current fever; no phlegm sounds; no information on medications, allergies, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Breathing steady during sleep; no phlegm sounds; no fever",
+            "Investigations": ""
+        },
+        "Diagnosis": "Abdominal discomfort, possibly due to colic or mild digestive issues",
+        "Department": "Pediatrics"
+    },
+    {
+        "id": 48,
+        "Medical_Record": {
+            "Demographics": "34-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Vomiting, diarrhea, severe bloating; 2-week duration",
+            "History_of_Present_Illness": "Onset after eating shellfish while traveling; initial vomiting and diarrhea; persistent bloating after return; occasional diarrhea; no vomiting; mild relief with omeprazole; fever developed today",
+            "Background": "Tried Stasue and Jiangzhong Jianwei Xiaoshi Tablets with little effect; no information on PMH, surgical history, family history, social history, medications, allergies, immunizations, or travel beyond recent shellfish consumption"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Fever",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastritis and enteritis",
+        "Department": "Internal Medicine"
+    },
+    {
+        "id": 49,
+        "Medical_Record": {
+            "Demographics": "27-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Diarrhea; since last night",
+            "History_of_Present_Illness": "Three episodes watery diarrhea; mild nausea; no fever",
+            "Background": "Ate skewers last night; no pregnancy; no other changes reported"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Gastritis and enteritis",
+        "Department": "Internal Medicine"
+    }
+]

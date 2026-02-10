@@ -1,0 +1,2002 @@
+[
+    {
+        "id": 1,
+        "Medical_Record": {
+            "Demographics": "43-year-old female; housewife",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Right nasal obstruction; 1 month duration",
+            "History_of_Present_Illness": "Mild facial swelling; mild proptosis of right eye; no restriction of eye movements or vision; intraoral obliteration of right buccal sulcus by diffuse bony hard mass; deep mesial class II carious lesion of right maxillary first molar; extrusion of right maxillary first and third molars; grade I painless mobility of right maxillary first and second premolars; missing right mandibular first and third molars with history of extraction after carious exposure 6–8 years ago",
+            "Background": "Otherwise healthy; no regional lymphadenopathy; no mention of medications, allergies, family history, social history, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Mild facial swelling; mild proptosis of right eye; intraoral obliteration of right buccal sulcus by bony hard mass; normal oral mucosa; grade I painless mobility of right maxillary first and second premolars; no palpable regional lymph nodes",
+            "Investigations": "Paranasal sinus x-ray: dense sclerotic radiopaque mass obliterating right maxillary sinus with deviated nasal septum; OPG: dense to mixed sclerotic radiopaque mass of right maxillary sinus, widening of periodontal ligament space of right maxillary premolars and molars; CT scan: mixed sclerotic mass involving right maxilla and nasal cavity, involvement of infraorbital floor, nasal cavity, frontal, sphenoidal, and ethmoidal sinuses; Histopathology: sheets of disorganized woven immature bone, round cells with large vesicular nucleus and scanty cytoplasm, focal bizarre multinucleated giant cells, irregular calcified spicules, disorganized immature bone with acid-etched-glass appearance; Chest x-ray: no metastatic lesions"
+        },
+        "Diagnosis": "Osteoblastic osteosarcoma of maxilla",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 2,
+        "Medical_Record": {
+            "Demographics": "31-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Intermittent cough; half-month duration",
+            "History_of_Present_Illness": "Intermittent cough; chest X-ray shows heart dilation; echocardiography reveals left atrial occupying lesion and large pericardial effusion; pericardiocentesis removes 600 mL bloody effusion; weight loss of 5 kg since onset; pleural effusion detected; thoracocentesis removes 100 mL bloody effusion; episodes of transient hypertension after activity",
+            "Background": "No family history of tumors; no environmental exposures; no chemical or radiation exposure; no relevant social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Systolic blood pressure 180–200 mmHg after activity; blood pressure normalizes after rest",
+            "Investigations": "Chest X-ray: heart dilation; echocardiography: left atrial lesion (2.8 × 4.5 cm), EF 80%, pericardial effusion; thoracic CT: left atrial lesion (3.44 × 5.54 cm), inhomogeneous enhancement; PET-CT: soft tissue mass (3.5 × 6.5 cm) in left atrium, hypermetabolic brown adipose tissue; pathology: paraganglioma; postoperative catecholamine levels normal"
+        },
+        "Diagnosis": "Intracardiac paraganglioma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 3,
+        "Medical_Record": {
+            "Demographics": "34-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Mild abdominal pain; unknown duration",
+            "History_of_Present_Illness": "Mild abdominal pain; stable vital signs; good general condition",
+            "Background": "History of two previous cesarean sections; history of two previous miscarriages"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Stable vital signs; good general condition",
+            "Investigations": "Ultrasound: empty uterus; gestational sac between uterus and bladder; transvaginal sonography confirmed cesarean scar pregnancy; gestational age 13 weeks (LMP), 12 weeks (CRL); no fetal heart activity; 71×59 mm hematoma around gestational sac; normal full blood count; normal liver and renal function tests; β-hCG 874 IU/mL (day 0), 329 IU/mL (day 7), negative at 8 weeks; mass not visible on ultrasound at 3 months"
+        },
+        "Diagnosis": "Cesarean scar pregnancy",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 4,
+        "Medical_Record": {
+            "Demographics": "71-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Recurrent urinary tract infections; severe dysuria; bladder pain/discomfort; duration not specified",
+            "History_of_Present_Illness": "History of hypocontractile bladder after Miles' operation for rectal cancer in 2008; clean intermittent catheterization followed by 7 years of indwelling Foley catheter; recurrent UTIs; severe dysuria; bladder pain/discomfort",
+            "Background": "Mild hypertension; taking beta blockers and low-dose aspirin; Miles' operation for rectal cancer in 2008; colostomy present and well functioning; no drug allergies mentioned; no family history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Normal systemic parameters; catheter in situ; digital rectal examination impossible due to closed anus; colostomy trophic; abdominal scar smooth and dry; no thoracic or abdominal abnormalities",
+            "Investigations": "Ultrasound: normal upper urinary tract, reduced capacity bladder, 2 cm bladder stone, small volume prostate with calcifications; urine culture positive for Enterobacter cloacae (>106 CFU/mL); serum PSA 1.1 ng/mL; endoscopy: hair nidus in bladder; gross examination: trichobezoar in bladder; histopathology: benign prostatic hyperplasia with chronic inflammation"
+        },
+        "Diagnosis": "Bladder trichobezoar",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 5,
+        "Medical_Record": {
+            "Demographics": "45-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Left upper quadrant pain; 10-day duration after biopsy",
+            "History_of_Present_Illness": "Nausea; vomiting; fever; chills for 3 days; incidentally detected splenic mass after traffic accident; mild low back pain",
+            "Background": "No previous medical history; no family history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 70/40 mmHg; heart rate 86/min; respiratory rate 20/min; body temperature 38.4°C; enlarged spleen two finger breadths below left costal margin; no palpable lymph node enlargement",
+            "Investigations": "Leukocytosis 19200/μL; hemoglobin 12.0 g/dL; platelet count 34000/μL; AST 102 U/L; ALT 55 U/L; ALP 426 U/L; total bilirubin 14.73 mg/dL; LDH 1300 U/L; CRP 31.08 mg/dL; abdominal CT and MRI show increased splenic lesion with abscess formation; blood culture positive for Granulicatella adiacens"
+        },
+        "Diagnosis": "Septic shock due to Granulicatella adiacens",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 6,
+        "Medical_Record": {
+            "Demographics": "38-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Shortness of breath and giddiness; 13-hour duration after fall",
+            "History_of_Present_Illness": "Sudden convulsive movements; fall from bed; injury to right shoulder and right hip; developed shortness of breath and giddiness; referred to hospital; progressive respiratory insufficiency; deterioration of sensorium",
+            "Background": "History of mitral valve replacement for rheumatic heart disease with mitral regurgitation (11 years ago); on penicillin prophylaxis and oral anticoagulant (acenocoumarol 2 mg/day); no loss of consciousness; no mention of allergies, smoking, or family history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Febrile (38.3°C); pulse 128 bpm; respiratory rate 32 bpm; SpO2 93% on room air; lungs clear initially; hemodynamically stable; petechiae in axillae and upper trunk; crepitations on auscultation; frothy secretion in endotracheal tube",
+            "Investigations": "Radiographs: comminuted fractures of head of right humerus and neck of right femur; CT brain normal; 2D echocardiography: well-functioning prosthetic mitral valve; serial chest X-rays: progressive bilateral infiltrations; PaO2/FiO2 ratio improved from 85 to 436"
+        },
+        "Diagnosis": "Fat embolism syndrome",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 7,
+        "Medical_Record": {
+            "Demographics": "67-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Progressive narrowing of stool; tenesmus; intermittent abdominal distension",
+            "History_of_Present_Illness": "Gradual onset stool narrowing; tenesmus; intermittent distension; no rectal bleeding; no weight loss",
+            "Background": "Previous laparoscopic nephrectomy for clear-cell renal carcinoma; essential hypertension controlled with ACE inhibitor; no other significant PMH"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Digital rectal examination poorly tolerated",
+            "Investigations": "Flexible endoscopy: extra rectal lesion encroaching posterior wall; CT and MRI: smooth, well-circumscribed egg-shaped lesion (5.5 × 5.3 × 4.4 cm) with central calcifications posterior to bladder, anterior and separate from rectum; Endorectal ultrasonography: lesion impalpable and not visible; Endoscopy: unremarkable; Histology: mesothelium-lined nodule of hyalinised fibrocollagenous tissue with central calcification"
+        },
+        "Diagnosis": "Peritoneal loose body",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 8,
+        "Medical_Record": {
+            "Demographics": "16-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Retained primary teeth; evaluation and treatment",
+            "History_of_Present_Illness": "History of retained primary teeth; normal growth; above normal height and weight for age; no craniofacial, dermal, or skeletal abnormalities; no abnormalities in hair, skin, or nails; 16 permanent teeth erupted; 14 primary teeth retained; few permanent teeth impacted",
+            "Background": "No significant past medical history; no allergies; no hospitalizations; negative family history of dental anomalies; male sibling without dental problems; mother had uneventful pregnancy; delivered at 38 weeks by normal delivery"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Well-proportioned girl; age-appropriate development; no craniofacial, dermal, or skeletal morphologies; normal hair, skin, and nails",
+            "Investigations": "Panoramic radiograph: retained primary teeth, few permanent teeth impacted, nonerupted teeth covered with bone, well-circumscribed follicles, continued root development without eruption; normal thyroid, parathyroid, growth hormone, calcium, phosphorus, vitamin D, and alkaline phosphatase levels; bone age corresponds to chronologic age"
+        },
+        "Diagnosis": "Primary retention of permanent teeth",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "Primary failure of tooth eruption"
+        }
+    },
+    {
+        "id": 9,
+        "Medical_Record": {
+            "Demographics": "62-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Bad breath, bleeding gums, difficulty in mastication, inability to maintain deposit-free teeth in right lower back region; unknown duration",
+            "History_of_Present_Illness": "Local factors present; faulty tooth brushing; isolated Miller's Class III recession defect at mesial root of 46; missing and un-replaced 45; collapsed edentulous space due to mesio-buccal tilting of 46; food impaction between 46, 47, 48; dental caries distal to 46 and 47",
+            "Background": "Systemically healthy; no deleterious habits; no significant PMH; no surgical history; no family history; no social history; no medication allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Isolated Miller's Class III recession defect at mesial root of 46; gingival recession 4 mm wide, 8 mm deep; sufficient keratinized tissue at donor site; non-vital 47",
+            "Investigations": "Vitality check: non-vital 47; clinical measurement of recession; dental caries diagnosed distal to 46 and 47"
+        },
+        "Diagnosis": "Miller's Class III gingival recession",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 10,
+        "Medical_Record": {
+            "Demographics": "41-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Lower abdominal pain and fever; 1-week duration",
+            "History_of_Present_Illness": "Lower abdominal pain; fever; no nausea; no vomiting; no vaginal bleeding; no vaginal discharge; no diarrhea",
+            "Background": "Gravid 4 Para 0; history of three spontaneous abortions; history of ectopic pregnancy treated with laparoscopic right salpingectomy 2 weeks ago; no other surgical history; no significant medical problems; no medication use; trying to conceive for 2 years; nonsmoker; no personal or family history of bleeding or thrombotic disorders"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Febrile at 101°F; abdomen nontender, nondistended, no palpable masses; surgical wound inspection negative; Homans' sign negative; Moses' sign negative; pelvic exam: anteverted, normal size, nontender uterus, no adnexal tenderness, no palpable masses; other vital signs normal",
+            "Investigations": "Urine pregnancy test negative; WBC 13.4 × 10^9/L (elevated); 78% neutrophils; C-reactive protein 120 mg/dL (elevated); rest of CBC and metabolic profile normal; chest X-ray negative; urinalysis negative; blood cultures sent; hypercoagulable workup negative; CT abdomen/pelvis: right ovarian vein thrombosis without extension into IVC"
+        },
+        "Diagnosis": "Ovarian vein thrombosis",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 11,
+        "Medical_Record": {
+            "Demographics": "46-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Lumbar pain radiating bilaterally; 1-year duration",
+            "History_of_Present_Illness": "Progressive lumbar pain; radiation in L5 and S1 distribution; aggravated by walking; walking distance limited to 500 m; multiple work absences; no improvement with anti-inflammatory medications, analgesics, and physiotherapy",
+            "Background": "Diabetes mellitus type 2; no history of steroid intake, epidural steroid injection, or endocrinopathy; morbid obesity (BMI 48.9, 143 kg, 171 cm); referred for surgical assessment by family physician"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Morbid obesity; paresthesias in L5 and S1 dermatomes bilaterally; no focal motor deficits; normal gait; lumbar pain aggravated by palpation of soft tissues and paraspinal musculature; deep reflexes 2+ at patellar and Achilles tendons bilaterally; VAS of radicular pain 7/10; denied anal sphincter dysfunction",
+            "Investigations": "MRI: epidural lipomatosis at L4, L5, and S1; follow-up MRI after weight loss: resolution of epidural lipomatosis"
+        },
+        "Diagnosis": "Idiopathic Epidural Lipomatosis",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 12,
+        "Medical_Record": {
+            "Demographics": "49-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Flu-like symptoms after recent hysterectomy; surgical site burst with severe bloody discharge; subsequent depression and heart palpitations",
+            "History_of_Present_Illness": "Flu-like symptoms post-hysterectomy; surgical site dehiscence after sneeze with severe bleeding; onset of depression and heart palpitations; prescribed antidepressant, insomnia, and indigestion medications; developed anxiety, worsening palpitations (pulse 90 bpm), and insomnia; painful response to palpation at anterior chest; improvement in symptoms after taping therapy; pulse improved to 82 bpm, then 72 bpm; reported increased alertness, resolution of palpitations, improved sleep, and digestion; discontinued medications; complete symptom resolution after 40 days",
+            "Background": "Recent hysterectomy; no other past medical history, surgical history, family or social history, medications, allergies, or contextual data mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Painful response to palpation at anterior chest; no pain on back or sides; initial pulse 90 bpm; pulse improved to 82 bpm after taping; pulse 72 bpm next day; pulse stable at 68 bpm on follow-up; speech slower compared to initial visit",
+            "Investigations": ""
+        },
+        "Diagnosis": "Chronic depression",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 13,
+        "Medical_Record": {
+            "Demographics": "25-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Facial swelling and rashes; more than 3 years duration",
+            "History_of_Present_Illness": "Swelling around eyes; rashes on face and dorsal hands; mild symmetrical proximal muscle weakness in upper arm; burning sensation with facial rash; no dysphagia; no respiratory symptoms",
+            "Background": "No positive myositis-specific autoantibodies; no significant family or social history mentioned; previous treatment with systemic corticosteroids, hydroxychloroquine, mycophenolate mofetil; refused rituximab and IVIG due to cost; refused topical glucocorticoids due to side effects; used topical tacrolimus cream without improvement; no allergies or occupation mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Violaceous papules and plaques on metacarpophalangeal and interphalangeal joints; facial swelling; rashes on face and dorsal hands",
+            "Investigations": "Elevated lactate dehydrogenase; elevated creatine kinase; normal aldolase; normal antinuclear antibodies; normal rheumatoid factor; normal anti-mitochondrial antibody; normal anti-neutrophil cytoplasmic antibody; negative myositis-specific autoantibodies; Cutaneous Dermatomyositis Disease Area and Severity Index activity score 9, damage score 4; pathology: vascular dilatation and perivascular lymphocytic infiltrate"
+        },
+        "Diagnosis": "Dermatomyositis",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Dermatomyositis"
+        }
+    },
+    {
+        "id": 14,
+        "Medical_Record": {
+            "Demographics": "65-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Multiple somatic symptoms; duration since 2006",
+            "History_of_Present_Illness": "Nausea, vomiting, abdominal pain, diarrhea; partial improvement with antidiarrheal and spasmolysis; persistent nausea, vomiting, abdominal pain, anal distension; later limb weakness, soreness, insomnia, weight loss; repeated consultations and investigations with no organic pathology; symptoms refractory to multiple medications; worsening in 2018; severe somatic symptoms with depression, anxiety, and sleep disorders; suicidal ideation prior to neurosurgical intervention",
+            "Background": "No significant past medical history; no previous mental illness; no family history of mental illness; no history of psychotropic drug use prior to 2011; no known allergies; medications included flupentixol and melitracen, duloxetine, lorazepam, buspirone, agomelatine, dexzopiclone; no stressful life events, trauma, or psychosocial factors reported"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Mental status: logical thought content, alert, able to concentrate, intact cognition; mild somnolence postoperatively (resolved by day three); vital signs normal one week post-op",
+            "Investigations": "Gastroenteroscopy, abdominal-thorax CT, MRI, stool routine: normal; laboratory: low total protein (49.7 g/L), low albumin (32 g/L), low globulin (17.7 g/L); preoperative cranial MRI and CT: no organic disease; psychiatric scales: PHQ-15: 20, HAMD-17: 32, HAMA-14: 28, SCL-90: 156, MMSE: 27, PSQI: 27; postoperative head CT: small intracranial gas, no hemorrhage"
+        },
+        "Diagnosis": "Refractory Somatic Symptom Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 15,
+        "Medical_Record": {
+            "Demographics": "77-year-old female; retired",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Absent-mindedness; long-standing duration",
+            "History_of_Present_Illness": "Forgetfulness since childhood; agitation; restlessness; poor concentration; missed appointments; inefficient work performance; difficulty completing tasks; required assistance for daily activities; worsening after husband's death",
+            "Background": "No clinical problems; no depression or anxiety; no psychiatric history; widowed; four years formal schooling; no reported allergies; methylphenidate treatment (10-20 mg/day); family support for daily organization"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "ECG normal; brain CT normal attenuation values"
+        },
+        "Diagnosis": "Attention-deficit/hyperactivity disorder, inattentive subtype",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 16,
+        "Medical_Record": {
+            "Demographics": "46-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Fatigue, weight loss, fever; 1-month duration",
+            "History_of_Present_Illness": "Fatigue, weight loss, fever; unconsciousness; noisy breathing; anemia; leukocytosis; thrombocytopenia",
+            "Background": "No significant personal or familial medical history; no medication or allergy information; no social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Pale appearance; no lymphadenopathy; unconsciousness; noisy breathing",
+            "Investigations": "Hemoglobin 8.5 g/dL, 8.2 g/dL (low); leukocyte count 134 × 10^9/L, 229 × 10^9/L (high); platelet count 23 × 10^9/L, 29 × 10^9/L (low); fibrinogen 37 mg/dL (low); prothrombin time 18 s (prolonged); cytogenetics: t(15;17)(q22;q21), t(1;2)(q42~43;q11.2~12); PML/RARA fusion gene detected; flow cytometry: MPO++, CD45+dim, CD34−, HLADr−, CD33+, CD13+, CD16−, CD64+, CD15+dim, CD14−"
+        },
+        "Diagnosis": "Acute promyelocytic leukemia",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Acute promyelocytic leukemia"
+        }
+    },
+    {
+        "id": 17,
+        "Medical_Record": {
+            "Demographics": "37-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Occipital headache; 3-month duration; refractory to pain medication",
+            "History_of_Present_Illness": "Periodic medical examinations normal until onset of occipital headache 3 months prior; no fatigue; neurological examination normal",
+            "Background": "No significant past medical history reported; pathological fracture of left humerus 7 years ago; solitary bone plasmacytoma diagnosed in humerus; no mention of medications, allergies, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Neurological examination normal; postoperative status alert; no additional neurological deficit",
+            "Investigations": "CT: extra axial mass right posterior fossa; erosion of inner table of skull; MRI: isointense mass 55×35×31 mm, vermis and fourth ventricle displaced, minimal hydrocephalus, severe enhancement with contrast; laboratory workup: no hematological or biochemical abnormalities; liver and kidney function tests unremarkable; histopathology: diffuse infiltration of medium-sized plasma cells, mild pleomorphism, increased nuclear to cytoplasmic ratio, prominent nucleoli, areas of necrosis; IHC: CD45 negative; bone marrow aspiration: no plasmacytosis; urine Bence Jones proteins negative; serum and urine protein electrophoresis negative"
+        },
+        "Diagnosis": "Extramedullary plasmacytoma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": true,
+            "orphanet_name": "Plasmacytoma"
+        }
+    },
+    {
+        "id": 18,
+        "Medical_Record": {
+            "Demographics": "33-year-old female; active duty soldier",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Bilateral photopsias and temporal visual field defects; duration not specified",
+            "History_of_Present_Illness": "Initial presentation with bilateral photopsias and temporal visual field defects; referred with possible white dot syndrome; history of high myopia (-6.75D OD, -7.00D OS)",
+            "Background": "High myopia; no mention of other PMH, surgical history, family or social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "BCVA 20/20 OD, 20/30 OS; normal anterior segment; no vitritis; scalloped and circular RPE defects OU; previous chorioretinal scar OS",
+            "Investigations": "Humphrey visual field 30-2: enlarged blind spots, temporal scotomas OU; ERG: reduced cone and flicker response OU; OCT: normal IS-OS line in macula, loss of IS-OS line in paramacular areas, normal retinal thickness; labs: negative for syphilis, CMV, herpes zoster, herpes simplex, ANA, RF, HIV; chest X-ray and brain MRI normal"
+        },
+        "Diagnosis": "Acute Zonal Occult Outer Retinopathy",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": true,
+            "orphanet_name": "Acute zonal occult outer retinopathy"
+        }
+    },
+    {
+        "id": 19,
+        "Medical_Record": {
+            "Demographics": "33-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Light vaginal bleeding and bilateral lower quadrant abdominal pain; duration not specified",
+            "History_of_Present_Illness": "Five weeks amenorrhea; regular previous menstrual cycles; initial stable condition; on third day, severe lower abdominal pain and rebound tenderness",
+            "Background": "Nulliparous; no history of sexually transmitted disease, pelvic inflammatory disease, or gynecological surgery; no information on medications, allergies, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Initial BP 110/70 mmHg, pulse 80/min, temperature 37.5°C; small amount of vaginal blood, closed cervical os; normal size anteverted uterus; no cervical motion tenderness; left adnexal tenderness, no mass; on third day: BP 95/60 mmHg, pulse 90/min, abdominal rebound tenderness",
+            "Investigations": "Urine pregnancy test positive; serum beta-hCG 592 mIU/mL (initial), decreased to 364 mIU/mL; transvaginal ultrasound: empty uterus, corpus luteum in left ovary, 25 mm hyperechoic mass with central hypoechoic shadow in left adnexa, no yolk sac or fetal pole, no free fluid initially; WBC 4.6 × 10^9/L, Hb 12 g/dL, Hct 34%, Plt 216 × 10^9/L, RBC 4.2 × 10^12/L; on third day: Hb 8.5 g/dL, RBC 3.17 × 10^12/L, Hct 23.5%; ultrasound: large amount of fluid in cul-de-sac and abdominal cavity; laparoscopy: 600 mL blood evacuated, left ovary hemorrhagic mass (5 × 4.5 × 3.5 cm), left fallopian tube normal; pathology: left ovarian gestation with necrotic chorionic villi and corpus luteum"
+        },
+        "Diagnosis": "Ruptured ovarian pregnancy",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 20,
+        "Medical_Record": {
+            "Demographics": "25-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Right eye pain, injection, tearing; several hours duration",
+            "History_of_Present_Illness": "Acute onset after accidental exposure to coral reef fluid while cleaning aquarium; immediate irrigation; use of artificial tears every 3–4 hours; worsening lid edema over 24 hours; improvement by day 3; complete resolution by 2 weeks",
+            "Background": "No history of contact lens wear; healthy; no significant past medical history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Visual acuity 20/20 both eyes; normal intraocular pressures; upper greater-than-lower lid edema; minimal erythema; no induration; significant inferior bulbar conjunctival epithelial defect; injection; subtle blanching of conjunctival vessels; chemosis; patchy subconjunctival hemorrhage; no corneal epithelial defect; afebrile",
+            "Investigations": "Ocular pH 7.0; conjunctival swabs for bacterial culture and gram stain negative for neutrophils or organisms"
+        },
+        "Diagnosis": "Toxic Keratoconjunctivitis",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 21,
+        "Medical_Record": {
+            "Demographics": "46-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Pain and numbness in right lower jaw; 4-month duration",
+            "History_of_Present_Illness": "Pain and swelling in 48 region; extraction 1.5 years ago; subsequent pus discharge and treatment; development of diffuse bony hard swelling in right mandibular ramus region; facial asymmetry; palpable, fixed, tender right submandibular lymph node; intraoral expansion in right ramus region; diffuse erythema distal of 46 to pterygomandibular raphe; tenderness on palpation; sinus opening in alveolar ridge retromolar area; 18 and 48 clinically missing",
+            "Background": "No significant medical history; no contributory family history; no contributory habit history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Diffuse bony hard swelling in right mandibular ramus; facial asymmetry; palpable, fixed, tender right submandibular lymph node; intraoral expansion in right ramus region; diffuse erythema; tenderness on palpation; sinus opening in alveolar ridge retromolar area; 18 and 48 clinically missing",
+            "Investigations": "Orthopantomogram: radiolucent osteolytic lesion in right mandibular ramus with irregular, ragged margins; cone beam CT: osteolytic lesion with moth-eaten appearance, destruction of buccal and lingual cortices, thinning of anterior border of ramus, periosteal reaction, sclerosis in surrounding bone; blood investigations: within normal range; incisional biopsy: fibro-cellular stroma with hyperchromatic epithelial tumor cells, cellular and nuclear pleomorphism, palisaded basal columnar cells, squamous and stellate reticulum-like cells, PAS negative; segmental mandibulectomy specimen: irregular solid epithelial islands, keratin pearl formation, degeneration and necrosis, palisading, reverse polarity, subnuclear vacuolization, marked pleomorphism, increased mitosis, abnormal mitotic figures, necrotic bone with neoplastic epithelial islands infiltrating marrow spaces"
+        },
+        "Diagnosis": "Primary intraosseous squamous cell carcinoma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 22,
+        "Medical_Record": {
+            "Demographics": "21-year-old female; occupation not specified",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Lower back pain; onset early September 2021",
+            "History_of_Present_Illness": "Progressive lower back pain radiating to left posterior thigh; numbness and prickling pain on stepping; severe lower extremity weakness; difficulty in voiding and defecation; loss of independent ambulation",
+            "Background": "Achondroplasia; obesity (BMI 31.9 kg/m2); epiphyseal stapling of left distal femur and proximal tibia (2009, 2010) for genu varum; bilateral paratubal cystectomy for mesothelial cysts (2020); acetaminophen 500 mg bid for lower limb pain; no other systemic disease; no assistive device for ambulation prior to 2021; mild lower limb weakness after walking 15 minutes; normal urination and defecation prior to current illness; no information on family history, smoking, drug allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Stable vital signs; bilateral reduced muscle strength (2/5) in lower limbs; normal cranial nerve and speech functions; prompt and symmetric light reflexes; no visual field defect; normal extraocular movements; normal facial sensation and movements; full muscle strength of bilateral sternocleidomastoid muscles; midline tongue protrusion; normal phonation; normal deep tendon reflexes in upper limbs; decreased deep tendon reflexes in lower limbs; negative Babinski sign; impaired pinprick and light-touch sensation below hip level",
+            "Investigations": "Normal liver and kidney function tests; MRI shows syrinx at T6-T8, posterior vertebral scalloping, decreased interpedicular distance, short lumbar pedicles, severe lumbosacral stenosis on axial images"
+        },
+        "Diagnosis": "Cauda equina syndrome",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 23,
+        "Medical_Record": {
+            "Demographics": "48-year-old male; occupation not specified",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Involuntary facial movements and phonic tics; 11-month duration",
+            "History_of_Present_Illness": "Onset one month after non-commotional cranio-facial trauma from car accident; involuntary stereotyped facial movements (forceful eye closure, grimacing, forced lip closure), phonic tics (deep prolonged sounds, vocalizations); high frequency; socially disabling; required quitting job; increased with attention; no preceding urge or warning signs; unable to voluntarily interrupt tics; poor attention and memory; fear of developing dementia",
+            "Background": "No significant pre, peri-, or postnatal history; no family history of tics or movement disorders; difficult socio-financial situation; poor school performance; lives with elderly mother; part-time job without public contact; medications tried: alprazolam, sertraline, risperidone, haloperidol (all ineffective); no allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Intermittent motor tics (blepharospasm-like forced lid closure, grimacing, forced lip closure, noisy suction movements); phonic tics (grunting, vocalizations); neurological exam otherwise unremarkable; tics increased with attention; distractibility observed",
+            "Investigations": "Cerebral CT scan unremarkable"
+        },
+        "Diagnosis": "Adult-Onset Gilles de la Tourette Syndrome",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 24,
+        "Medical_Record": {
+            "Demographics": "18-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Progressive weakness and atrophy of right upper arm; 3-month duration",
+            "History_of_Present_Illness": "Initial twinge sensation from posterior thoracic to sacrum on neck flexion; slowly progressive weakness and atrophy of upper arm, especially right shoulder",
+            "Background": "No previous disease or trauma; no family history of similar symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Gross atrophy of right shoulder triceps and biceps; deep tendon reflexes symmetrically normal; sensation to sharp pain, vibration, and light touch intact; no Horner sign, Hoffman sign, or Babinski sign",
+            "Investigations": "Dynamic cervical spine imaging shows segmental instability at C4-5, C5-6; MRI shows atrophic spinal cord and increased signal intensity at C5-6; flexion MRI shows prominent posterior epidural space with engorged epidural venous plexus; no significant pathologic lesions on neutral position MRI"
+        },
+        "Diagnosis": "Hirayama Disease",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Monomelic amyotrophy"
+        }
+    },
+    {
+        "id": 25,
+        "Medical_Record": {
+            "Demographics": "12-year-old male; ",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Refusal to walk; 2-month duration",
+            "History_of_Present_Illness": "Worsening musculoskeletal pain; refusal to walk; skin eruption; restlessness; severe anemia for 5 months; purpuric rash over lower extremities; no improvement with prednisone; coombs-positive hemolytic anemia requiring three PRBC transfusions; worsening pain and swelling over left leg; physiotherapy interrupted; clonazepam for restlessness",
+            "Background": "Global neurodevelopmental delay; born at 28 weeks gestation (twin pregnancy); ventilated in NICU for 2 months; retinopathy of prematurity; left eye blindness; non-revealing neurological/metabolic workup; exclusively milk-fed; unable to eat/chew hard food due to poor dental hygiene; family history unremarkable for neurological, metabolic, or bleeding problems; no trauma, fever, change in consciousness, seizures, constitutional symptoms, bleeding from orifices, or change in bowel habits; no preceding URTI, GI, or GU symptoms"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Pale; tachycardia HR 120 bpm; afebrile; BP 113/70 mmHg; agitated; conscious, alert, oriented; weight 21.5 kg (<5th percentile); height 134.5 cm (25th percentile); BMI 11.88 kg/m2 (underweight); hard, mildly tender, diffusely swollen left thigh; refusal to ambulate; 90° flexion contracture over both knees; extensive ecchymoses; follicular hyperkeratosis; follicular purpura with corkscrew hairs; neurotic excoriations; gingival swelling; intermittent fragility bleeding; absent red reflex left eye; normal right eye; no abnormal chest, cardiovascular, or abdominal findings",
+            "Investigations": "Hemoglobin 56 g/L (low); platelet count 371 × 10^9/L; reticulocyte count 4%; moderate anisopoikilocytosis on peripheral smear; ESR 44 mm/hour (elevated); hemoccult negative; normal bleeding disorder workup; normal CRP, coagulation profile, calcium, phosphorus, magnesium; serum iron 2.16 μmol/L (low); vitamin C 5.7 μmol/L (low); 25-OH vitamin D 92.2 nmol/L (normal); RBC folate 281 nmol/L (low); vitamin B12 468 pmol/L (normal); radiographs: questionable right fibular fracture (not confirmed); technetium 99m bone scan: no fracture; ultrasound: large intramuscular hematoma left thigh (5 × 20 cm); follow-up: hemoglobin 133 g/L, albumin 43 g/L, vitamin C 75 μmol/L"
+        },
+        "Diagnosis": "Scurvy",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 26,
+        "Medical_Record": {
+            "Demographics": "45-year-old male; college graduate; rental income; higher socioeconomic class",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Tremors, sleep disturbances, lack of focus, tingling and numbness in lower limbs; duration not specified",
+            "History_of_Present_Illness": "Persistent use of anti-tuberculosis therapy drugs for 20 years; belief that discontinuation causes cough, indigestion, epigastric discomfort, loose stools; obsessions with seeking and using ATT drugs",
+            "Background": "History of pulmonary tuberculosis in 2003; no smoking or alcohol use; no prior psychiatric or family psychiatric history; no head trauma or drug abuse; no reported allergies; elevated fasting blood sugar (250 mg/dL) and HbA1C (9); no reported orange-coloured urine or blurred vision"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "General and systemic examinations normal; no neurological impairment",
+            "Investigations": "Normal blood count, electrolytes, liver and kidney function; fasting blood sugar 250 mg/dL; HbA1C 9; radiological investigations planned"
+        },
+        "Diagnosis": "Delusional disorder, somatic subtype",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 27,
+        "Medical_Record": {
+            "Demographics": "26-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Asymptomatic brownish lesion over left lower eyelid; 6-month duration",
+            "History_of_Present_Illness": "Brownish lesion appeared; after 2 months, loss of few eyelashes; for 1 month, surrounding skin and eyelashes turned whitish",
+            "Background": "No family history of similar lesions or autoimmune conditions; no impaired vision; no depigmented lesions elsewhere; rest of cutaneous and systemic examination normal"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Single brownish-black papule (0.5 cm × 0.5 cm) over left lower eyelid; depigmentation of surrounding skin (0.5 cm) with leukotrichia; normal visual acuity",
+            "Investigations": "Dermatoscopy: bluish pepper-like granules, globules, surrounding depigmentation, leukotrichia"
+        },
+        "Diagnosis": "Halo nevus",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 28,
+        "Medical_Record": {
+            "Demographics": "40-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Severe metrorrhagia; 2-month duration after aspiration curettage for delayed abortion",
+            "History_of_Present_Illness": "Severe vaginal bleeding; onset 2 months post-aspiration curettage; moderate bleeding on arrival",
+            "Background": "Obstetric history G1A1; no allergies; no significant medical or surgical history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Moderate vaginal bleeding observed",
+            "Investigations": "Ultrasonography: endometrial cavity with protruding formation (38 × 15 mm), vascularisation of right lateral uterine wall, pulsed Doppler peak systolic velocity > 100 cm/s; CT angiography: complex network of tortuous vessels with rapid contrast enhancement, extension through right parametrium, myometrial fundus, and endometrium; Follow-up ultrasound: no AVM detected after 4 months of combined hormonal contraceptives"
+        },
+        "Diagnosis": "Uterine arteriovenous malformation",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": true,
+            "orphanet_name": "Uterine arteriovenous malformation"
+        }
+    },
+    {
+        "id": 29,
+        "Medical_Record": {
+            "Demographics": "75-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Sudden-onset chest pain; 2-3 hours duration",
+            "History_of_Present_Illness": "Chest pain; EKG shows ST-segment elevation in V1-V5; diagnosed with anterior-wall myocardial infarction; underwent primary PCI with drug-eluting stent to LAD; post-PCI developed drowsiness, confusion, hemiparesis",
+            "Background": "History of hypertension; no other past medical history provided; no surgical history provided; no family or social history provided; started on dual antiplatelet therapy (aspirin, P2Y12 inhibitor) after PCI; no allergy information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Drowsiness; confusion; hemiparesis (motor power 1/5 in all four limbs); gradual improvement to full consciousness and motor power 4/5",
+            "Investigations": "EKG: ST-segment elevation in V1-V5; coronary angiography: 90% proximal LAD stenosis with clots; non-contrast CT brain: bilateral periventricular hypodensities, mild sulcal effacement, hyperdensity in subarachnoid space; MRI without contrast: not beneficial; repeat CT: reversal of initial changes; serum creatinine peaked at 4.89, returned to 1.53 on discharge"
+        },
+        "Diagnosis": "White matter stroke",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 30,
+        "Medical_Record": {
+            "Demographics": "17-month-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Acute onset irritability, twitching, diaphoresis; duration not specified",
+            "History_of_Present_Illness": "Irritability; generalized twitching; diaphoresis; abnormal eye movements; excessive salivation; tachypnea; fever; tachycardia; agitation; tremors; onset acute",
+            "Background": "No previous medical problems; methamphetamines present and used at caretaker's home; no known drug allergies; no significant family history; immunization, travel, surgical history not specified"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Heart rate 122 bpm; respiratory rate 24; oxygen saturation 90%; rectal temperature 99.7°F initially, later 102.0°F; alert and oriented; agitation; tremors; Glasgow Coma Scale 15; mydriasis 5-6 mm; rotary nystagmus; excessive salivation; sinus tachycardia; clear breath sounds; tachypnea; no skin lesions, bruises, bites, abrasions, or erythema; no clonus, rigidity, fasciculation, excessive salivation, or nystagmus at tertiary center; hypertensive; irritable; diaphoresis intermittently",
+            "Investigations": "Urine drug screen positive for methamphetamines; toxicology labs and routine chemistries unremarkable; creatine kinase 1467 IU/L; noncontrast brain CT negative for bleeding; EEG negative for seizure activity; blood d-methamphetamine >61,000 ng/mL; amphetamine >21,000 ng/mL"
+        },
+        "Diagnosis": "Methamphetamine ingestion",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 31,
+        "Medical_Record": {
+            "Demographics": "55-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Memory deficit; 3-year duration",
+            "History_of_Present_Illness": "Motor rigidity mainly in lower limbs; lack of balance; postural instability; lower limb paresthesia; spatial disorientation; memory problems; onset after verbal and physical aggression; symptoms present for 3 years",
+            "Background": "History of anorexia nervosa at age 22; post-partum depression; panic disorder for 20 years; history of repetitive sexual abuse during infancy; husband's arrest 2 years ago; multiple traumatic events; severe impairment in quality of life; no mention of medications, allergies, or other contextual data"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Requires stick to avoid falls",
+            "Investigations": "Brain and spinal MRI shows integrity of spinal cord; neuropsychological evaluation performed"
+        },
+        "Diagnosis": "Functional Motor Conversion Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 32,
+        "Medical_Record": {
+            "Demographics": "55-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Abdominal distension; unknown duration",
+            "History_of_Present_Illness": "Abdominal distension; history of eating disorder; binge eating since night before admission",
+            "Background": "Body mass index 13.4; eating disorder; no additional PMH, surgical history, family or social history, medications, allergies, or other contextual data mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Alert and conscious; blood pressure 89/56 mmHg; pulse 128 beats per minute; respiration rate 18 breaths per minute; oxygen saturation 99% on room air; temperature 37.2°C; abdominal distension and rigidity; skin mottling from lower abdomen to both knees",
+            "Investigations": "CT scan shows food residues from esophagus to descending duodenum; approximately 5 L of food residue aspirated via gastric tube and upper endoscopy; rapid resolution of skin mottling and stabilization of vital signs after aspiration"
+        },
+        "Diagnosis": "Acute gastric dilatation",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 33,
+        "Medical_Record": {
+            "Demographics": "63-year-old female; housewife",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Loss of consciousness; sudden onset; 1-day post right dacryocystorhinostomy",
+            "History_of_Present_Illness": "Sudden loss of consciousness; no fever; no headache; no seizure; no abnormal movements; no tongue biting; no incontinence; no emotional triggers; no physical exertion; no aural signs",
+            "Background": "Diabetes; hypertension; right dacryocystorhinostomy (recent); insulin; ACE inhibitors; paracetamol; no syncope; no epilepsy; no trauma; no heart block; no family history of syncope, epilepsy, arrhythmias; non-smoker; no alcohol use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 125/65 mmHg; heart rate 105 bpm; blood sugar 265 mg/dL; general appearance unremarkable; normal vesicular breathing; no cardiac murmurs; soft, non-tender abdomen; no visceromegaly; pupils 4 mm, reactive to light; planters downgoing bilaterally",
+            "Investigations": "CT head shows pneumocephalus; arterial blood gas: pH 7.31, pCO2 50 mmHg, pO2 61 mmHg, HCO3 24 mg/dl; complete blood counts normal; electrolytes normal; urine negative for ketones; echocardiography ejection fraction 55%; electroencephalogram normal"
+        },
+        "Diagnosis": "Tension pneumocephalus",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 34,
+        "Medical_Record": {
+            "Demographics": "12-year-old male; ethnicity: Caucasian",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Positive newborn screening for cystic fibrosis; duration not specified",
+            "History_of_Present_Illness": "Moderate lung disease; FEV1 61% before therapy; one annual pulmonary exacerbation requiring oral antibiotics; annual colonization by methicillin-resistant Staphylococcus aureus since age 8; nasal polyposis requiring surgery at age 5; steatosis liver disease at age 10",
+            "Background": "No bronchiectasis on chest CT; normal LCI2.5 (6.54 vs. predicted 6.55); BMI 18.65 kg/m2 before therapy; CFTR genetic variants: R709X, F508del, I1027T; R709X inherited from mother, F508del/I1027T complex allele from father"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Pathological sweat chloride at diagnosis (chloride 103–104 mmol/L); chest CT scan without bronchiectasis; normal LCI2.5"
+        },
+        "Diagnosis": "Cystic fibrosis",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "Cystic fibrosis"
+        }
+    },
+    {
+        "id": 35,
+        "Medical_Record": {
+            "Demographics": "46-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Chronic urinary retention; 2-year duration",
+            "History_of_Present_Illness": "Gradually worsening urinary difficulties; dysmenorrhea; menorrhagia; cyst increased in size over 5 years",
+            "Background": "Gravida 3, para 2; no prior symptoms; no mention of occupation, medications, allergies, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Uterus size equivalent to 12th week pregnancy; enlarged cervix palpable on rectovaginal exam; normal bilateral adnexa",
+            "Investigations": "Transvaginal ultrasonography: 5 x 4.5 cm anechoic cyst in posterior cervical wall, enlarged uterus with heterogeneous myometrial echotexture, unremarkable endometrium; pelvic CT: enlarged/distended bladder, bilaterally dilated ureters, 5-cm cervical cyst; hemoglobin 52 g/l (low); CA-125 74.5 U/ml (elevated); cervical and endometrial biopsy: negative for atypia; histopathology: cyst wall lined with columnar epithelium, endometrial glands and stroma in myometrium"
+        },
+        "Diagnosis": "Nabothian cyst and adenomyosis",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 36,
+        "Medical_Record": {
+            "Demographics": "70-year-old male; ",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Gross decrease in vision in right eye; 1-month duration",
+            "History_of_Present_Illness": "Sudden decrease in vision; right eye; 1 month; hypertensive",
+            "Background": "Hypertension; no surgical history mentioned; no family history mentioned; no social history mentioned; no medications mentioned except intravitreal ranibizumab; no allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Anterior segment normal; intra-ocular pressure normal; fundus: central retinal vein occlusion; retinal haemorrhages; cystoid macular edema",
+            "Investigations": "FFA: blocked fluorescence at retinal haemorrhages; leakage within FAZ; 3D OCT: gross cystoid macular edema; post-treatment 3D OCT: dramatic reduction in macular edema; reduced central foveal thickness"
+        },
+        "Diagnosis": "Central Retinal Vein Occlusion with Cystoid Macular Edema",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 37,
+        "Medical_Record": {
+            "Demographics": "26-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Sudden headache, nausea, vomiting; onset during 13th week of pregnancy",
+            "History_of_Present_Illness": "Acute headache, nausea, vomiting; tetraventricular bleeding; progressive neurological symptoms including left-sided hemiparesis and hemihypesthesia; recurrent symptoms post-delivery",
+            "Background": "Pregnant at presentation; no additional PMH, surgical history, family or social history, medications, allergies, immunizations, or travel history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Mild left-sided hemiparesis; recurrence of left-sided hemiparesis and hemihypesthesia post-delivery",
+            "Investigations": "CT: severe tetraventricular bleeding, hypodense deep lesion in right posterior hemisphere; MRI: irregular brain tumor with contrast enhancement and intratumoral bleeding near occipital horn of lateral ventricle; volumetric measurements: initial 2.5 cm, 4.2 cm3; follow-up: 3.6 cm, 8.7 cm3; pre-treatment: 14.1 cm3; post-partum: 21 cm3, 28.8 cm3; post-treatment: reduction to 11.1 cm3, eventual disappearance; stereotactic brain biopsy: WHO Grade III high-grade glioma"
+        },
+        "Diagnosis": "High-grade glioma (WHO Grade III)",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": "Gliomatosis cerebri"
+        }
+    },
+    {
+        "id": 38,
+        "Medical_Record": {
+            "Demographics": "32-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Dysphagia; 1-week duration",
+            "History_of_Present_Illness": "Difficulty swallowing liquids progressing to solids; choking sensation; food stuck in chest; partial relief with belching; pyrosis; occasional vomiting; subacute nonproductive cough for 3-4 weeks; worsening cough; exertional and talking-induced shortness of breath; no nausea; no abdominal pain; no change in bowel habits; no hemoptysis; no fevers; no chills; no night sweats; no weight loss; no myalgia; no arthralgia",
+            "Background": "No significant past medical history except prior COVID-19 infection; no palpable lymphadenopathy; HIV Ag/Ab negative; COVID-19 PCR negative"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Afebrile; HR 94; RR 19; O2sat 100% RA; BP 129/81; mild wheezes over lung bases bilaterally; remainder unremarkable",
+            "Investigations": "CBC and CMP normal; ACE level 81 U/L (elevated); CT chest: prominent mediastinal and bilateral hilar adenopathy, multiple pulmonary nodules, mild interlobular septal thickening, peripheral left lower lobe ground-glass opacities; Esophagram: extrinsic mass effect on middle esophagus, bulky mediastinal lymphadenopathy; EBUS with transbronchial needle aspiration: abundant non-necrotizing granulomas, mature lymphocytes, endobronchial cells; Flow cytometry: negative for monoclonal B-cells and abnormal T-cells; GMS and AFB stains negative; Fungus and AFB cultures negative; EGD with dilation: mucosa grossly and histologically normal; Manometry studies unremarkable"
+        },
+        "Diagnosis": "Sarcoidosis",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Sarcoidosis"
+        }
+    },
+    {
+        "id": 39,
+        "Medical_Record": {
+            "Demographics": "56-year-old transgender man",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Headache; 1-week duration",
+            "History_of_Present_Illness": "Bitemporal headache; similar to chronic tension headaches; no chest pain; no vision changes; hypertensive urgency with blood pressures 180–220s/140–150s mmHg; three ED visits in one week",
+            "Background": "Dyslipidemia; hypothyroidism; nicotine dependence (1/2 pack-per-day cigarette smoker); gender reconstruction surgery (bilateral mastectomy, oophorectomy, hysterectomy at age 29); oral/topical testosterone therapy since age 18; regular care by primary care physician and endocrinologist; no known history of hypertension; taking amlodipine; no cocaine use; no abdominal striae; no drug allergies stated"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 207/136 mmHg; pulse 105 bpm; absence of cervical bruits; normal cardiac and vascular examination; equal bilateral upper extremity blood pressure; normal peripheral pulses; no abdominal bruits; no lower extremity edema",
+            "Investigations": "Electrocardiogram: left ventricular hypertrophy; chest radiography: negative for acute processes; renal duplex ultrasound: severely increased velocities in right mid-to-distal renal artery (peak-systolic velocity 501 cm/s, end-diastolic velocity 246 cm/s, renal/aortic ratio 7.6), right kidney 8.6 cm (smaller than left 10.5 cm); CTA abdomen/pelvis: beading of right renal artery, mild right kidney atrophy, multiple arterial ectasia/aneurysm (splenic, hepatic, bilateral internal iliac arteries); MRA head/neck: no FMD in intracranial arteries, moderate atherosclerotic carotid stenosis; carotid duplex: 50–69% stenosis right internal carotid, <50% left internal carotid; echocardiogram: ejection fraction 60%, left ventricular concentric remodeling; urine drug screen: negative; thyroid-stimulating hormone, aldosterone, cortisol: normal; serum potassium 4.9 mmol/L; sodium 136 mmol/L; creatinine 1.20 mg/dL; angiography: multifocal FMD of right renal artery with severe stenosis; IVUS/OCT: circumferential fibrotic tissue at stenotic lesions; post-angioplasty duplex: improved velocities in right renal artery"
+        },
+        "Diagnosis": "Fibromuscular dysplasia",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Fibromuscular dysplasia"
+        }
+    },
+    {
+        "id": 40,
+        "Medical_Record": {
+            "Demographics": "9-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Congenital widespread skin dyspigmentation; duration since birth",
+            "History_of_Present_Illness": "Swirls and streaks of hypo- and hyperpigmentation; sharply demarcated at midline on anterior and posterior trunks; hypertrichosis; dorsal scoliosis; mild asymmetrical distortion of skull; fine motor coordination disturbance; dysorthography",
+            "Background": "Amniocentesis performed due to cystic hygroma in first trimester; normal karyotype (46,XY) on amniocentesis; non-consanguineous parents; family history not relevant"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Cytogenetic study on skin fibroblasts: trisomy 7 mosaicism in 5% of metaphases in both hyperpigmented and hypopigmented skin; remaining ancillary exams normal"
+        },
+        "Diagnosis": "Trisomy 7 mosaicism syndrome",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "Mosaic trisomy 7 syndrome"
+        }
+    },
+    {
+        "id": 41,
+        "Medical_Record": {
+            "Demographics": "68-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Persistent gingival swelling; 3-month duration",
+            "History_of_Present_Illness": "Generalized gingival overgrowth; spontaneous bleeding while brushing; throbbing pain from lower left posterior tooth; pus discharge; chronic periapical abscess of tooth 34",
+            "Background": "Diabetes mellitus type 2; hypercholesterolemia; hypertension; medications: Glucovance, Simvastatin, Felodipine, Indapamide, Valsartan; last dental visit in 2009 for fixed prosthodontics; poor oral hygiene; no prosthesis for multiple loss of upper posterior teeth; no allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Generalized gingival enlargement and inflammation; abundant calculus; swollen interdental papillae; fiery red, granular, pebbly surface; over erupted tooth 16 with grade II mobility and grade II furcation involvement; palatal root caries; sinus discharge at abutment tooth 34; retained root of 23; poor oral hygiene; pseudopockets 3-7 mm depth",
+            "Investigations": "Panoramic radiograph: periodontal ligament space widening of tooth 16; retained root of 23 with short root canal filling; unilocular radiolucency (11x9 mm) at apical part of tooth 34; histopathology: inflammatory fibro-epithelial hyperplasia"
+        },
+        "Diagnosis": "Drug-induced gingival enlargement",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 42,
+        "Medical_Record": {
+            "Demographics": "52-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Menorrhagia; unspecified duration",
+            "History_of_Present_Illness": "Menorrhagia; bulky uterus on examination; thick endometrium on ultrasound; normal ovaries on imaging",
+            "Background": "Multiparous; no additional PMH, surgical history, family or social history, medications, allergies, immunizations, or travel history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Bulky uterus; fornices free",
+            "Investigations": "Ultrasound: bulky uterus, thick endometrium, normal ovaries; Hysteroscopy: thick endometrium; Endometrial biopsy: simple hyperplasia; Surgery: grossly normal uterus and ovaries; Microscopy: granulosa cell tumor (Call-Exner bodies) in right ovary; Immunohistochemistry: positive for Inhibin"
+        },
+        "Diagnosis": "Granulosa cell tumor of the ovary",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": true,
+            "orphanet_name": "Malignant granulosa cell tumor of the ovary"
+        }
+    },
+    {
+        "id": 43,
+        "Medical_Record": {
+            "Demographics": "35-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Sudden chest pain; gradual worsening; radiating to left arm; onset at 3 am",
+            "History_of_Present_Illness": "Chest pain progressively worsening; slight shortness of breath; advised to seek hospital care due to symptom progression",
+            "Background": "Past medical history of cocaine abuse; smoking one pack per day for 8 years; social alcohol use; occasional cocaine use (last use 2 weeks prior); no significant family history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 134/86 mm Hg; respiratory rate 20/min; heart rate 89 beats/min; temperature 98°F; oxygen saturation 98% on non-rebreather; unremarkable physical exam",
+            "Investigations": "Hemoglobin 14.5; hematocrit 44.8; leukocytosis 13.6; platelets 330; sodium 138; potassium 3.4; chloride 100; bicarbonate 26; blood urea nitrogen 111; creatinine 1.1; glucose 135; arterial blood gas: pH 7.33, pCO2 36, pO2 61, bicarbonate 91; urine drug screen negative; cardiac enzymes and troponins unremarkable; initial EKG: normal sinus rhythm, early repolarization; repeat EKG: ST elevations V1-V4; cardiac catheterization: 100% LAD stenosis, LVEF 30%; emergent PCI to LAD; echocardiogram: LVEF 25-30%, severe hypokinesis anterior, anteroseptal walls, apex; moderate hypokinesis anterolateral wall; suspected apical thrombus"
+        },
+        "Diagnosis": "Cocaine-induced delayed myocardial infarction with apical thrombus",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 44,
+        "Medical_Record": {
+            "Demographics": "42-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Gradual progressive painless diminution of vision in left eye; 16-month duration",
+            "History_of_Present_Illness": "Initial episode of sudden profound painless diminution of vision in left eye 18 months prior; visual acuity improved from hand motion to 3/60 over 4 months; subsequent progressive deterioration to 1/60 at presentation",
+            "Background": "History of central retinal artery occlusion in left eye; diagnosed systemic lupus erythematosus per EULAR/ARC criteria; positive ANA, positive anti-Cardiolipin Ab, positive beta2 Glycoprotein Ab; fever; thrombocytopenia; non-cicatricial alopecia; treated with hydroxychloroquine 400 mg/day (5.3 mg/kg/day) and oral steroids (20-60 mg/day); no family history of dystrophies; no history of ocular or head trauma"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "BCVA 6/6 right eye, 1/60 left eye; unremarkable anterior segment; right normal fundus; left bull's eye maculopathy; temporal optic disc pallor; attenuated retinal vessels",
+            "Investigations": "SD-OCT macula: foveal and parafoveal outer retinal defects involving RPE, ELM, IS/OS; intraretinal degenerative cysts; generalized thinning and atrophy of neurosensory retina in left eye; right eye normal; positive ANA, anti-Cardiolipin Ab, beta2 Glycoprotein Ab"
+        },
+        "Diagnosis": "Hydroxychloroquine maculopathy",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Toxic maculopathy due to antimalarial drugs"
+        }
+    },
+    {
+        "id": 45,
+        "Medical_Record": {
+            "Demographics": "55-year-old male",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Altered mental status and hyperthermia; acute onset",
+            "History_of_Present_Illness": "Altered consciousness; hyperthermia; tachycardia; tachypnea; generalized rigidity; tremors; diaphoresis; hyperactive bowel sounds; last alcohol intake two days ago; previous similar episode after alcohol withdrawal",
+            "Background": "History of alcohol-use disorder; no medication or drug intake; no significant family or surgical history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 107.4°F; tachycardia 158 bpm; tachypnea 28/min; generalized rigidity; tremors; diaphoresis; hyperactive bowel sounds; normal reflexes; clear lungs",
+            "Investigations": "Acute respiratory alkalosis; anion gap metabolic acidosis; lactic acid 4.6 mmol/L (elevated); ethanol level 30 mg/dL; creatinine kinase 401 U/L (elevated), peaked at 1268 U/L; myoglobinuria 5060 mcg/L (elevated); hyponatremia 128 mmol/L; hypomagnesemia 0.6 mg/dL; hypophosphatemia 1.2 mg/dL; AST 356 U/L, ALT 98 U/L (elevated); normal leukocyte count; negative urine toxicology; normal ammonia; CT head negative; chest X-ray normal; blood culture negative"
+        },
+        "Diagnosis": "Alcohol withdrawal",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 46,
+        "Medical_Record": {
+            "Demographics": "33-year-old male; nurse",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "PTSD symptoms; duration not specified",
+            "History_of_Present_Illness": "Hyperarousal; detachment; avoidance of trauma-related stimuli; hopelessness; depressive symptoms; re-experiencing traumatic experiences; disturbing nightmares; sleep disruption; symptoms developed after working in Intensive Therapy Unit during COVID-19 pandemic",
+            "Background": "No personal or family history of mental illness; on sick leave; escitalopram 20 mg started March 2020 with partial benefit; refused benzodiazepine and melatonin; no adverse effects from medications; agreed to trauma-focused cognitive-behavioral therapy"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Mini-International Neuropsychiatric Interview confirms PTSD; Davidson Trauma Scale: initial FS 49, SS 57, TS 107; after treatment: FS 3, SS 5, TS 8"
+        },
+        "Diagnosis": "Post-traumatic Stress Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 47,
+        "Medical_Record": {
+            "Demographics": "15-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Difficulty falling asleep and difficulty waking up on time; duration approximately 270 days",
+            "History_of_Present_Illness": "Difficulty falling asleep and waking for no known reason; sleep-wake rhythm of going to bed at 5 am and waking at 1 pm; late for school; no improvement with ramelteon 8 mg and zolpidem 5 mg; sleep-wake rhythm monitored during hospitalization; sleep log and actigraph used; biological rhythm monitored by rectal temperature; sleep-wake rhythm shifted after dose reduction of ramelteon; remission maintained with ramelteon 4 mg",
+            "Background": "Unremarkable family and medical histories; no surgical history; no mention of social history, medications prior to ramelteon and zolpidem, or allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Epworth Sleepiness Scale score 7; Morningness-Eveningness Questionnaire score 21",
+            "Investigations": "Sleep log; actigraph monitoring; rectal temperature measurements; response to ramelteon dose adjustment; response to bright light therapy"
+        },
+        "Diagnosis": "Delayed Sleep-Wake Phase Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 48,
+        "Medical_Record": {
+            "Demographics": "45-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Shortness of breath, easy fatigability, generalized weakness, bluish discoloration of lips, fingers, and skin; 4-month duration",
+            "History_of_Present_Illness": "Progressive shortness of breath; easy fatigability; generalized weakness; central cyanosis; symptoms lasting 4 months",
+            "Background": "Malnourished; thin-built; no other system abnormalities mentioned; no details on PMH, surgical history, family/social history, medications, allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Central cyanosis; grade III/IV diastolic murmur at tricuspid region; malnourished; thin-built",
+            "Investigations": "Polycythemia on blood test; arterial blood gas PO2 32 mmHg, SpO2 68% (room air), 72% (oxygen); chest X-ray normal; 2D-transthoracic echocardiography shows right atrial mass; CT angiography shows right atrial myxoma, tumor thrombus in right lower pulmonary artery, small pulmonary infarct; intraoperative transesophageal echocardiography shows patent foramen ovale with right-to-left shunting; histopathology confirms myxoma"
+        },
+        "Diagnosis": "Right atrial myxoma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 49,
+        "Medical_Record": {
+            "Demographics": "53-year-old female; rural resident",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Hematemesis and black tarry stool; one week duration",
+            "History_of_Present_Illness": "Hematemsis; melena; no prior bleeding tendencies; no anticoagulant use",
+            "Background": "No comorbid illnesses; frequent contact with contaminated water sources; no surgical history; no drug allergies; no family history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Stable vital signs; blood pressure 100/60 mmHg; pulse rate 88; unremarkable physical examination",
+            "Investigations": "CBC: mild anemia (hemoglobin 11g/dL, MCV 82fL); RFT and LFT normal; endoscopy: alive leech attached to oropharynx with active mucosal bleeding"
+        },
+        "Diagnosis": "Upper gastrointestinal bleeding due to leech infestation",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 50,
+        "Medical_Record": {
+            "Demographics": "45-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Mobility of left lower back teeth; metallic taste; 2-year duration",
+            "History_of_Present_Illness": "Loss of appetite; blue coloration of fingertips in response to cold; morning stiffness affecting small and large joints; progressive skin tightening; dental extractions due to mobility",
+            "Background": "Poorly built and nourished; past dental history of extractions (26, 27, 36) 3 years ago; no other medical, surgical, family, or social history mentioned; no medication or allergy history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Vital signs within normal limits; tightening of skin of extremities; claw-like hands; hypopigmented areas on hands, knee, ankle, pre- and post-auricular region; pale, swollen, stiff, deformed fingertips; smooth, taut mask-like facial skin; atrophied nasal alae; reduced mouth opening; missing teeth (13, 26, 27, 31, 36, 43); mobile teeth (12, 33, 35, 42); root stumps (18, 16, 24, 28, 34, 45, 46); blanching on buccal mucosa and soft palate; hypopigmented areas on mandibular labial mucosa; depapillation and restricted tongue movement; generalized gingival edema with bleeding on probing; stains and calculus deposits",
+            "Investigations": "Intraoral periapical radiographs and orthopantomogram: widening of periodontal ligament space in molars; routine blood investigations: raised ESR (36 mm), positive ANA; hand and feet radiographs: shortening and resorption of phalanges, soft tissue calcific deposits; barium swallow: esophageal constriction; skin biopsy: normal to thin epidermis, dermis replaced by compact collagen, thick-walled dermal blood vessels, hyalinization, sparse lymphocyte infiltration; histopathology suggestive of scleroderma"
+        },
+        "Diagnosis": "Progressive systemic sclerosis",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Diffuse cutaneous systemic sclerosis"
+        }
+    },
+    {
+        "id": 51,
+        "Medical_Record": {
+            "Demographics": "61-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Depressive symptoms; recurrent episodes since 1999",
+            "History_of_Present_Illness": "First major depressive episode at age 38; apathy, abulia, social withdrawal, inability to work; multiple severe relapses since 2015; frequent psychiatric hospitalizations for suicide attempts; persistent cognitive symptoms (short-term memory impairment, poor concentration, psychomotor retardation, emotional lability, crying fits, excessive guilt, hopelessness); residual symptoms despite multiple treatments; depressive relapse in May 2021; severe episode in December 2021 with mood deflection, apathy, abulia, anhedonia, somatic anxiety, guilt, suicidal thoughts, hyporexia, weight loss",
+            "Background": "Family history of bipolar disorder (mother), MDD and anorexia nervosa (daughter); history of severe dilated cardiomyopathy with ICD and pacemaker implantation; multiple pharmacological treatments (imipramine, lithium, carbamazepine, sertraline, quetiapine, amisulpride, SAMe, choline alfoscerate, nortriptyline, bupropion, atomoxetine, L-methylfolate, minocycline, intranasal esketamine); contraindication to rTMS and ECT due to ICD; no reported side effects or dysbiosis with minocycline; ESR and CRP within reference range"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Severely depressed mood; cognitive symptoms; psychomotor retardation; emotional lability; crying fits; mood stabilization and improvement with treatment; no side effects with minocycline",
+            "Investigations": "MADRS scores: 36 (initial), 10 (post-lithium), 7 (post-therapy modification), 30 (relapse), 6 (post-ESK), 35 (maintenance phase), 8 (post-atomoxetine/L-methylfolate), 0 (remission), 46 (severe episode), 32 (post-minocycline week 1), 30 (week 2), 6 (week 4); pharmacogenetic analysis: MTHFR activity reduction (~35%); ESR and CRP normal"
+        },
+        "Diagnosis": "Difficult-to-Treat Depression",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 52,
+        "Medical_Record": {
+            "Demographics": "37-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Generalized tonic-clonic seizures; 30-minute duration without recovery of consciousness",
+            "History_of_Present_Illness": "Three events of generalized tonic-clonic seizures; persistent coma; myoclonic jerks from chest and abdominal wall; no recovery of consciousness between seizures",
+            "Background": "History of left frontal intracranial hemorrhage due to ruptured anterior communicating artery aneurysm; diabetes mellitus; liver cirrhosis due to chronic hepatitis B; medications: metformin, linagliptine, tenofovir; no surgical history, family or social history, allergies, immunizations, or travel history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 125/55 mmHg; heart rate 112/min; body temperature 37.2°C; coma with intact brainstem reflexes; no lateralizing sign; no focal neurological deficit except myoclonic jerks",
+            "Investigations": "Initial CK 727 IU/L (elevated); eGFR 70 mL/min/1.73 m2 (normal); BUN 13 mg/dL (normal); creatinine 1.31 mg/dL (normal); brain CT: encephalomalacia at left frontal lobe; 24hr EEG: continuous medium amplitude theta to delta slowing on left hemisphere, no epileptiform discharges; CK and creatinine increased to 1,823 IU/L and 2.93 mg/dL on day 2; CK peaked at 3,825 IU/L on day 7; CK normalized at day 13 after phenytoin discontinued"
+        },
+        "Diagnosis": "Phenytoin-induced rhabdomyolysis",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 53,
+        "Medical_Record": {
+            "Demographics": "31-year-old female; Nigerian",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Abnormal chest X-ray; large right-sided pleural effusion; asymptomatic",
+            "History_of_Present_Illness": "No respiratory or constitutional symptoms; abnormal chest X-ray during immigration screening; dullness to percussion and absent breath sounds on right lower and middle lung zones",
+            "Background": "History of endometriosis diagnosed four years prior; severe dysmenorrhea; hormonal therapy for three months; excisional biopsy of umbilical mass with endometrial origin; primary infertility; no significant findings on initial tuberculosis work-up"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Dullness to percussion; absent breath sounds on right lower and middle lung zones",
+            "Investigations": "Chest X-ray shows right pleural effusion; pleural fluid analysis: glucose 5.3 mmol/L, LDH 314 U/L, protein 47.7 gm/L, total nucleated cells 250/μL, RBCs 104,062/μL; thoracoscopy shows inflamed parietal pleura; tissue biopsy confirms endometriosis; abdominal ultrasound shows fluid in right and left iliac fossae and subcutaneous fat plane of umbilical mass; chest CT shows right pleural effusion, pleural thickening, bilateral apical thickening, mildly enlarged right axillary lymph nodes; follow-up X-ray shows re-accumulation of pleural fluid with menstruation"
+        },
+        "Diagnosis": "Pleural endometriosis",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 54,
+        "Medical_Record": {
+            "Demographics": "48-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Recurrent axillary and groin abscesses; more than 20-year duration",
+            "History_of_Present_Illness": "Progressively worsening hidradenitis suppurativa; wider area involvement; more frequent abscess formation and cellulitis; multiple hospital presentations for intravenous antibiotics and incision and drainage",
+            "Background": "Hypertension stabilized with ACE-inhibitor; meticulous hygiene; previous oral and topical antibiotics and steroids; BMI 30"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Left axilla with severe hidradenitis suppurativa; multiple abscesses discharging pus; surrounding induration and scarring; other areas not acutely infected",
+            "Investigations": "Intraoperative swabs: Streptococcus milleri growth"
+        },
+        "Diagnosis": "Hidradenitis Suppurativa",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": "PAPASH syndrome"
+        }
+    },
+    {
+        "id": 55,
+        "Medical_Record": {
+            "Demographics": "29-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Severe left eye pain, photophobia, decreased visual acuity; 8 days after LASIK",
+            "History_of_Present_Illness": "Uncomplicated bilateral LASIK for low myopic astigmatism; clear cornea and normal anterior segment on postoperative days 1 and 5; acute onset severe pain, photophobia, and decreased visual acuity in left eye on day 8; right eye normal",
+            "Background": "No prior systemic or ocular history; preoperative refractive error: right eye -3.00 D Sph / -1.00 D Cyl × 180°, left eye -2.75 D Sph / -1.00 D Cyl × 180°; no significant PMH; no family or social history mentioned; no medication or allergy history prior to event"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Left eye: mild flap edema, peripheral epithelial bullae, intense flare and cells in anterior chamber, thick fibrinous exudates, pigments on endothelium and anterior lens capsule, no keratic precipitates, clear corneal stromal bed; intraocular pressure: right eye 11 mm Hg, left eye 9 mm Hg; posterior segment normal in both eyes",
+            "Investigations": "Uncorrected visual acuity: right eye 20/20, left eye 20/80; blood counts, ESR, CRP, Mantoux test, VDRL, chest X-ray, HIV serology, HLA typing all within normal limits; HLA B27-negative"
+        },
+        "Diagnosis": "Fibrinous anterior uveitis following LASIK",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 56,
+        "Medical_Record": {
+            "Demographics": "14-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Genital anomalies; duration since age 7",
+            "History_of_Present_Illness": "Global developmental delay, most profound in language; short stature; microcephaly; facial dysmorphisms including facial asymmetry, midface hypoplasia, broad and prominent forehead, mild hypertelorism, strabismus, broad nasal bridge, long and smooth philtrum, thin upper lip, high palate, low-set ears with prominent antihelix; subglandular hypospadias; cryptorchidism; hands with fifth finger clinodactyly, abnormal palmar creases; severe bilateral hallux valgus",
+            "Background": "Born after uneventful pregnancy; birth weight 2300 g (<3rd percentile), height 49 cm (>15th percentile); two healthy brothers; parents healthy and non-consanguineous; bilateral hallux valgus surgically repaired at 13 years old"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Short stature; microcephaly; facial asymmetry; midface hypoplasia; broad and prominent forehead; mild hypertelorism; strabismus; broad nasal bridge; long and smooth philtrum; thin upper lip; high palate; low-set ears with prominent antihelix; subglandular hypospadias; cryptorchidism; fifth finger clinodactyly; abnormal palmar creases; severe bilateral hallux valgus",
+            "Investigations": "Brain MRI normal; auditory evoked potentials: normal left hearing, right conductive superficial hearing loss; X-ray hands: three-year delayed bone age; X-ray feet: absence of mid-foot bone structures, only cuboid and navicular bones observed, bilateral hallux valgus; karyotype and Array CGH: 12.7 Mb deletion at 7p14.2p15.3; FISH: 54.95Kb probe targeted to 7p15.2; nomenclature: 46,XY.ish del(7)(p15.2)(D7Z1+,HOXA6−,HOXA13−).arr[GRCh37/hg19] 7p15.3p14.3(22574164_35288260)x1dn; parents normal"
+        },
+        "Diagnosis": "Hand-foot-genital syndrome",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "Hand-foot-genital syndrome"
+        }
+    },
+    {
+        "id": 57,
+        "Medical_Record": {
+            "Demographics": "32-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Lateral left hip pain; duration not specified",
+            "History_of_Present_Illness": "Burning pain started in lateral aspect of left hip, radiated down lateral thigh; worse when rising from seated position, climbing stairs, lying on left side; pain rated 2/10; similar pain prior to pregnancy treated with NSAIDs and corticosteroid injection",
+            "Background": "Recently diagnosed gestational diabetes after abnormal glucose challenge test (blood glucose 206 mg/dL at 1 h); 30 weeks pregnant; previous episodes treated with NSAIDs and corticosteroid injection; NSAIDs contraindicated in third trimester; blood glucose controlled by diet and exercise; no skin changes; no tenderness in left groin; positive tenderness over greater trochanter and lateral thigh; normal hip rotation; clearance obtained from OB/GYN for corticosteroid injection; delivered healthy male at 38 weeks and 1 day; no complications"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "No skin changes; no tenderness to palpation in left groin; tenderness to palpation in lateral thigh and over greater trochanter; range of motion limited by gravid habitus; normal external and internal rotation of left hip",
+            "Investigations": "Abnormal glucose challenge test (blood glucose 206 mg/dL at 1 h); daily blood glucose log: average fasting 92 mg/dL, average postprandial 119 mg/dL; ultrasound-guided injection performed"
+        },
+        "Diagnosis": "Trochanteric bursitis",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 58,
+        "Medical_Record": {
+            "Demographics": "43-year-old female; ",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Headache and difficulty walking; unknown duration",
+            "History_of_Present_Illness": "Headache; difficulty walking; diagnosed cerebrum tumor; scheduled for radical tumorectomy under general anesthesia",
+            "Background": "Obese (BMI 32.0 kg/m2); slight hypertension (155/85 mmHg, HR 92 bpm) preoperatively; no abnormal oral cavity, respiratory tract, or chest radiograph; no mention of medications, allergies, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Able to fully open mouth (Mallampati Grade I); no sore throat, swelling, or edema of upper airway postoperatively",
+            "Investigations": "Chest radiograph normal; postoperative pathological diagnosis: hemangioblastoma; ETT cuff leak detected by bubbling noise and collapsed pilot balloon; water immersion test showed pinhole rupture at cuff"
+        },
+        "Diagnosis": "Endotracheal tube cuff failure",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 59,
+        "Medical_Record": {
+            "Demographics": "20-year-old female; pregnant at 26 weeks gestation",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Carbamazepine overdose; 4-hour duration",
+            "History_of_Present_Illness": "Ingestion of 4000 mg carbamazepine; no co-ingestion; gastric lavage performed; transferred after 4 hours; low sensorium; intubated; developed circulatory shock on day 1; several episodes of hypoglycemia on day 3; managed with dextrose infusion; no further hypoglycemia after 60 hours",
+            "Background": "On anti-epileptic therapy with carbamazepine; pregnant; no mention of other medications, allergies, or significant past medical history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "GCS 3/15; pulse 138/min; BP 110/70 mmHg; respiratory rate 25/min; pupils dilated 6 mm bilaterally, reactive to light; sluggish deep tendon reflexes; negative Babinski sign; unremarkable systemic examination",
+            "Investigations": "Serum carbamazepine >20 μg/ml (therapeutic 6-12 μg/ml); hemoglobin 8 g/dl; WBC 15,200/cumm; renal, liver, coagulation normal; low procalcitonin (0.34); negative cultures; serum carbamazepine 17.3 μg/ml on day 3, 2.97 μg/ml on day 7"
+        },
+        "Diagnosis": "Hypoglycemia secondary to carbamazepine overdose",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 60,
+        "Medical_Record": {
+            "Demographics": "15-year-old female",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Malaligned teeth; difficulty chewing right side; duration not stated",
+            "History_of_Present_Illness": "Malaligned teeth; difficulty chewing right side; multiple cystic lesions in jaws; displaced crowns of 41 and 42",
+            "Background": "No significant past medical or dental history; no family history of syndrome; no skin lesions; parents and siblings examined clinically and radiographically"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Displaced crowns of 41 and 42; palmar-plantar keratosis; syndactility in both feet; no basal cell nevi",
+            "Investigations": "Routine blood investigations; orthopantomogram shows multiple lytic lesions in jaws with unerupted permanent teeth; lateral cephalogram; CT scan with 3-D reconstruction; chest X-ray shows bifid ribs; cortical expansion right mandible; radiolucent lesion in right premolar region"
+        },
+        "Diagnosis": "Gorlin-Goltz syndrome",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": true,
+            "orphanet_name": "Gorlin syndrome"
+        }
+    },
+    {
+        "id": 61,
+        "Medical_Record": {
+            "Demographics": "65-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Refractory bilateral leg edema; duration not specified",
+            "History_of_Present_Illness": "Progressive bilateral lower extremity edema; pruritus and pain; initial diuretic therapy ineffective; worsening edema with redness and tenderness; lesion spread from ankle to thigh; development of fibrotic induration and joint contractures",
+            "Background": "History of stage 3a chronic kidney disease; hypotrophic left kidney; hypertension; amlodipine 2.5 mg; radical prostatectomy for prostate cancer two years prior; recent pelvic MRI with gadoterate meglumine; prior iodinated contrast CT; no family or social history provided; no allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Temp 36.8°C; BP 110/60 mmHg; height 161.3 cm; weight 53.2 kg; BMI 20.4 kg/m2; grade 2+ pretibial pitting edema with redness, mild heat, tenderness in both lower extremities; no inguinal lymphadenopathy",
+            "Investigations": "WBC 6,200/μL; hemoglobin 10.7 g/dL; platelet 253,000/μL; BUN 41 mg/dL; serum creatinine 2.07 mg/dL (improved to 1.18 mg/dL after fluid therapy); eGFR 32 mL/min/1.73 m2 (improved to 63.9 mL/min/1.73 m2); sodium 134 mmol/L; potassium 3.4 mmol/L; chloride 102 mmol/L; total CO2 20 mmol/L; calcium 9.3 mg/dL; phosphate 1.5 mg/dL; total protein 6.9 g/dL; albumin 4.0 g/dL; AST 43 U/L; ALT 15 U/L; CRP 0.96 mg/dL; urine pH 6.0; trace proteinuria; spot urine protein/creatinine ratio 209 mg/g; spot urine albumin/creatinine ratio 60 mg/g; thyroid function normal; fractional excretion of Na 0.1%; fractional excretion of urea 17.6%; chest X-ray and echocardiogram normal; Doppler sonography of lower extremities normal; negative antinuclear antibody, anti-Scl 70, anti-centromere antibody; no eosinophilia or paraproteinemia; skin biopsy: dermal thickening with collagen fibers extending into subcutaneous septa, numerous spindle-shaped fibrocytes"
+        },
+        "Diagnosis": "Nephrogenic Systemic Fibrosis",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Nephrogenic systemic fibrosis"
+        }
+    },
+    {
+        "id": 62,
+        "Medical_Record": {
+            "Demographics": "28-year-old female",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Purpuric lesions on bilateral lower extremities; duration not specified",
+            "History_of_Present_Illness": "Purpuric lesions with pedal oedema; no fever; no joint involvement; no systemic involvement",
+            "Background": "No significant past medical history mentioned; initial treatment with prednisolone and azathioprine; flare-up of rashes with prednisolone <10 mg/day; cyclosporine added for corticosteroid-sparing; further flare-ups; corticosteroid dependence; azathioprine and cyclosporine withdrawn; tofacitinib started; improvement in inflammatory markers and regression of ulcers with scarring; no relapse at 6-month follow-up"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Purpuric lesions on bilateral lower extremities; pedal oedema",
+            "Investigations": "Skin biopsy of right leg: leucocytoclastic vasculitis and fibrinoid necrosis of small vessels in upper and mid dermis; histopathology consistent with cutaneous polyarteritis nodosa; improvement in inflammatory markers"
+        },
+        "Diagnosis": "Cutaneous polyarteritis nodosa",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "Cutaneous polyarteritis nodosa"
+        }
+    },
+    {
+        "id": 63,
+        "Medical_Record": {
+            "Demographics": "39-year-old female; former real estate agent; housewife",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Depressed mood; prolonged duration",
+            "History_of_Present_Illness": "Persistent loneliness; sense of emptiness; loss of happiness in marriage; boredom with life; lack of creative outlet; onset after birth of first son",
+            "Background": "Married; one five-year-old son; husband works long hours; no mention of PMH, surgical history, family history, medications, allergies, immunizations, travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": ""
+        },
+        "Diagnosis": "Depression",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": "Perry syndrome"
+        }
+    },
+    {
+        "id": 64,
+        "Medical_Record": {
+            "Demographics": "66-year-old female; farmer",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Confusional state; 10-day duration after earthquake",
+            "History_of_Present_Illness": "Unusually silent and secluded; frequent intrusive recollections of destroyed buildings; terrifying dreams; feelings of loneliness and helplessness; confusional state; later difficulty recalling names; fluent but senseless speech; inappropriate language; vain hilarity",
+            "Background": "5 years of education; lived in tent for 3 weeks after earthquake; relocated for 4 months; no physical injury; EKG and laboratory exams normal; treated with benzodiazepines and quetiapine; MMSE 27 initially, later 25"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "EEG dominant frequency 9.0 Hz; MRI mild age-related diffuse atrophy, later frontal and bilateral temporal atrophy, increased lateral ventricles; lumbar puncture: increased tau and phospho-tau proteins, Aβ 1-42 level 813 pg/mL"
+        },
+        "Diagnosis": "Semantic Frontotemporal Dementia",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": true,
+            "orphanet_name": "Semantic dementia"
+        }
+    },
+    {
+        "id": 65,
+        "Medical_Record": {
+            "Demographics": "45-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Frequent episodes of fatigue and irritability; 6-month duration",
+            "History_of_Present_Illness": "Episodes of fatigue, irritability, impaired concentration, tremor without loss of consciousness; episodes resolve after eating; road traffic accident 2 months ago due to hypoglycemic event",
+            "Background": "Recently diagnosed hypertension controlled with amlodipine 5 mg daily; elective laparoscopic cholecystectomy 5 years ago; no contributory family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Afebrile; blood pressure 115/68 mmHg; pulse 72 beats/minute; respiratory rate 14 breaths/minute; normal neurological and cardiorespiratory examination",
+            "Investigations": "Serum glucose 50 mg/dL during episode; insulin 40.1 uIU/mL (elevated); C-peptide 4.8 ng/mL (elevated); abdominal CT: single enhancing lesion at head of pancreas (1.5 × 1.0 cm); histopathology: neuroendocrine pancreatic tumor, synaptophysin positive"
+        },
+        "Diagnosis": "Pancreatic Insulinoma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": "Neuroendocrine tumor of pancreas"
+        }
+    },
+    {
+        "id": 66,
+        "Medical_Record": {
+            "Demographics": "37-year-old female; unmarried; medium socio-cultural level",
+            "Personality": "Emotion: Optimistic (Focuses on recovery, expresses hope, and uses positive language.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Persistent depressive mood, social withdrawal, behavioural and eating disorders; duration since age 16, worsened at age 22",
+            "History_of_Present_Illness": "Tendency to isolation, deflected mood, somatizations since age 16; social withdrawal, behavioural and eating disorders onset at age 22; persistent symptoms despite previous treatments; compulsive overeating without purging; fear of contamination with repeated hand washing; intense anxiety; superficial relationships, impulsivity, intense anger; psychosomatic symptoms (skin reddening and itch with fabrics, intolerance to smells and materials); psychosomatic genital symptoms (reddening and itch) during second year of treatment",
+            "Background": "History of Major Depressive Disorder; treated with atypical antipsychotics, antidepressants, benzodiazepines, psychotherapeutic interventions; arterial hypertension; type 2 diabetes mellitus; BMI 45 at presentation; completely toothless; medications: risperidone, sertraline, delorazepam, enalapril, metformin; no organic cause found on EEG and allergologic testing; supportive psychotherapy ongoing; progressive weight loss during treatment; normalization of glycaemic values; antihypertensive therapy continued"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "EEG normal; allergologic patch test negative; psychodiagnostic assessments: BPD-scale 40, HAM-D 35, HAM-A 41, Y-BOCS 35, BULIT-R 94 at baseline; HAM-D 15, HAM-A 9, Y-BOCS 6, BULIT-R 81 at 1 year; HAM-D 6, HAM-A 6, Y-BOCS 3, BULIT-R 56 at 2 years; BMI reduced from 45 to 33; fasting glycaemia reduced from 15.5 mmol/l to 4.3 mmol/l"
+        },
+        "Diagnosis": "Borderline Personality Disorder with comorbid Obsessive-Compulsive Disorder and Bulimic Disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 67,
+        "Medical_Record": {
+            "Demographics": "30-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Diffuse abdominal pain; 1-day duration",
+            "History_of_Present_Illness": "Insidious onset abdominal pain; migratory; progressive; associated with nausea, vomiting, decreased appetite",
+            "Background": "Normotensive; nondiabetic; euthyroid; no abnormal blood glucose, liver, or renal profiles"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Hemodynamically stable; abdominal distension; moderate rebound tenderness in right iliac fossa; localized peritonitis; positive McBurney's sign; positive Rovsing sign; positive Dunphy's sign; unremarkable respiratory and cardiovascular examinations; unremarkable digital rectal examination",
+            "Investigations": "Laboratory parameters indicate acute appendicitis; ultrasonography shows elongated cystic, dilated, aperistaltic, non-compressible gut loop in right lower quadrant with internal echoes; no interloop fluid; no mesenteric lymph nodes; intraoperative findings: mucocele of appendix (6 × 1 × 1 cm); histopathology: crowded tubular structures, no epithelial atypia, acellular mucin pooling (35 ml), no malignancy"
+        },
+        "Diagnosis": "Appendiceal mucocele",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 68,
+        "Medical_Record": {
+            "Demographics": "42-year-old female; former smoker",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Acute pressure-like chest pain; >20-minute duration",
+            "History_of_Present_Illness": "High-intensity chest pain; diaphoresis; mild shortness of breath; no relation to emotional stress or intense exercise",
+            "Background": "No atherosclerotic risk factors; no family history of cardiac disease, sudden cardiac death, or autoimmune disease; no regular medication"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Slightly anxious; heart rate 90 bpm; blood pressure 122/67 mmHg; respiratory rate 19/min; oxygen saturation 98% on ambient air; normal S1 and S2; no murmurs or gallops; no signs of heart failure",
+            "Investigations": "ECG: sinus rhythm; 3-4 mm ST-segment elevations in V2-V6; coronary angiography: dual lumen defect (TIMI 0), intimal dissection of left anterior descending coronary artery, ramus intermedius, extension to left main coronary artery (Type 1 SCAD); intravascular ultrasound: near-circumferential haematoma in left main coronary artery; stent placement in left anterior descending coronary artery; electrical defibrillation for ventricular fibrillation; post-procedure ECG: normalization of ST-segment, anterior Q-waves (V1-4), mild T-wave inversion; cardiac troponin T: 117 ng/mL (elevated); full blood count, kidney function, electrolytes: normal; transthoracic echocardiogram: apical thrombus, severe left ventricular dysfunction (ejection fraction 30%), anterior wall akinesia; CT angiography: fibromuscular dysplasia in right renal, right femoral, and brain arteries"
+        },
+        "Diagnosis": "Multivessel spontaneous coronary artery dissection involving the left main coronary artery",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 69,
+        "Medical_Record": {
+            "Demographics": "43-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Headache; 4-year duration",
+            "History_of_Present_Illness": "Persistent headache; no nausea; no vomiting; no seizure; no blurred vision",
+            "Background": "Allergic to penicillin; no significant past medical history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Stable vital signs; intact neurological examination",
+            "Investigations": "MRI: sellar region lesion; T1 hypointense; T2 partial hyperintense; capsule enhancement; elevated prolactin 744.0 mIU/L; other pituitary hormones within normal range; postoperative MRI: residual hyperintense signal in sellar turcica without enhancement; histology: dysplastic ganglion cells, neoplastic glial cells, hyperplasic pituitary cells; IHC: positive synaptophysin in ganglion cells, positive GFAP in glial cells, positive CD34 around blood vessels, positive ACTH, FSH, TSH, GH, LH, PRL in pituitary cells, <2% Ki-67 labeling index; no ADH or oxytocin"
+        },
+        "Diagnosis": "Ganglioglioma of the adenohypophysis",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 70,
+        "Medical_Record": {
+            "Demographics": "62-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Suspected ingestion or aspiration of endodontic hand file; 2-hour duration",
+            "History_of_Present_Illness": "Undergoing root canal therapy on maxillary molar; two episodes of excessive coughing and dyspnea, each lasting several minutes; dentist noted missing endodontic file; referred to Emergency Department for investigation",
+            "Background": "History of ischemic heart disease managed pharmacologically"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Stable observations; normal bronchial and vesicular breath sounds; no respiratory distress, cough, dysphagia, abdominal pain, or vomiting; normal oral cavity examination",
+            "Investigations": "Frontal chest and abdominal radiographs: 27-mm linear radiopaque foreign body at L2/3 disc level (duodenum); subsequent radiographs: migration to distal ileum/ascending colon, then transverse colon; no radiographic evidence of pneumoperitonium; foreign body no longer visualized on day 2"
+        },
+        "Diagnosis": "Accidental ingestion of endodontic file",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 71,
+        "Medical_Record": {
+            "Demographics": "32-year-old male",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Admission after right-sided nephrectomy, evacuation of retroperitoneal hematoma, and removal of abdominal tamponade",
+            "History_of_Present_Illness": "History of polytrauma involving chest, abdomen, and right hip; right lung contusion; major right kidney laceration; minor right liver laceration; extensive retroperitoneal hematoma; fractures of left clavicle, first left rib, right iliac crest; sedated and hemodynamically stable at admission; underwent CT angiography and embolization of right renal artery; emergency surgery with removal of retroperitoneal coagulum and right-sided nephrectomy; major bleeding from vein cava inferior; received blood products and hemostatic agents; persistent thrombocytopenia, high fibrinogen, elevated D-dimer, prolonged aPTT, low antithrombin; extubated after two days; sudden hemodynamic instability on third day; massive thrombus in pulmonary trunk and right ventricle strain on echocardiogram; unsuccessful percutaneous mechanical thrombectomy performed; patient died",
+            "Background": "No data on occupation, past medical history, medications, allergies, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Hemodynamically stable at admission; sedated; post-surgical status; hemodynamic instability on third day",
+            "Investigations": "Whole body CT: right lung contusion, right kidney major laceration, right liver minor laceration, extensive retroperitoneal hematoma, fractures of left clavicle, first left rib, right iliac crest; CT angiography: right renal artery embolization; Laboratory: persistent thrombocytopenia, high fibrinogen, elevated D-dimer, prolonged aPTT, low antithrombin; Echocardiogram: massive thrombus in pulmonary trunk, right ventricle strain; Angiography: extensive thrombotic mass in pulmonary trunk, right basal and segmental arteries; Autopsy: high-risk pulmonary thromboembolism confirmed"
+        },
+        "Diagnosis": "High-risk pulmonary thromboembolism",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": "Multiple paragangliomas associated with polycythemia"
+        }
+    },
+    {
+        "id": 72,
+        "Medical_Record": {
+            "Demographics": "19-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Worsening chest pain, muffled voice, facial and neck swelling; 6-day duration following right-sided wisdom tooth extraction",
+            "History_of_Present_Illness": "Progressive chest pain; muffled voice; facial and neck swelling; trismus; orthopnea; onset 6 days after dental extraction",
+            "Background": "Otherwise healthy; no significant past medical history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 117/77 mm Hg; heart rate 130 bpm; respiration rate 28/min; temperature 98.4°F; mild respiratory distress; muffled voice; diffuse submandibular swelling; trismus; right submandibular tenderness, swelling, and fluctuance without erythema; crepitus under right mandible extending to clavicle; diminished right breath sounds; distant heart sounds; orthopnea",
+            "Investigations": "Chest radiograph: pneumomediastinum, subcutaneous emphysema; CT chest: mediastinal air, small bilateral pleural effusions, subcutaneous air tracking into neck; WBC 8.65 x10^3/μL; lactic acid 3.3 mmol/L (peak 12 mmol/L); esophagram performed"
+        },
+        "Diagnosis": "Necrotizing mediastinitis",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 73,
+        "Medical_Record": {
+            "Demographics": "64-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Recurrent bright red blood per rectum; 1-day duration",
+            "History_of_Present_Illness": "Ten attacks of hematochezia; dizziness; tachycardia",
+            "Background": "Recurrent metastatic endocervical cancer; history of pelvic surgery and radiation; recent contained sigmoid colon perforation managed conservatively; indwelling ureteric stents exchanged 6 weeks prior; no complications reported"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Dizziness; tachycardia",
+            "Investigations": "Hemoglobin 6.6 mg/dL; CT angiography shows 9 mm pseudoaneurysm from proximal left external iliac artery related to surgical clips; contrast extravasation to contained colonic perforation; angiography confirms pseudoaneurysm and contrast reaching sigmoid colon"
+        },
+        "Diagnosis": "Iliac-enteric fistula",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 74,
+        "Medical_Record": {
+            "Demographics": "49-year-old male; ",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Chest discomfort radiating to jaw; 1-hour duration",
+            "History_of_Present_Illness": "Nausea; diaphoresis; ST elevation in V1-3; hemodynamically stable; no heart failure signs",
+            "Background": "Prior coronary stent implantation to proximal LAD in 2015; non-smoker"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Hemodynamically stable; no clinical signs of heart failure",
+            "Investigations": "Pre-hospital ECG: ST elevation in V1-3; Emergency coronary angiogram: left dominant circulation, patent LAD and Circumflex, in-stent restenosis in proximal LAD, thrombotic occlusion of proximal right coronary artery; Drug-eluting stent implanted; Resolution of chest pain and ST elevation; Post-reperfusion ECG: no Q waves or T wave inversion in anteroseptal leads; Pre-discharge echocardiogram: normal RV chamber size, moderate RV systolic dysfunction"
+        },
+        "Diagnosis": "Acute isolated right ventricular infarction",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 75,
+        "Medical_Record": {
+            "Demographics": "49-year-old female; smoker; on estrogen supplements",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Acute and chronic shortness of breath; 6-month duration",
+            "History_of_Present_Illness": "Shortness of breath; brief episodes of pleuritic chest pain for 2 weeks; left leg swelling with pedal edema; no cough, fever, abdominal pain, nausea, or vomiting",
+            "Background": "History of robotic supracervical hysterectomy, bilateral salpingectomy, left oophorectomy for menometrorrhagia and left ovarian cyst; positive family history of lung cancer in mother and brother; three long airplane rides in past 2 weeks; no known prior thromboembolic disease"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "BP 152/106 mmHg; pulse rate 113 BPM; afebrile; SpO2 97% on 3 L/min oxygen; respiratory rate 19/min; BMI 28.31 kg/m2; mild respiratory distress; normal cardio-respiratory findings; left leg swelling with pedal edema",
+            "Investigations": "CBC and BMP normal; EKG shows sinus tachycardia; Troponin I 0.02 ng/ml; chest X-ray shows ill-defined nodular opacity in right mid-lung; BNP 308 pg/ml (elevated); CT pulmonary angiography shows sub-segmental pulmonary embolus in right posterior lower lobe pulmonary artery, multiple irregular non-calcified lung nodules, filling defect in right ventricle; duplex ultrasound shows clots in both popliteal veins; echocardiogram shows hypokinetic right ventricle with mass/thrombus, moderate tricuspid regurgitation, RVSP 51 mmHg, dilated right atrium, small loculated pericardial effusion; cardiac MRI shows tumor and thrombus in right ventricle; PET-CT shows hypermetabolic activity in right ventricle and right atrium, enlarged hypermetabolic lymph nodes in retroperitoneum and bilateral inguinal regions; US-guided biopsy of right inguinal node shows squamous cell carcinoma; autopsy shows tan mass in right ventricle (8x4x2.5 cm), invasion of ventricular wall and tricuspid valve, histopathology reveals metastatic poorly differentiated invasive squamous cell carcinoma, likely originating from uterine cervix; cervical tumor measures 3 cm"
+        },
+        "Diagnosis": "Metastatic squamous cell carcinoma of uterine cervix with right ventricular involvement",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 76,
+        "Medical_Record": {
+            "Demographics": "58-year-old female",
+            "Personality": "Emotion: Denial (Downplays pain, insists symptoms are minor, and dismisses severity.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Pain in lower left back region of jaw; 1-week duration",
+            "History_of_Present_Illness": "Root canal treatment initiated in lower left second molar (tooth 37); mild tenderness on percussion; no swelling; no mobility",
+            "Background": "Medical history noncontributory; fixed orthodontic treatment at age 13"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Mild tenderness on percussion; no swelling; no mobility",
+            "Investigations": "Intraoral periapical radiograph shows initiation of root canal treatment and radiolucency in cervical third of distal root; angled radiographs confirm radiolucency contiguous with root; radiolucency in mesio-cervical region of crown with thinned dentin; vitality confirmed with electric pulp stimulation and cold test; CBCT scan shows well-contained radiolucency (3 mm × 5 mm × 3 mm) in coronal third of distal root; postoperative intraoral periapical radiograph shows densely filled obturation; 6-month postoperative CBCT shows perfect adaptation and good osseous healing"
+        },
+        "Diagnosis": "Internal root resorption",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 77,
+        "Medical_Record": {
+            "Demographics": "73-year-old female",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Veil obscuring vision in both eyes; post-cataract surgery",
+            "History_of_Present_Illness": "Onset after sequential cataract surgery with multifocal intraocular lens implantation; persistent visual disturbance; multiple consultations; no improvement",
+            "Background": "History of dizziness in 2008; MRI of brain, head, and neck normal; no other medical, surgical, family, or social history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Uncorrected visual acuity 20/40 and 20/50 by technician; improved to 20/20 at distance and J1 at near by neuro-ophthalmologist; full color vision; brisk pupils; no relative afferent pupillary defect; full confrontation visual fields; normal ocular motility; orthotropic in primary position; well-positioned posterior chamber multifocal IOLs; normal funduscopy; cup/disc ratio 0.4 bilaterally",
+            "Investigations": "MRI of brain, head, and neck normal; automated perimetry shows superior arcuate defects with many false negatives; kinetic perimetry shows variability and overlapping isopters; full field electroretinography and visual evoked responses normal"
+        },
+        "Diagnosis": "Non-organic visual loss",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 78,
+        "Medical_Record": {
+            "Demographics": "40-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Compromised speech and masticatory efficiency; long-standing open-bite",
+            "History_of_Present_Illness": "Difficulty incising food with anterior teeth; difficulty chewing; distorted speech during pronunciation of sibilant sounds; long-standing duration",
+            "Background": "Healthy; no maxillomandibular abnormalities on panoramic radiograph; general dental treatment completed prior to orthodontic treatment; no mention of PMH, surgical history, family history, social history, medications, allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Symmetrical face; straight profile; lip competence; decreased maxillary incisor display; dental midlines coincident with midsagittal plane; half-unit Class II molar relationship on right; Class I relationship on left; generalized maxillary and mandibular spacing; anterior open-bite from first molar to first molar; only second and third molars in occlusal contact; overjet 2.1 mm; overbite -4.1 mm; adaptive static and dynamic forward tongue posture; increased tongue size approaching macroglossia",
+            "Investigations": "Panoramic radiograph: no maxillomandibular abnormalities; cephalometric analysis: good basal sagittal and vertical relationships, balanced soft-tissue profile, palatal plane rotated counterclockwise (SN.PP = 0.5°), maxillary and mandibular incisors proclined and protruded; post-treatment cephalometric analysis: 5.8 mm improvement in overbite, improvement in ANB angle from 2.7° to 0.7°, increase in SNB angle from 81.7° to 83.4°, maxillary molars intruded by 1.9 mm, maxillary incisors extruded by 1.6 mm, lower incisors stable, no clinically-significant root resorption"
+        },
+        "Diagnosis": "Severe anterior open-bite malocclusion",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 79,
+        "Medical_Record": {
+            "Demographics": "6-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Acute onset seizures; duration since first year of life",
+            "History_of_Present_Illness": "Refractory epilepsy; onset in infancy; intractable seizures despite polytherapy; receptive and expressive language disorder developed in year 4; deterioration of language during follow-up; global aphasia in year 6",
+            "Background": "No family history of hearing difficulties, communication disorders, seizures, or neurological disorders; normal neurological examinations between seizures; no evidence of encephalitis; no neurometabolic disorder; normal blood glucose and lactate; normal CT and MRI scans; normal hearing"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "EEG: bilateral generalized high voltage slow activity, sharp and slow activity more prominent over left hemisphere; Brain perfusion SPECT: decreased perfusion in left inferior frontal, left temporal, and left thalamic regions"
+        },
+        "Diagnosis": "Landau-Kleffner syndrome",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "Landau-Kleffner syndrome"
+        }
+    },
+    {
+        "id": 80,
+        "Medical_Record": {
+            "Demographics": "37-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Right calyceal diverticulum with milk of calcium; duration not stated",
+            "History_of_Present_Illness": "Planned percutaneous nephrolithotomy; post-procedure right leg weakness at 6 hours; tonic seizure and unconsciousness at 8 hours post-procedure; full recovery at 24 hours",
+            "Background": "Good health; no significant past medical history stated; no medication, allergy, family, or social history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Cardiovascularly stable during procedure; no neurological deficit at 24 hours",
+            "Investigations": "Fluoroscopy confirmed catheter position; MRI brain including diffusion-weighted imaging negative; transthoracic echocardiogram negative for cardiac source; transesophageal echocardiography with provocation showed air bubbles in left atrium indicating right-to-left shunt due to patent foramen ovale"
+        },
+        "Diagnosis": "Paradoxical air embolism",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 81,
+        "Medical_Record": {
+            "Demographics": "36-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Paradoxical urine incontinence with normal urethral voiding; 5 days duration postcesarean section",
+            "History_of_Present_Illness": "Onset of urine incontinence 5 days after emergency cesarean section for uterine rupture; normal urethral voiding; abdominal examination unremarkable; pelvic examination showed defect in anterior fornix and urine pooling in posterior fornix",
+            "Background": "Gravida 3 + 1; emergency cesarean section at 36 weeks gestation; delivered live boy weighing 2810 g; no other history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Abdominal examination unremarkable; pelvic examination showed defect in anterior fornix and urine pooling in posterior fornix",
+            "Investigations": "KUB ultrasound showed mild right hydroureteronephrosis; CT urography showed mild right hydroureteronephrosis and contrast extravasation at lower right ureteric segment; three swab test excluded vesicovaginal and vesicouterine fistula; hysteroscopy showed urine from cervical Os; cystoscopy and right retrograde ureteropyelography showed medial deviation of lower right ureteric segment; diagnosis of right uretero-uterine fistula confirmed; poststent retrograde pyelography showed normal right ureter; follow-up CT urography showed complete healing"
+        },
+        "Diagnosis": "Uretero-uterine fistula",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 82,
+        "Medical_Record": {
+            "Demographics": "31-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Shortness of breath and pleuritic chest pain; 1-day duration",
+            "History_of_Present_Illness": "Acute onset shortness of breath and pleuritic chest pain beginning evening prior; progressive worsening",
+            "Background": "History of hypothyroidism; obesity (status post gastric sleeve surgery last year); prior left lower extremity deep vein thrombosis after knee injury (completed 6 months anticoagulation); medications: levothyroxine, medroxyprogesterone acetate; no current anticoagulation"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 120/86 mm Hg; heart rate 136 BPM; respiratory rate 25 BPM; SpO2 94%; symmetric, nontender lower extremities",
+            "Investigations": "Elevated pro-BNP (866 pg/mL), troponin T (0.10 mg/mL), CK-MB index (66%); unremarkable CBC and BMP; ECG: sinus tachycardia; chest X-ray unremarkable; lower extremity Doppler: acute DVT in right popliteal, posterior tibial, and peroneal veins; CTPA: RV dilation, septal bowing, LV/RV ratio >2.0, extensive embolic filling defects in all pulmonary lobes and main pulmonary arteries"
+        },
+        "Diagnosis": "Submassive Pulmonary Embolism",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 83,
+        "Medical_Record": {
+            "Demographics": "29-year-old female; married",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Left gluteal pain; 1-month duration",
+            "History_of_Present_Illness": "Progressive left gluteal pain after corticosteroid injection; pain worsened in past week; progressive left limb lameness",
+            "Background": "No history of medical disease"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Swelling in upper lateral quadrant of left gluteal; no erythema; no tenderness; no warmness; neurologic and other examinations normal",
+            "Investigations": "Abdominal ultrasonography normal; chest x-ray normal; left gluteal ultrasonography shows 97x90x48 mm cystic lesion with multiple septations and daughter cysts; pelvic CT shows 108x76x48 mm cystic lesion; pelvic MRI shows 120x92x60 mm cystic lesion with multiple internal loculations in left deep gluteal muscle; unilocular cyst 78x54x52 mm in segment VII and VIII of liver with subcapsular extension; other organs normal"
+        },
+        "Diagnosis": "Gluteal Hydatid Cyst",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 84,
+        "Medical_Record": {
+            "Demographics": "24-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Persistent retrosternal pain; 6-hour duration",
+            "History_of_Present_Illness": "Retrosternal pain worsened by deep inspiration; onset after jumping from 10-meter bridge into river landing on back",
+            "Background": "Nonsmoker; no past history of asthma, respiratory problems, or significant health issues; no illicit or recreational drug use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Blood pressure 139/89 mmHg; heart rate 88 bpm; respiratory rate 16 breaths per minute; temperature 37.5°C; oxygen saturation 99% on room air; slight sternal tenderness; no subcutaneous emphysema or crepitus in chest and neck; lungs clear bilaterally; regular heart sounds; rest of exam unremarkable",
+            "Investigations": "Mild leukocytosis (15,000/mm3); creatine kinase 240 U/L; normal ECG; e-FAST negative for pneumothorax, effusion, or intra-abdominal fluid; chest X-ray shows mediastinal gas and subcutaneous emphysema in left axilla; CT confirms pneumomediastinum and small left pulmonary contusion; bronchoscopy negative for endobronchial lesion; CT with oral contrast negative for esophageal perforation"
+        },
+        "Diagnosis": "Pneumomediastinum",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 85,
+        "Medical_Record": {
+            "Demographics": "58-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Progressive vision loss; long duration",
+            "History_of_Present_Illness": "Poor vision since childhood; rapid progression; registered blind after few years; further deterioration of vision in both eyes",
+            "Background": "Previous diagnosis of severe macular dystrophy; differential diagnosis included fundus flavimaculatus, Sorsby's dystrophy, Best vitelliform macular dystrophy; family history of unknown eye problems in younger sister; referred by general practitioner; no information on medications, allergies, surgical history, social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Able to count fingers with both eyes; vision not improved with pinhole; unremarkable anterior segment; clear lenses; sluggish pupil reactions bilaterally; normal intraocular pressure; retinal pigmentation with bony spicules in macular areas; paravenous pigmentation; mildly pale optic discs bilaterally; no macular edema",
+            "Investigations": "Fluorescein angiography: profound retinal pigment epithelium atrophy at posterior pole; widespread retinal edema; microvascular changes; ERG: very low scotopic and photopic responses, almost no rod response, delayed a and b waves, reduced cone responses; EOG: abnormal, no light rise; OCT: outer retinal layer atrophy, macular pigmentation, no macular edema; genetic testing: compound heterozygous CRB1 mutations (CRB1c.498_506del9 p.(IIe 167_Gly169del), CRB1c.2688TA p.(Cys896Ter)), confirmed by Sanger sequencing"
+        },
+        "Diagnosis": "Leber Congenital Amaurosis type 8",
+        "Disease_Info": {
+            "Department": "General Practice",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 86,
+        "Medical_Record": {
+            "Demographics": "52-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Severe abdominal distension; mild abdominal pain; duration not specified",
+            "History_of_Present_Illness": "Progressive abdominal distension; mild abdominal pain; globulous abdominal deformation; symptoms less severe than in two sisters; later developed jaundice",
+            "Background": "Known familial condition; previous MRI showed multiple giant liver cysts; refused liver transplantation and resection; regular follow-up every six months; no other background information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Globulous abdominal deformation; jaundice",
+            "Investigations": "MRI: multiple giant liver cysts compromising abdominal cavity, sparing higher liver segments; cysts reaching hypogastric area and both inferior quadrants; new MRI: cyst compression of hepatic pedicle, common bile duct, and portal vein; serum FAL >1700 mg/dl; bilirubin 9.8/7.9 mg/dl; intra-operative cholangiogram: no further bile duct compression after fenestration"
+        },
+        "Diagnosis": "Adult Polycystic Liver Disease",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": true,
+            "orphanet_name": "Isolated polycystic liver disease"
+        }
+    },
+    {
+        "id": 87,
+        "Medical_Record": {
+            "Demographics": "60-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Incidental abdominal mass; duration not specified",
+            "History_of_Present_Illness": "Abdominal mass found on ultrasound after admission for acute kidney injury from dehydration; no weight loss; no abdominal pain; no umbilical discharge; no hematuria; no voiding difficulties",
+            "Background": "History of HIV; anal HPV; former tobacco smoker (15-pack-year); history of alcohol abuse"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Vital signs unremarkable; physical examination unremarkable",
+            "Investigations": "Abdominal ultrasound: 7.0-cm midline pelvic mass superior to urinary bladder; CT scan: 7.3-cm multiseptate anterior bladder wall lesion; Cystoscopy: mass effect on anterior bladder wall, no communication with bladder; Urinalysis: pH 6, minimal proteinuria, microscopic hematuria; Pathology: mucinous cystadenocarcinoma favoring urachal origin"
+        },
+        "Diagnosis": "Urachal mucinous cystadenocarcinoma",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 88,
+        "Medical_Record": {
+            "Demographics": "35-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Neck and chest swelling; 1-day duration",
+            "History_of_Present_Illness": "Swelling around chest and neck noticed evening before presentation; worsening by morning; history of blunt traumatic injury two days prior; deterioration with altered phonation and increased neck swelling after arrival at trauma centre",
+            "Background": "No past medical history, surgical history, family or social history, medications, allergies, or other contextual data mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Glasgow Coma Scale 15; BP 125/66 mmHg; HR 92 bpm; SpO2 95% on 5 L/min oxygen; moderate subcutaneous emphysema; significant laryngeal swelling; multiple rib fractures; lacerated scalp",
+            "Investigations": "Chest X-ray: subcutaneous emphysema; CT chest/abdomen/pelvis: left-sided pneumothorax, subcutaneous emphysema, laryngeal swelling, Grade 1 liver laceration; bronchoscopy: no proximal tracheobronchial injury; repeat bronchoscopy day 18: normal; CXR day 23: normal"
+        },
+        "Diagnosis": "Acute airway compromise due to subcutaneous emphysema",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 89,
+        "Medical_Record": {
+            "Demographics": "24-year-old male; inmate",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Seizure-like episodes; 12-hour duration",
+            "History_of_Present_Illness": "Found lethargic, confused, with blood at mouth; no recollection of event; right ankle pain; two seizure-like episodes in first 24 hours; episodes with leg jerking, trunk tensing, unresponsiveness, post-ictal confusion; reproducible spells with hyperventilation; later developed hemodynamic instability, multiple seizures, acute respiratory failure",
+            "Background": "History of zolpidem use (30-60 tablets of 5 mg daily); last use 72 hours prior to admission; history of alcohol withdrawal seizures; no current alcohol use"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Lethargy; confusion; right ankle pain; tachycardia (140s); tachypnea (30s); hypertension (160s/100s); cyanosis; incontinence; impaired consciousness; acute respiratory failure",
+            "Investigations": "Orthopedic evaluation: right ankle fracture; labs unremarkable; MRI unremarkable; spot EEG: no correlation with functional spells; continuous EEG: runs of discharge during seizures"
+        },
+        "Diagnosis": "Zolpidem withdrawal",
+        "Disease_Info": {
+            "Department": "Emergency Medicine",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 90,
+        "Medical_Record": {
+            "Demographics": "50-year-old female",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Concise (Uses short sentences, answers strictly 'yes' or 'no', and avoids elaboration.)",
+            "Chief_Complaint": "Auditory hallucinations and aggressive behavior; duration not specified",
+            "History_of_Present_Illness": "History of schizoaffective disorder since age 46; recurrent psychotic symptoms including paranoid delusions, auditory hallucinations, disorganized thinking, affective symptoms; multiple hospitalizations for exacerbation; recent refractory auditory hallucinations despite quetiapine, olanzapine, and valproic acid; paliperidone ER added, followed by sudden drop in WBC and neutrophil counts",
+            "Background": "No premorbid symptoms; no family history of psychosis or other mental disorders; previous hospitalizations for psychotic symptom exacerbation; medications: quetiapine, olanzapine, valproic acid, paliperidone ER, lithium carbonate; no allergies reported"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "Initial WBC 4.04 × 10^9/L, neutrophil count 2.01 × 10^9/L; after paliperidone ER, WBC dropped to 2.83 × 10^9/L, neutrophil count 0.79 × 10^9/L; liver and renal function normal; after lithium carbonate, WBC 4.34 × 10^9/L, neutrophil count 2.29 × 10^9/L; later WBC 6.86 × 10^9/L, neutrophil count 4.74 × 10^9/L"
+        },
+        "Diagnosis": "Paliperidone-induced leukopenia and neutropenia in schizoaffective disorder",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 91,
+        "Medical_Record": {
+            "Demographics": "10-year-old female; ",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Right eye pain; recurrence of corneal plaque",
+            "History_of_Present_Illness": "History of VKC; under treatment for 1 year; recurrence of corneal plaque; right eye pain; referred for further management",
+            "Background": "No additional PMH, surgical history, family or social history, medications, allergies, immunizations, or travel history mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Shield ulcer in right eye; giant papillae; palpebral conjunctiva with velvety appearance",
+            "Investigations": "Clinical score 213; CCL24 (eotaxin-2) mRNA expression 349.6 at baseline; after 10 weeks: clinical score 3, CCL24 (eotaxin-2) mRNA expression 9.6"
+        },
+        "Diagnosis": "Vernal Keratoconjunctivitis",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "Vernal keratoconjunctivitis"
+        }
+    },
+    {
+        "id": 92,
+        "Medical_Record": {
+            "Demographics": "51-year-old female; ",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Right breast tumor; unknown duration",
+            "History_of_Present_Illness": "Right breast mass; mild dyspnea; abdominal pain; facial and upper extremity edema",
+            "Background": "No occupation stated; no PMH stated; no surgical history prior to mastectomy; no family history stated; no social history stated; no medication allergies stated; underwent right mastectomy with axillary lymph node dissection; multiple lines of chemotherapy including paclitaxel, carboplatin, vinorelbine, cisplatin, anthracycline, cyclophosphamide, docetaxel, gemcitabine, capecitabine, and eribulin"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Edema of face and upper extremities",
+            "Investigations": "Core needle biopsy: invasive ductal carcinoma; PET scan: isolated right breast mass; Histopathology: biphasic myoepithelial and ductal epithelial cells, nuclear pleomorphism, prominent nucleoli, high nuclear-cytoplasmic ratio, increased mitotic figures; Immunohistochemistry: ductal cells positive for pan-CK, CK5/6, vimentin, E-cadherin, negative for p63, S100; myoepithelial cells positive for p63, vimentin, S100, negative for CK5/6, E-cadherin; tumor cells positive for p53, 90% Ki-67; negative for estrogen and progesterone receptors; no HER2 amplification; Lymphovascular invasion; PET/CT: hepatic, pleural, abdominal wall metastases; Chest CT: SVC invasion; Biopsy: metastatic malignant AME"
+        },
+        "Diagnosis": "Malignant Adenomyoepithelioma of the Breast",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 93,
+        "Medical_Record": {
+            "Demographics": "40-year-old female; currently unemployed; previous gas station worker; married",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Sleeplessness; 2-year duration",
+            "History_of_Present_Illness": "Reports not sleeping most nights; occasional sleep onset at 4:00 a.m. for few minutes; usual bedtime 10:00 p.m.; wake time 9:00 a.m.; irritability; recurring negative thoughts; excessive daytime sleepiness; no napping; no nightmares; no snoring; no restless leg syndrome; no prior sleep complaints before 2 years",
+            "Background": "History of AIDS (stage IV HIV infection) diagnosed 13 years ago; poor antiretroviral therapy adherence; recent CD4 count 15-85/μl; HIV-RNA 10,560-24,343 copies/ml; previous appendectomy with ileostomy; history of diffuse malignant B-cell lymphoma; treated neurotoxoplasmosis 2 years ago with sulfadiazine, pyrimethamine, folinic acid, dexamethasone; on follow-up for lymphoma; no cognitive disorder; no current medications or allergies mentioned"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Normal neurological examination; no cognitive disorder",
+            "Investigations": "Brain CT: extensive hypodensity in left nucleocapsular region with ring enhancement and perilesional edema; Brain MRI: residual lesion in left nucleocapsular region; Polysomnography: sleep efficiency 74.2%, total sleep time 290 minutes, N1 16.4%, N2 36.9%, N3 27.6%, REM 19.1%, 16.6 arousals/hour, wake after sleep onset 97.5 minutes, apnea-hypopnea index 1.0/h, nadir SaO2 97%, periodic limb movements index 1.4/h"
+        },
+        "Diagnosis": "Sleep state misperception",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 94,
+        "Medical_Record": {
+            "Demographics": "34-year-old male",
+            "Personality": "Emotion: Skeptical (Doubts the diagnosis, questions the doctor's logic, and asks for proof.), Speaking Style: Confused (Misunderstands questions, asks for repetition, and gives unrelated answers.)",
+            "Chief_Complaint": "Diffuse abdominal pain and body weight loss; 4-month duration",
+            "History_of_Present_Illness": "Progression over 3 months to muscle weakness, abdominal distension, nausea, vomiting, stiff painful neck swelling; previous 6-year history of fluctuating tumoral mass in left maxillary region causing mild dysphagia and limited temporomandibular joint movement; right palpebral ptosis, eyeball protrusion, chronic dry cough; daily fever, asthenia, diarrhea, profuse coughing, intense dyspnea",
+            "Background": "Pathological examination of maxillary mass showed chronic inflammatory process; transbronchial biopsy revealed chronic pneumonitis and irregular septal fibrosis; no mention of surgical history, family history, social history, medications (except steroids), allergies, immunizations, or travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Afebrile; blood pressure 120/80 mmHg; pale mucous membranes; anterior neck swelling and stiffness with local hyperemia; no palpable lymph nodes; reduced pulmonary expansion; diffuse abdominal pain; rigidity on palpation; remainder unremarkable",
+            "Investigations": "Hemoglobin 9.0 g/dL; WBC 21,390/mm3; platelet count 808,000/mm3; total bilirubin 2.89 mg/dL (direct 2.26 mg/dL); calcium 8.2 mg/dL; creatinine 0.4 mg/dL; AST 25.7 mg/dL; ALT 16.6 mg/dL; alkaline phosphatase 417 mg/dL; ANA, anti-SSA/Ro, ANCA negative; polyclonal hypergammaglobulinemia; serum IgG4 264 mg/dL (reference ≤140 mg/dL); neck ultrasonography: soft tissue swelling; abdominal ultrasonography: normal; chest radiography: bilateral parenchymal infiltration, multiple pulmonary nodules, consolidation in lower right hemithorax; maxillary biopsy: chronic inflammatory infiltrate rich in plasma cells, fibrosis, erosion; immunohistochemistry: increased IgG4-positive plasma cells (up to 55 per HPF, IgG4/IgG ratio 45%)"
+        },
+        "Diagnosis": "IgG4-related disease",
+        "Disease_Info": {
+            "Department": "Internal Medicine",
+            "is_rare": true,
+            "orphanet_name": "IgG4-related disease"
+        }
+    },
+    {
+        "id": 95,
+        "Medical_Record": {
+            "Demographics": "60-year-old male",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Bilateral hip pain and inability to walk; 5-day duration after convulsion",
+            "History_of_Present_Illness": "Onset after convulsion; progressive pain; inability to perform straight leg raising",
+            "Background": "Known epilepsy; chronic renal disease; no mention of medications, allergies, family or social history"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Bilateral hip joint tenderness; inability to perform straight leg raising",
+            "Investigations": "Anteroposterior traction X-ray of pelvis and hips shows bilateral fracture neck femur; post-operative X-ray shows precise implant positioning; serial X-rays show no aseptic loosening or subsidence"
+        },
+        "Diagnosis": "Bilateral fracture neck femur",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 96,
+        "Medical_Record": {
+            "Demographics": "62-year-old female; housewife; illiterate; married",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Restlessness, severe agitation, crying, severe anxiety, impatience, loss of energy, insomnia, irritability, verbal aggression, distraction, increased appetite, headaches, lightheadedness, severe shivering, increased craving for higher dosage of opium; onset after abrupt discontinuation of zolpidem",
+            "History_of_Present_Illness": "Abrupt zolpidem discontinuation; symptoms developed; history of zolpidem use for insomnia for two years; self-titrated dosage up to 570 mg per day; symptoms improved with increased zolpidem; opium use for one year, abstinent for four years, resumed oral opium use during last year; simultaneous use of opium and zolpidem for relaxing and euphoric effects; symptoms onset within one month of quitting abusive substance",
+            "Background": "Major Depressive Disorder for five years; never managed psychiatrically; zolpidem prescribed by general physician; opium dependency; no reported allergies; no surgical history; no family history provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "",
+            "Investigations": "CBC normal; biochemistry test normal; thyroid test normal; MRI normal; electrocardiography normal; echocardiography normal; urine test normal; urine screening positive for opium"
+        },
+        "Diagnosis": "Zolpidem withdrawal syndrome, Major Depressive Disorder, Opium dependency",
+        "Disease_Info": {
+            "Department": "Psychiatry",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 97,
+        "Medical_Record": {
+            "Demographics": "12-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Hesitant (Uses fillers like 'um' or 'maybe', pauses often, and avoids direct commitment.)",
+            "Chief_Complaint": "Recurrent episodes of pneumonia; several years duration",
+            "History_of_Present_Illness": "History of recurrent aspiration pneumonia; inability to produce tears since infancy; halitosis and vomiting with retained food since age 4; difficulty swallowing; growth retardation; recurrence of dysphagia and pneumonia after initial surgical treatment",
+            "Background": "Consanguineous parents; one healthy sibling; born by natural vaginal delivery at term; birth weight 2750 g; previous admissions for pneumonia; prior diagnosis of achalasia; underwent esophago-cardiomyotomy; no mention of medications, allergies, or other contextual data"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Weight 34 kg; height 104 cm; blood pressure 80/60 mmHg (left arm), 85/60 mmHg (right arm); slight nail plate pigmentation; short stature; light hyperpigmentation in nail beds; easy fatigability",
+            "Investigations": "Barium swallow: dilated esophagus with distal narrowing and barium stasis; EGD: dilated esophagus with retained food; high resolution manometry: normal LES resting pressure, incomplete relaxation, prolonged IRP, raised intrabolus pressure; baseline serum cortisol 6 μg/dl (low); baseline ACTH 126 pg/ml (elevated); ACTH stimulation test: cortisol 12 μg/dl (low); Schirmer's test: wetting 3 mm (right), 2.5 mm (left) in 5 minutes (low)"
+        },
+        "Diagnosis": "Triple A syndrome",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "Triple A syndrome"
+        }
+    },
+    {
+        "id": 98,
+        "Medical_Record": {
+            "Demographics": "35-year-old male",
+            "Personality": "Emotion: Calm (Responds objectively, focuses on facts, and keeps a steady tone.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Rapidly enlarging anterior neck swelling; 4-month duration",
+            "History_of_Present_Illness": "Long-standing painless anterior neck swelling for 10 years; rapid increase in size over 4 months after blunt trauma to anterior neck; no dysphagia; no respiratory distress; no hoarseness; no constitutional symptoms; no symptoms of hypo- or hyperthyroidism",
+            "Background": "No external injuries after trauma; no significant past medical history stated; no family or social history stated; no medication or allergy information provided"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Large anterior neck mass extending from mandible to sternal notch; soft; non-tender; smooth surface; no skin discoloration; mobility on swallowing or tongue protrusion difficult to assess; comfortable; no airway compromise or pharyngeal wall compression on laryngoscopy",
+            "Investigations": "Thyroid function test: euthyroid; CECT neck: large, well-capsulated cystic mass (9.3 x 9.0 x 10.7 cm) attached to hyoid bone; thyroid gland in normal position; FNAC: cystic content, no malignancy; histology: confirmed thyroglossal duct cyst"
+        },
+        "Diagnosis": "Thyroglossal duct cyst",
+        "Disease_Info": {
+            "Department": "Surgery",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    },
+    {
+        "id": 99,
+        "Medical_Record": {
+            "Demographics": "13-year-old male",
+            "Personality": "Emotion: Frustrated (Complains about symptoms, challenges the doctor's questions, and sounds irritable.), Speaking Style: Verbose (Over-explains, includes irrelevant backstory, and rambles off-topic.)",
+            "Chief_Complaint": "Tall stature; duration not specified",
+            "History_of_Present_Illness": "Tall stature noted; no remarkable medical history; no family history of similar conditions",
+            "Background": "Born large for gestational age; birth weight 4,000 g at 40 weeks; father's height 188 cm (above 97th percentile); mother's height 164 cm (50th-75th percentile); midparental height 182.5 cm (90th-95th percentile); no significant past medical history; no surgical history; no reported medications or allergies"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Height 184.4 cm (above 97th percentile); weight 78 kg (above 97th percentile); BMI 22.94 kg/m2 (75th-90th percentile); Tanner stage P3; testicular volumes 10 mL bilaterally; no signs of Marfan syndrome; no pes cavus, genu valgum, pectus excavatum, or pectus carinatum",
+            "Investigations": "Normal complete blood count, routine chemistry, urine analysis, thyroid function, IGF-I, IGFBP-3; oral glucose tolerance test with suppressed GH (<0.1 ng/mL); normal tandem mass and urine organic acid tests; bone age consistent with chronological age; predicted adult height ~200 cm; sella MRI: Rathke's cleft cyst (2 mm) in pars intermedia; normal echocardiogram; normal visual field analysis; chromosome test: 47,XYY karyotype"
+        },
+        "Diagnosis": "XYY syndrome",
+        "Disease_Info": {
+            "Department": "Pediatrics",
+            "is_rare": true,
+            "orphanet_name": "47,XYY syndrome"
+        }
+    },
+    {
+        "id": 100,
+        "Medical_Record": {
+            "Demographics": "25-year-old female",
+            "Personality": "Emotion: Anxious (Seeks reassurance, asks repetitive questions, and fixates on worst-case scenarios.), Speaking Style: Forgetful (Mixes up dates, frequently says 'I don't recall', and gives vague details.)",
+            "Chief_Complaint": "Primary infertility; 2-year duration",
+            "History_of_Present_Illness": "History of menarche at 18 years; irregular menses every 3–4 months lasting 2–3 days for initial 2–3 years; withdrawal bleeding only after sequential estrogen and progesterone therapy; unsuccessful ovulation induction and IVF with ovum donation",
+            "Background": "No occupation stated; laparohysteroscopy showed small-sized uterus, normal fallopian tubes, bilateral small ovaries; normal female external genitalia and breast development Tanner Stage 3; hormone levels: FSH 43.14 mIU/ml, LH 36.23 mIU/ml, TSH 3.08 μIU/ml, prolactin 3.21 ng/ml, AMH 0.27 ng/ml, testosterone 0.52 ng/ml; karyotype 46XY; family history: younger sister with similar presentation; no data on medications, allergies, immunizations, travel"
+        },
+        "Clinical_Findings": {
+            "Physical_Examination": "Normal female external genitalia; breast development Tanner Stage 3",
+            "Investigations": "Laparohysteroscopy: small-sized uterus, normal fallopian tubes, bilateral small ovaries; hormone levels: FSH 43.14 mIU/ml, LH 36.23 mIU/ml, TSH 3.08 μIU/ml, prolactin 3.21 ng/ml, AMH 0.27 ng/ml, testosterone 0.52 ng/ml; karyotype: 46XY; ultrasound: hypoplastic uterus, bilateral small ovaries; histopathology: dysgenetic gonads"
+        },
+        "Diagnosis": "Swyer syndrome",
+        "Disease_Info": {
+            "Department": "Obstetrics and Gynecology",
+            "is_rare": false,
+            "orphanet_name": null
+        }
+    }
+]
