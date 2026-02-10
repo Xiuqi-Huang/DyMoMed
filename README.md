@@ -1,12 +1,5 @@
 # DyMoMed
 
-# workflow文件夹中为流程运行的代码，实际运行可参考readme_workflow.md，交互流程运行run_inter.sh，评估运行run_eval.sh.
-
-# data文件夹中为数据处理的代码和使用的数据.其中clinic100.json\mtmed100.json\pmc100.json为我们处理好的数据.
-
-
-# DyMoMed: A Multi-Path Reasoning Agent with Dynamic Goal Adaptation
-
 This repository contains the code and data for the paper: **"DyMoMed: A Multi-Path Reasoning Agent with Dynamic Goal Adaptation for Multi-Objective Medical Dialogue under Imperfect Patient-Reported Information."**
 
 ## 📂 Code Structure & Usage
